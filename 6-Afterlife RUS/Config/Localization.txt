@@ -1,0 +1,2904 @@
+Key,Russian
+,
+# General / Miscellaneous {{{,
+AL_LK_Buffs,Баффы
+AL_LK_Logging,Рубка дерева
+AL_LK_Mining,Горное дело
+AL_LK_Digging,Раскопки
+AL_LK_Construction,Строительство и ремонт
+AL_LK_Salvage,Разбор на детали
+AL_LK_Healing,Лечение
+,
+AL_LK_RemoveBracketed,[ffc070][Удалить][-]
+,
+AL_LK_AlcoholismName,Алкоголизм
+AL_LK_AlcoholismDesc,Вы выпили слишком много. Но вам нужно больше.
+,
+AL_LK_EquipSlotLight,Свет
+AL_LK_Survive,Выживать
+AL_LK_Unlocked,Разблокировано
+AL_LK_JournalEntries,Записи в журнале
+AL_LK_Capacity,Ёмкость
+AL_LK_HealthRegen,[ff8080]Регенерация здоровья[-]
+,
+lblCategoryPerkBooks,Книги умений
+lblCategoryCraftingMagazines,Журналы по крафту
+lblCategoryWriting,Письмо
+,
+AL_LK_StoneTools,Каменные инструменты
+AL_LK_ScrapTools,Инструменты из лома
+AL_LK_BronzeTools,[e6a372]Бронзовые инструменты[-]
+AL_LK_IronTools,Железные инструменты
+AL_LK_SteelTools,Стальные инструменты
+,
+AL_LK_ElectronicsT1,Электроника Урв 1
+AL_LK_ElectronicsT2,Электроника Урв 2
+AL_LK_ElectronicsT3,Электроника Урв 3
+,
+AL_LK_CanBePickedUp,[80ff80]Можно подобрать[-]
+blockcommand_pickup,[408040]Подобрать[-]
+,
+AL_LK_ZInfectionIncrease0,[808080]Незначительное[-]
+AL_LK_ZInfectionIncrease1,[ffc0c0]Малое[-]
+AL_LK_ZInfectionIncrease2,[ff8080]Среднее[-]
+AL_LK_ZInfectionIncrease3,[ff4040]Сильное[-]
+AL_LK_ZInfectionIncrease4,[ff0000]Огромное[-]
+AL_LK_ZInfectionIncrease5,[aa0000]Экстрим[-]
+,
+AL_LK_RainCatcher,Сборщик дождевой воды
+AL_LK_EffectsColon,[ffc070]Эффекты:[-]
+,
+AL_LK_TurnedPenalty,[ff4040]Вы обратились.[-]
+AL_LK_RemoveTools,В нём всё ещё есть инструменты.
+AL_LK_QueueNotEmpty,Это пока ещё создаётся
+AL_LK_FuelNotEmpty,В нём ещё есть топливо.
+AL_LK_ContainerNotEmpty,Не пусто.
+,
+AL_LK_BasicApparel,Основная одежда
+AL_LK_Shirts,Рубашки
+AL_LK_Headwear,Головной убор
+AL_LK_Booties,Ботинки
+AL_LK_Denim,Джинсовая одежда
+AL_LK_RunningShoes,Беговая обувь
+AL_LK_Military,Военная одежда
+AL_LK_PocketMods,Карманные моды
+AL_LK_Suitwear,Костюмная одежда
+AL_LK_Goth,Готическая мода
+AL_LK_Coats,Пальто
+AL_LK_SportsShoes,Спортивная обувь
+AL_LK_Hazmat,Хазмат
+,
+AL_LK_JournalEntries,Записи в журнале
+AL_LK_Heat,Нагрев
+,
+AL_LK_ReceivedWorkstationXP,Вы получили опыт навыка [ffc070]рабочие станции[-].[-]
+,
+AL_LK_MeleeWeapons,Оружие ближнего боя
+AL_LK_RangedWeapons,Оружие дальнего боя
+AL_LK_Ammo,Боеприпасы
+,
+AL_LK_ClothHatScrapHelmet,Тканевая шляпа и шлем из металлолома
+AL_LK_ClothScrapGloves,Тканевые и металлоломные перчатки
+AL_LK_ClothScrapBoots,Тканевые и металлоломные ботинки
+AL_LK_ClothJacketScrapChest,Тканевая куртка и нагрудник из металлолома
+AL_LK_LeatherHoodIronHelmet,Кожаный капюшон и железный шлем
+AL_LK_LeatherIronGloves,Кожаные и железные перчатки
+AL_LK_LeatherIronBoots,Кожаные и железные сапоги
+AL_LK_LeatherIronPants,Кожаные и железные поножи
+AL_LK_LeatherIronChest,Кожаный и железный нагрудник
+AL_LK_MilitarySteelHelmet,Военный и стальной шлем
+AL_LK_MilitarySteelGloves,Военные и стальные перчатки
+AL_LK_MilitarySteelBoots,Военные и стальные ботинки
+AL_LK_MilitarySteelLegs,Военные и стальные поножи
+AL_LK_MilitaryVestSteelChest,Военный жилет и стальной нагрудник
+,
+AL_LK_Workstation,Рабочая станция
+AL_LK_Tool,Инструмент
+AL_LK_None,Нет
+AL_LK_RequiredWorkstation,Требуется рабочая станция
+AL_LK_RequiredTool,Требуется инструмент
+,
+AL_LK_Using,Используется
+AL_LK_UsingInf,использовать
+AL_LK_Applying,Применение
+AL_LK_ApplyingInf,применить
+AL_LK_Eating,Приём пищи:
+AL_LK_EatingInf,съесть
+AL_LK_Drinking,Приём жидкости:
+AL_LK_DrinkingInf,выпить
+AL_LK_Taking,Употребление:
+AL_LK_TakingInf,принять
+AL_LK_Reading,Чтение:
+AL_LK_ReadingInf,прочитать
+AL_LK_Gathering,Сбор
+AL_LK_General,Общий
+AL_LK_Vitality,Жизнестойкость
+AL_LK_Combat,Бой
+AL_LK_Crafting,Изготовление
+AL_LK_Survival,Выживание
+AL_LK_Mobility,Мобильность
+AL_LK_ZombieKills,Убийства зомби
+,
+AL_LK_ContainerFull,Контейнер полон.
+AL_LK_LiquidContainer,[77f4ff]Контейнер для жидкости[-]
+AL_LK_Weight,Вес (кг)
+AL_LK_IndividualWeight,Индивидуальный вес (кг)
+AL_LK_StackWeight,Вес стека (кг)
+AL_LK_Sobering,Отрезвление
+AL_LK_Supports,Поддерживает
+AL_LK_WetnessResistance,Влагостойкость
+,
+AL_LK_ZInfectionTestInfected,"Результат набора показывает, что [dd0000]вы заражены[-]."
+AL_LK_ZInfectionTestNotInfected,"Результат набора показывает, что вы [00ff00]не заражены[-]."
+AL_LK_ZInfectionTestOtherInfected,"Результат набора показывает, что [dd0000]они заражены[-]."
+AL_LK_ZInfectionTestOtherNotInfected,"Результат набора показывает, что они [00ff00]не заражены[-]."
+,
+AL_LK_ZInfectionObvious,"Теперь очевидно, что [dd0000]вы заражены[-]."
+,
+AL_LK_SortByWeight,Сортировать по весу [bbbbbb](по убыванию)[-]
+,
+AL_LK_HitSeveral,[ffc070]Ударить несколько[-]
+AL_LK_Backstab,[ffc070]Удар в спину[-]
+AL_LK_PowerAttack,[ffc070]Мощная атака[-]
+AL_LK_LongReach,[ffc070]Дальний охват[-]
+,
+AL_LK_Unconscious,[404040]Бессознательное[-]
+# }}},
+,
+# Craft Area to Block Name Translation,
+distillery,AL_Block_WorkstationDistillery
+advanced_furnace,AL_Block_WorkstationAdvancedFurnace
+mortar_and_pestle,AL_Block_WorkstationMortarAndPestle
+kiln,AL_Block_WorkstationKiln
+research_desk,AL_Block_WorkstationResearchDesk
+dye_tub,AL_Block_WorkstationDyeTub
+charcoal_kiln,AL_Block_WorkstationCharcoalKiln
+,
+# Item Stats Display {{{,
+AL_LK_StoneBoulderBasher,Крушитель валунов
+,
+AL_LK_Knife,Нож
+AL_LK_Spear,Копьё
+AL_LK_Club,Дубинка
+AL_LK_Clubs,Дубины
+AL_LK_Sword,Мечи
+AL_LK_Sledgehammer,Кувалда
+AL_LK_Thrown,Метательное
+AL_LK_Fisticuffs,Кулачные бои
+,
+AL_LK_Crossbows,Арбалеты
+AL_LK_Archery,Стрельба из лука
+,
+AL_LK_Pickaxe,Кирка
+AL_LK_Axe,Топор
+AL_LK_Shovel,Лопата
+,
+AL_LK_Pickaxes,Кирки
+AL_LK_Axes,Топоры
+AL_LK_Shovels,Лопаты
+,
+AL_LK_Shotgun,Дробовик
+AL_LK_Pistol,Пистолет
+AL_LK_Rifle,Винтовка
+AL_LK_SMG,Пистолет-пулемёт
+AL_LK_LMG,Лёгкий пулемёт
+AL_LK_AssaultRifles,Штурмовая винтовка
+,
+AL_LK_Yes,Да
+AL_LK_No,Нет
+# }}},
+,
+# Tags {{{,
+AL_Tag_CollapsedWorkstation,Разрушенный верстак
+,
+AL_ItemType_Melee,Оружие ближнего боя
+AL_ItemType_Ranged,Оружие дальнего боя
+AL_ItemType_Thrown,Метательное оружие
+AL_ItemType_Pickaxes,Кирка
+AL_ItemType_Guns,Онестрельное оружие
+AL_ItemType_Axes,Топор
+AL_ItemType_Shovel,Лопата
+AL_ItemType_Club,Дубинка
+AL_ItemType_Baton,Жезл
+AL_ItemType_Sledgehammer,Кувалда
+AL_ItemType_Knife,Нож
+AL_ItemType_Sword,Меч
+AL_ItemType_Polearm,Древковое оружие
+AL_ItemType_Spear,Копьё
+AL_ItemType_Knuckles,Кастеты
+AL_ItemType_Pickaxe,Кирка
+,
+AL_ItemType_Pistol,Пистолет
+AL_ItemType_Magnum,Магнум
+AL_ItemType_Shotgun,Дробовик
+AL_ItemType_Rifle,Винтовка
+AL_ItemType_SMG,Пистолет-пулемёт
+AL_ItemType_LMG,Лёгкий пулемёт
+AL_ItemType_AssaultRifle,Штурмовая винтовка
+,
+AL_ItemType_Bow,Лук
+AL_ItemType_Crossbow,Арбалет
+,
+AL_ItemType_ConstructionTool,Строительный инструмент
+AL_ItemType_MiningTool,Шахтёрский инструмент
+AL_ItemType_DiggingTool,Инструмент для копания
+AL_ItemType_LoggingTool,Инструмент для рубки
+AL_ItemType_MotorTool,Моторный инструмент
+AL_ItemType_SalvageTool,Инструмент для разбора
+,
+AL_Tag_BlockType_LoggingTarget,Цель рубки
+AL_Tag_BlockType_MiningTarget,Цель добычи
+AL_Tag_BlockType_DiggingTarget,Цель копки
+AL_Tag_BlockType_ButcheringTarget,Цель свежевания
+,
+AL_AffectedByActionSkill_Butchering,Клинками по трупам
+AL_AffectedByActionSkill_ThrownWeapons,Метательное оружие
+AL_AffectedByActionSkill_Pickaxes,Кирки
+AL_AffectedByActionSkill_Guns,Пушки
+AL_AffectedByActionSkill_Axes,Топоры
+AL_AffectedByActionSkill_Shovels,Лопаты
+AL_AffectedByActionSkill_Clubbing,Дубинки
+AL_AffectedByActionSkill_Sledgehammers,Кувалды
+AL_AffectedByActionSkill_Knives,Ножи
+AL_AffectedByActionSkill_Swordsmanship,Фехтование
+AL_AffectedByActionSkill_Polearms,Древковое оружие
+AL_AffectedByActionSkill_Spears,Копья
+AL_AffectedByActionSkill_Fisticuffs,Кулачные бои
+AL_AffectedByActionSkill_Archery,Стрельба из лука
+AL_AffectedByActionSkill_Bows,Луки
+AL_AffectedByActionSkill_Crossbows,Арбалеты
+,
+AL_AffectedByActionSkill_Pistols,Пистолеты
+AL_AffectedByActionSkill_Magnums,Магнумы
+AL_AffectedByActionSkill_Shotguns,Дробовики
+AL_AffectedByActionSkill_Rifles,Винтовки
+AL_AffectedByActionSkill_SMGs,Пистолеты-пулемёты
+AL_AffectedByActionSkill_LMGs,Ручные пулемёты
+AL_AffectedByActionSkill_AssaultRifles,Штурмовые винтовки
+,
+AL_AffectedByActionSkill_Logging,Инструменты для рубки
+AL_AffectedByActionSkill_Mining,Шахтёрские инструменты
+AL_AffectedByActionSkill_Digging,Инструменты для копания
+AL_AffectedByActionSkill_Salvaging,Инструменты для разбора
+AL_AffectedByActionSkill_ConstructionTools,Строительные инструменты
+# }}},
+,
+AL_LK_CategoryTools,Инструменты
+AL_LK_CategoryTraps,Ловушки
+AL_LK_CategoryAmmo,Боеприпасы
+AL_LK_CategoryWorkstations,Рабочие станции
+,
+# Items {{{,
+AL_Item_Kukri,[ffc070]Кукри[-]
+AL_Item_KukriDesc,"Интересно, получится ли из него бумеранг?"
+,
+AL_Item_SolidStateDrive,[ffc070]Твердотельный накопитель[-]
+AL_Item_SolidStateDriveDesc,"Невероятно быстрый твердотельный накопитель. Вероятно, там есть порнушка."
+,
+AL_Item_BronzeArrow,[ffc070]Бронзовая стрела[-]
+AL_Item_BronzeArrowDesc,"Стрела с бронзовым наконечником. Не так хороша, как железная или стальная, но уж точно лучше каменной."
+,
+AL_Item_BronzeBolt,[ffc070]Бронзовый болт[-]
+AL_Item_BronzeBoltDesc,"Болт с бронзовым наконечником. Не так хорош, как железный или стальной, но уж точно лучше каменного."
+,
+AL_Item_BronzeKnuckles,[ffc070]Бронзовые кастеты[-]
+AL_Item_BronzeKnucklesDesc,"Бронзовые кастеты. Хоть и небольшие, но бьют."
+,
+AL_Item_BronzeSledgehammer,[ffc070]Бронзовая кувалда[-]
+AL_Item_BronzeSledgehammerDesc,"Время работы молотом, как в 3300 году до нашей эры!"
+,
+AL_Item_BronzeWarhammer,[ffc070]Бронзовый боевой молот[-]
+AL_Item_BronzeWarhammerDesc,В мрачной тьме ближайшего будущего есть только зомби.
+,
+AL_Item_BronzeKnife,[ffc070]Бронзовый нож[-]
+AL_Item_BronzeKnifeDesc,Ваш повседневный практичный бронзовый приятель.
+,
+AL_Item_BronzeSpear,[ffc070]Бронзовое копьё[-]
+AL_Item_BronzeSpearDesc,"Довольно длинное бронзовое копьё, отлично подходящее для тыкания в тех, от кого вы не хотите получать ответные тычки!"
+,
+AL_Item_BronzeArrowhead,[ffc070]Бронзовый наконечник[-]
+AL_Item_BronzeArrowheadDesc,"Бронзовый наконечник стрелы, готовый превратиться в стрелу или болт."
+,
+AL_Item_BronzeAnvil,[ffc070]Бронзовая наковальня[-]
+AL_Item_BronzeAnvilDesc,Может быть установлена в кузнице для ковки бронзы.
+,
+AL_Item_AdvancedCrucible,[ffc070]Продвинутый тигель[-]
+AL_Item_AdvancedCrucibleDesc,"Усовершенствованный тигель - важнейшая часть усовершенствованной плавки, позволяющая отливать из сверхпрочных сплавов, для сжижения которых требуются адские температуры. Может быть установлен в кузнице."
+,
+AL_Item_RaincoatJacket,[ffc070]Куртка-дождевик[-]
+AL_Item_RaincoatJacketDesc,"Эта куртка-дождевик создана из лоскутов и не позволит вам полностью остаться сухим, но она поможет."
+,
+AL_Item_RaincoatHood,[ffc070]Капюшон дождевика[-]
+AL_Item_RaincoatHoodDesc,"Этот капюшон от дождевика может немного испортить ваши безупречные волосы, но зато не даст им промокнуть."
+,
+AL_Item_FryingPan,[ffc070]Сковорода[-]
+AL_Item_FryingPanDesc,Бзынь!
+,
+AL_Item_ScrapSpear,[ffc070]Копьё из металлолома[-]
+AL_Item_ScrapSpearDesc,Это лишь способ дотянуться до дальней цели.
+,
+AL_Item_ScrapKnuckles,[ffc070]Кастеты из металлолома[-]
+AL_Item_ScrapKnucklesDesc,Теперь им крышка!
+,
+AL_Item_WoodenBucketEmpty,[ffc070]Деревянное ведро[-] [815500](Грязная зараженная вода)[-]
+AL_Item_WoodenBucketEmptyDesc,"Деревянное ведро, с помощью которого можно набирать воду и складывать ее в другое место. [bbbbbb]Поддерживает только грязную заражённую воду.[-]"
+,
+AL_Item_WoodenBucketMid,[ffc070]Деревянное ведро[-] [815500](Грязная заражённая вода)[-]
+AL_Item_WoodenBucketMidDesc,"Деревянное ведро, полное очень плохой воды. Очень очень плохой. Самая плохая вода в округе, можно сказать."
+,
+AL_Item_WoodenBucketFull,[ffc070]Полное деревянное ведро [815500](Грязная заражённая вода)[-]
+AL_Item_WoodenBucketFullDesc,"Деревянное ведро, полное очень плохой воды. Очень очень плохой. Самая плохая вода в округе, можно сказать."
+,
+AL_Item_BronzeBucketEmpty,[ffc070]Бронзовое ведро[-]
+AL_Item_BronzeBucketEmptyDesc,"Бронзовое ведро, с помощью которого можно набирать воду и складывать ее в другое место. [bbbbbb]Поддерживает только грязную заражённую воду.[-]"
+,
+AL_Item_BronzeBucketMid,[ffc070]Бронзовое ведро[-] [815500](Грязная заражённая вода)[-]
+AL_Item_BronzeBucketMidDesc,"Бронзовое ведро, полное очень плохой воды. Очень очень плохой. Самая плохая вода в округе, можно сказать."
+,
+AL_Item_BronzeBucketFull,[ffc070]Полное бронзовое ведро [815500](Грязная заражённая вода)[-]
+AL_Item_BronzeBucketFullDesc,"Бронзовое ведро, полное очень плохой воды. Очень очень плохой. Самая плохая вода в округе, можно сказать."
+,
+AL_Item_ScrapShovel,[ffc070]Лопата из металлолома[-]
+AL_Item_ScrapShovelDesc,"Лопата, собранная из вторсырья и металлоломных частей. Если ржавчина не сильно разъела её, то сойдёт."
+,
+AL_Item_ScrapPickaxe,[ffc070]Кирка из металлолома[-]
+AL_Item_ScrapPickaxeDesc,"Выглядит будто вот-вот развалится, но ещё на несколько камнеё её должно хватить."
+,
+AL_Item_ScrapSledgehammer,[ffc070]Кувалда из маталлолома[-]
+AL_Item_ScrapSledgehammerDesc,"Несколько труб, клейкая лента и разный хлам - и вот у вас уже есть большая разбивалка."
+,
+AL_Item_InconelKnife,[ffc070]Нож из инконеля[-]
+AL_Item_InconelKnifeDesc,Небольшой нож с клинком из чистого инконеля и полимерной рукоятью.
+,
+AL_Item_InconelGreatHammer,[ffc070]Большой молот из инконеля[-]
+AL_Item_InconelGreatHammerDesc,"Мощный и увесистый двуручный молот из лучшего суперсплава, который у нас есть."
+,
+AL_Item_InconelMace,[ffc070]Булава из инконеля[-]
+AL_Item_InconelMaceDesc,Удивительно современно выглядящая булава из суперсплава инконель.
+,
+AL_Item_InconelSpear,[ffc070]Копьё из инконеля[-]
+AL_Item_InconelSpearDesc,"Оно длинное и впечатляюще крепкое, но ему не хватает обхвата."
+,
+AL_Item_InconelKnuckles,[ffc070]Кастеты из инконеля[-]
+AL_Item_InconelKnucklesDesc,"Если вы когда-нибудь хотели врезать зомби по лицу сверхпрочным сплавом космической эры, то вы попали в нужный апокалипсис."
+,
+AL_Item_InconelShovel,[ffc070]Лопата из инконеля[-]
+AL_Item_InconelShovelDesc,"Это сверхпрочный сплав космического происхождения, что делает эту лопату инструментом для терраформирования."
+,
+AL_Item_InconelAxe,[ffc070]Топор из инконеля[-]
+AL_Item_InconelAxeDesc,
+,
+AL_Item_InconelPickaxe,[ffc070]Кирка из инконеля[-]
+AL_Item_InconelPickaxeDesc,
+,
+AL_Item_BronzeAxe,[ffc070]Бронзовый топор[-]
+AL_Item_BronzeAxeDesc,"Бронзовый топор, лучше каменного, хуже железного."
+,
+AL_Item_BronzePickaxe,[ffc070]Бронзовая кирка[-]
+AL_Item_BronzePickaxeDesc,Удары по камню острой бронзой лучше ударов острым камнем.
+,
+AL_Item_BronzeShovel,[ffc070]Бронзовая лопата[-]
+AL_Item_BronzeShovelDesc,"Бронзовая лопата, лучше каменной, хуже железной."
+,
+AL_Item_Shiv,[ffc070]Заточка[-]
+AL_Item_ShivDesc,"Возьмите какую-нибудь острую вещь и держите её как нож, и вы получите заточку."
+,
+AL_Item_ZVirusTestingKit,[ffc070]Набор для тестирования зомби инфекции[-]
+AL_Item_ZVirusTestingKitDesc,"Его можно использовать, чтобы узнать, заражены ли вы, прежде чем это станет слишком очевидным."
+,
+AL_Item_Vodka,[ffc070]Водка[-]
+AL_Item_VodkaDesc,Вот\nО чём\nДумает\nКаждый\nАлкоголик
+,
+AL_Item_Trinkermeister,[ffc070]Тринкермейстер[-]
+AL_Item_TrinkermeisterDesc,"Когда все остальные в отключке, ты — Тринкермейстер!"
+,
+AL_Item_Umbrella,[ffc070]Зонтик[-]
+AL_Item_UmbrellaDesc,"Когда на улице ливень, а квота на зомби в помещении безвозмездно превышена, возьмите зонтик."
+,
+bucketEmpty,Ведро
+bucketEmptyDesc,"Ведро, с помощью которого можно набирать воду и складывать её в другое место. [bbbbbb] Поддерживает только грязную заражённую воду.[-]"
+,
+bucketRiverWater,Ведро [815500](Грязная заражённая вода)[-]
+bucketRiverWaterDesc,"Ведро, полное очень плохой воды. Очень очень плохой. Самая плохая вода в округе, можно сказать."
+,
+AL_Item_BucketFull,[ffc070]Полное ведро [815500](Грязная заражённая вода)[-]
+AL_Item_BucketFullDesc,"Ведро, полное очень плохой воды. Очень очень плохой. Самая плохая вода в округе, можно сказать."
+,
+AL_Item_JarFuel,[ffc070]Топливо[-]
+AL_Item_JarFuelDesc,"Банка с топливом, также известным как бензин. Не вздумайте пить."
+,
+AL_Item_JerryCan,[ffc070]Канистра[-]
+AL_Item_JerryCanDesc,"Старая добрая канистра, апокалиптически знаковая.\n\n[bbbbbb]Экипируйте и удерживайте левую кнопку мыши на источнике топлива, чтобы наполнить канистру.\nЭкипируйте и удерживайте правую кнопку мыши, чтобы заправить транспортное средство или налить топливо в контейнер.\nПоддерживает только топливо.[-]"
+,
+AL_Item_JarEmpty,Пустая банка
+AL_Item_JarEmptyDesc,Может использоваться для сбора воды из природных источников или сбора жидкости из ёмкостей.
+,
+AL_Item_Schnapps,[ffc070]Шнапс[-]
+AL_Item_SchnappsDesc,"Шнапс. Фруктовый, травянистый, пряный, сиропообразный, ароматный ликёр. Он сразит вас наповал."
+,
+AL_Item_TestKnife,[ff00ff]Тестовый нож[-]
+AL_Item_TestKnifeDesc,Чик-чик!
+,
+AL_Item_FlatTireSmall,[ffc070]Маленькое спущенное колесо[-]
+AL_Item_FlatTireSmallDesc,НАДО СДЕЛАТЬ
+,
+AL_Item_FlatTireLarge,[ffc070]Большое спущенное колесо[-]
+AL_Item_FlatTireLargeDesc,НАДО СДЕЛАТЬ
+,
+AL_Item_Tarp,[ffc070]Брезент[-]
+AL_Item_TarpDesc,Брезент как брезент.
+,
+AL_Item_IronBoltDismantled,Железный болт [808080](Разобран)[-]
+AL_Item_SteelAPBoltDismantled,Стальной бронебойный болт [808080](Разобран)[-]
+AL_Item_FlamingBoltDismantled,Зажигательный болт [808080](Разобран)[-]
+AL_Item_ExplodingBoltDismantled,Взрывной болт [808080](Разобран)[-]
+AL_Item_IronArrowDismantled,Железная стрела [808080](Разобрано)[-]
+AL_Item_SteelAPArrowDismantled,Стальная бронебойная стрела [808080](Разобрано)[-]
+AL_Item_FlamingArrowDismantled,Зажигательная стрела [808080](Разобрано)[-]
+AL_Item_ExplodingArrowDismantled,Взрывная стрела [808080](Разобрано)[-]
+AL_Item_PrimitiveDistillationKitIronDismantled,"Примитивный набор для очистки воды [808080](железный, разобранный)[-]"
+AL_Item_PrimitiveDistillationKitWoodenDismantled,"Примитивный набор для очистки воды [808080](деревянный, разобранный)[-]"
+,
+AL_Item_Sickle,[ffc070]Серп[-]
+AL_Item_SickleDesc,"[ffc070]Серп[-] - полезный инструмент, позволяющий собирать траву и урожай легче и быстрее, чем голыми руками. Однако для боя он немного непрактичен."
+,
+AL_Item_TailoringMagazine,[ffc070]Игла и нить[-]
+AL_Item_TailoringMagazineDesc,Мы позаботимся о вас с головы до ног. Каждое издание специализируется на высококачественных выкройках одежды для любителей домашнего шитья.
+,
+AL_Item_Shafts,[ffc070]Древки[-]
+AL_item_ShaftsDesc,"Длинные тонкие кусочки дерева, используемые в основном для изготовления болтов и стрел."
+,
+drinkJarBoiledWater,[c0ff00]Заражённая вода[-]
+drinkJarBoiledWaterDesc,"Эта вода была взята из источника, поражённого зомби-инфекцией, хотя это мало о чём говорит, ведь так происходит практически со всеми источниками воды. Судя по всему, её прокипятили, так что, хоть вы и не получите расстройство желудка, пить её всё равно не стоит."
+,
+drinkJarRiverWater,[c0ff00]Грязная заражённая вода[-]
+drinkJarRiverWaterDesc,"Мутная, грязная, заражённая, дерьмовая вода. Она сделает вашу задницу взрывоопасной, а смерть - быстрой."
+,
+AL_Item_Compass,[ffc070]Компас[-]
+AL_Item_CompassDesc,"Это, конечно, не Google Maps, но сгодится."
+,
+AL_Item_Guidebook,[ffc070]Наглядное пособие[-]
+AL_Item_GuidebookDesc,"Обложка этой книги удивительно чистая и назойливо яркая на фоне ржаво-пыльного беспорядка, населяющего этот мир. Она была сделана либо искусным мастером, либо сложной машиной, созданной специально для этой цели. На её поверхности видны разнообразные выступы и вставки, составляющие текстуру, придающую книге поразительный контраст. Существование и состояние книги не имеет смысла, но нет никаких подсказок, чтобы объяснить это.\n\n[bbbbbb] Вы можете разобрать этот предмет, чтобы пропустить обучающую квестовую линию и получить всё, что вы получили бы, если бы сделали это.[-]"
+,
+AL_Item_ExtremelySimpleLifeMagazine,[ffc070]Журнал «Чрезвычайно простая жизнь»[-]
+AL_Item_ExtremelySimpleLifeMagazineDesc,"Журнал удивительно чистый и яркий, как и книга, из которой он был взят. Он выглядит так, словно был напечатан всего несколько минут назад. Пролистав страницы, вы догадываетесь, что в журнале содержатся инструкции по изготовлению нескольких примитивных предметов для выживания из материалов, которые можно легко найти в дикой природе. Журнал содержит инструкции по изготовлению [ffc070]каменного топора[-][ffffff], [ffc070]каменной кирки[-][ffffff], [ffc070]каменной лопаты[-][ffffff], [ffc070]деревянной киянки[-] и [808080]примитивного лука[-]."
+,
+AL_Item_LiteratureFragments,[ffc070]Фрагменты литературы[-]
+AL_Item_LiteratureFragmentsDesc,"Различные записи и иллюстрации, содержащие широкий спектр знаний. Возможно, их можно организовать таким образом, чтобы получить полезную информацию."
+,
+AL_Item_BikerHelmet,[ffc070]Байкерский шлем[-]
+AL_Item_BikerHelmetDesc,Он создан для езды или для боя? Por que no los dos?
+,
+AL_Item_CeramicCrucible,[ffc070]Керамический тигель[-]
+AL_Item_CeramicCrucibleDesc,"Этот простой тигель, созданный из глины и огня, будет верно хранить практически любой расплавленный металл. Может быть установлен в кузнице."
+,
+AL_Item_LockpickSet,[ffc070]Набор отмычек[-]
+AL_Item_LockpickSetDesc,"Подсумок, содержащий набор отмычек. Конечно, в современную эпоху их используют только любители и профессиональные взломщики замков. Никогда не следует взламывать замок, которым не владеешь. Ага..."
+,
+AL_Item_PatchUpKit,[ffc070]Набор для починки[-]
+AL_Item_PatchUpKitDesc,"Этот примитивный набор из легкодоступных материалов поможет починить большинство вещей, но при этом уменьшит максимальную прочность отремонтированного предмета до тех пор, пока не будет проведен полноценный ремонт."
+,
+AL_Item_FreedomDye,[ffc070]Freedom Dye Master (Инструмент разработчиков)[-]
+AL_Item_FreedomDyeDesc,"Краситель, получаемый из ванны для красителей."
+,
+AL_Item_ManukaHoney,[ffc070]Мёд манука[-]
+AL_Item_ManukaHoneyDesc,"[ffc070]Мёд манука[-], как утверждают многие, укрепляет иммунную систему. А еще он очень приятен на вкус."
+,
+AL_Item_HeadLamp,[ffc070]Налобный фонарь[-]
+AL_Item_HeadLampDesc,"Когда вам нужно видеть в темноте, а также делать что-то руками, и вы по каким-то причинам не хотите использовать слот для фонарей, это весьма полезная вещь."
+,
+AL_Item_Brick,[ffc070]Кирпич[-]
+AL_Item_BrickDesc,"Обычный глиняный кирпич, отожжённый в печи, уже на подходе к строительству."
+,
+AL_Item_BrickMould,[ffc070]Форма для кирпича[-]
+AL_Item_BrickMouldDesc,"Это не более чем несколько деревяшек, соединенных вместе, чтобы получился красивый кирпич. Каждая такая форма, добавленная в [ffc070]печь[-], вдвое сокращает время производства одного кирпича."
+,
+AL_Item_Wristwatch,[ffc070]Наручные часы[-]
+AL_Item_WristwatchDesc,"Когда-то, давным-давно, во времена глупости, кто-то решил, что постоянный взгляд на солнце вредит его глазам, а потому пошёл и купил наручные часы."
+,
+AL_Item_BoneShards,[ffc070]Осколок кости[-]
+AL_Item_BoneShardsDesc,"Мелкие фрагменты и осколки кости, отколовшиеся от более крупной, неповрежденной кости."
+,
+AL_Item_Wood,[ffc070]Древесина[-]
+AL_Item_WoodDesc,"Эта [ffc070]древесина[-] представляет собой абстракцию дерева, которое было изготовлено в различных формах для использования в производстве различных изделий."
+,
+AL_Item_IronOre,[ffc070]Железо (руда)[-]
+AL_Item_IronOreDesc,"Единственный источник металлического железа, причем в удивительном изобилии. Видимо, старатели старого мира были некомпетентны или что-то в этом роде."
+,
+AL_Item_CassiteriteOre,[ffc070]Касситерит (руда)[-]
+AL_Item_CassiteriteOreDesc,Источник металлического олова и ключевой компонент в производстве бронзового сплава.
+,
+AL_Item_NitreOre,[ffc070]Селитра (руда)[-]
+AL_Item_NitreOreDesc,"Это зернистое, белое и неприметное месиво на самом деле является источником потрясающей взрывной силы."
+,
+AL_Item_BookRockHardBase,[ffc070]Журнал «Как кремень»[-] (Предмет разработчиков)
+AL_Item_BookRockHard1,[ffc070]Журнал «Как кремень»: Том 1[-]
+AL_Item_BookRockHard2,[ffc070]Журнал «Как кремень»: Том 2[-]
+AL_Item_BookRockHard3,[ffc070]Журнал «Как кремень»: Том 3[-]
+AL_Item_BookRockHard4,[ffc070]Журнал «Как кремень»: Том 4[-]
+AL_Item_BookRockHard5,[ffc070]Журнал «Как кремень»: Том 5[-]
+AL_Item_BookRockHard6,[ffc070]Журнал «Как кремень»: Том 6[-]
+AL_Item_BookRockHard7,[ffc070]Журнал «Как кремень»: Том 7[-]
+,
+AL_Item_BookRockHard1Desc,"Содержит рецепт особого сорта кофе, подходящего для шахтёрского образа жизни."
+AL_Item_BookRockHard2Desc,"Иногда ваше рвение превышает здравый смысл, и на вас обрушивается каменное небо. В этом выпуске вы найдете несколько советов о том, как сделать так, чтобы камень с неба не причинял столько боли."
+AL_Item_BookRockHard3Desc,"Сегодня ночью вы, сосунки, будете спать со своей киркой. Вы дадите своей кирке девичье имя. [РЕДАКТИРОВАНО] Ты женат на этой кирке. На этом инструменте из железа и дерева. И ты будешь ей верен! (Речь идет о техническом обслуживании)"
+AL_Item_BookRockHard4Desc,"Кажется, что при неосторожном ударе по руде можно раздробить ценную руду. В этом издании вы найдете статью о том, как этого не сделать."
+AL_Item_BookRockHard5Desc,"Этот выпуск, похоже, посвящен шахтёрским шлемам, особенно тем, что с налобными фонарями. Как их делать, как носить, как есть и т.д. Безопасность превыше всего!"
+AL_Item_BookRockHard6Desc,"В журнале есть подробная статья о том, как важно не терять влагу во время работы. Они не ошибаются. Работа в шахте - дело непростое. Особенно когда у вас остался только один выход из шахты и орда прыгает к вам сверху."
+AL_Item_BookRockHard7Desc,"В этом издании подробно описаны достоинства того, как поставить более твёрдую штуку на конец вашей твёрдой штуки."
+AL_BookGroup_RockHardDesc,Вы прям прётесь по всем этим камушкам? Тогда этот журнал для вас.
+,
+AL_Item_BookDakkaX4Vol1,[ffc070]Дакка Дакка Дакка Дакка: Том 1[-]
+AL_Item_BookDakkaX4Vol2,[ffc070]Дакка Дакка Дакка Дакка: Том 2[-]
+AL_Item_BookDakkaX4Vol3,[ffc070]Дакка Дакка Дакка Дакка: Том 3[-]
+AL_Item_BookDakkaX4Vol4,[ffc070]Дакка Дакка Дакка Дакка: Том 4[-]
+AL_Item_BookDakkaX4Vol5,[ffc070]Дакка Дакка Дакка Дакка: Том 5[-]
+AL_Item_BookDakkaX4Vol6,[ffc070]Дакка Дакка Дакка Дакка: Том 6[-]
+AL_Item_BookDakkaX4Vol7,[ffc070]Дакка Дакка Дакка Дакка: Том 7[-]
+AL_Item_BookDakkaX4Desc,"ДАККА ДАККА ДАККА ДАККА ДАККА\n
+ДАККА ДАККА ДАККА ДАККА ДАККА\n
+ДАККА ДАККА ДАККА ДАККА ДАККА\n
+ДАККА ДАККА ДАККА ДАККА ДАККА\n
+ДАККА ДАККА ДАККА ДАККА ДАККА"
+,
+AL_Item_BookWhiskeyPunchVol1,[ffc070]Виски-пунш: Том 1[-]
+AL_Item_BookWhiskeyPunchVol2,[ffc070]Виски-Пунш: Том 2[-]
+AL_Item_BookWhiskeyPunchVol3,[ffc070]Виски-Пунш: Том 3[-]
+AL_Item_BookWhiskeyPunchVol4,[ffc070]Виски-Пунш: Том 4[-]
+AL_Item_BookWhiskeyPunchVol5,[ffc070]Виски-Пунш: Том 5[-]
+AL_Item_BookWhiskeyPunchVol6,[ffc070]Виски-Пунш: Том 6[-]
+AL_Item_BookWhiskeyPunchVol7,[ffc070]Виски-Пунш: Том 7[-]
+AL_Item_BookWhiskeyPunchDesc,"Вы пытаетесь пролистать книгу, но обнаруживаете, что она полностью заполнена разнообразными неразборчивыми каракулями, фотографиями тяжелораненых, но улыбающихся мужчин и изображениями слишком большого количества алкогольных напитков."
+,
+AL_Item_BookHitItVol1,[ffc070]Бей: Том 1[-]
+AL_Item_BookHitItVol2,[ffc070]Бей: Том 2[-]
+AL_Item_BookHitItVol3,[ffc070]Бей: Том 3[-]
+AL_Item_BookHitItVol4,[ffc070]Бей: Том 4[-]
+AL_Item_BookHitItVol5,[ffc070]Бей: Том 5[-]
+AL_Item_BookHitItVol6,[ffc070]Бей: Том 6[-]
+AL_Item_BookHitItVol7,[ffc070]Бей: Том 7[-]
+AL_Item_BookHitItDesc,"Вы когда-нибудь смотрели на что-то или кого-то и думали: [i]Чёрт... Я бы ударил.[/i] Что ж, у нас есть книга для вас."
+,
+AL_Item_BookMagnuminousVol1,[ffc070]Великолепный: Том 1[-]
+AL_Item_BookMagnuminousVol2,[ffc070]Великолепный: Том 2[-]
+AL_Item_BookMagnuminousVol3,[ffc070]Великолепный: Том 3[-]
+AL_Item_BookMagnuminousVol4,[ffc070]Великолепный: Том 4[-]
+AL_Item_BookMagnuminousVol5,[ffc070]Великолепный: Том 5[-]
+AL_Item_BookMagnuminousVol6,[ffc070]Великолепный: Том 6[-]
+AL_Item_BookMagnuminousVol7,[ffc070]Великолепный: Том 7[-]
+AL_Item_BookMagnuminousDesc,НАДО СДЕЛАТЬ
+,
+AL_Item_BookYoinkVol1,[ffc070]Скоммуниздили!: Том 1[-]
+AL_Item_BookYoinkVol2,[ffc070]Скоммуниздили!: Том 2[-]
+AL_Item_BookYoinkVol3,[ffc070]Скоммуниздили!: Том 3[-]
+AL_Item_BookYoinkVol4,[ffc070]Скоммуниздили!: Том 4[-]
+AL_Item_BookYoinkVol5,[ffc070]Скоммуниздили!: Том 5[-]
+AL_Item_BookYoinkVol6,[ffc070]Скоммуниздили!: Том 6[-]
+AL_Item_BookYoinkVol7,[ffc070]Скоммуниздили!: Том 7[-]
+AL_Item_BookYoinkDesc,"Если вы похожи на меня (редактора), вы просто обожаете выхватывать всё из рук и говорите об этом при любой возможности. Эта серия книг о том, как быстро, часто и много можно скоммуниздить."
+,
+AL_Item_BookWildThingVol1,[ffc070]Дикая тварь: Том 1[-]
+AL_Item_BookWildThingVol2,[ffc070]Дикая тварь: Том 2[-]
+AL_Item_BookWildThingVol3,[ffc070]Дикая тварь: Том 3[-]
+AL_Item_BookWildThingVol4,[ffc070]Дикая тварь: Том 4[-]
+AL_Item_BookWildThingVol5,[ffc070]Дикая тварь: Том 5[-]
+AL_Item_BookWildThingVol6,[ffc070]Дикая тварь: Том 6[-]
+AL_Item_BookWildThingVol7,[ffc070]Дикая тварь: Том 7[-]
+AL_Item_BookWildThingDesc,НАДО СДЕЛАТЬ
+,
+AL_Item_OldCoin,[ffc070]Старая монета[-]
+AL_Item_OldCoinDesc,"При ближайшем рассмотрении эта обесцвеченная и покрытая пылью старая монета оказывается больше похожей на жетон казино, чем на разменную монету старого мира. Какое применение она может найти сейчас?"
+,
+AL_Item_SyphiaSpore,[ffc070]Споры сифии[-]
+AL_Item_SyphiaSporeDesc,"Этот загадочный гриб каким-то образом скрывается от посторонних глаз в дневное время. Если для того, чтобы найти их, приходится отправляться в темноту, остается только надеяться, что в них есть что-то такое, что стоит того, чтобы подвергать себя опасности, бродя по ночам."
+,
+AL_Item_SyphiaPaste,[ffc070]Сифийская паста[-]
+AL_Item_SyphiaPasteDesc,"Несколько спор грибов [ffc070]сифии[-], перемолотых в пастообразную массу. Выглядит не очень аппетитно..."
+,
+AL_Item_SyphiaSyrup,[ffc070]Сифийский сироп[-]
+AL_Item_SyphiaSyrupDesc,"В этом вязком нектаре сверкают крупинки золотисто-оранжевого оттенка. Его аромат так же привлекателен, как и внешний вид, и вы уверены, что, несмотря на густой состав, он окажется освежающим напитком."
+,
+AL_Item_WobblyShirt,[ff8080]Рубашка Уоббли[-]
+AL_Item_WobblyShirtDesc,"Чёрная футболка, украшенная эмблемой [ff8080]Интернациональных рабочих мира[-], также известных как [ff8080]Уоббли[-]. Ношение этой футболки с подходящей к ней кепкой может вдохновить людей определенного вероисповедания, будь то временное недомогание или образ жизни."
+,
+AL_Item_WobblyCap,[ff8080]Шапка работяги[-]
+AL_Item_WobblyCapDesc,"Черная кепка с логотипом [ff8080]Промышленные рабочие мира[-], также известным как [ff8080]Уоббли[-]. Надев эту кепку и подходящую к ней футболку, вы можете вдохновить ближайших работяг Уоббли."
+,
+AL_Item_WobblyPamphlet,[ff8080]Брошюра Уоббли[-]
+AL_Item_WobblyPamphletDesc,"У рабочего класса и класса работодателей нет ничего общего. Не может быть мира до тех пор, пока голод и нужда царят среди [i]миллионов[/i] рабочих людей, а немногие, составляющие класс наемных работников, имеют все блага жизни. Между этими двумя классами должна продолжаться борьба до тех пор, пока трудящиеся всего мира не объединятся в класс, не овладеют средствами производства, не отменят систему оплаты труда и не будут жить в гармонии с землей."
+,
+AL_Item_SimpleToolbelt,[ffc070]Простой пояс для инструментов[-]
+AL_Item_SimpleToolbeltDesc,Быстрый доступ? Лучший доступ.
+,
+AL_Item_Radio,[ffc070]Рация[-]
+AL_Item_RadioDesc,"Благодаря магии вихрящегося воздуха скромная [ffc070]рация[-] позволяет узнать, где находятся ваши друзья, при условии, что у них тоже есть такая рация."
+,
+AL_Item_GPS,[ffc070]Глобальная система позиционирования (GPS)[-]
+AL_Item_GPSDesc,"Удивительно и отрадно, что [ffc070]GPS[-] все еще работает в этом нашем апокалиптическом мире, но не стоит смотреть в рот дареному коню, или как там звучит это странное выражение. НАДО СДЕЛАТЬ: Подробнее."
+,
+AL_Item_SurvivalistMap,[ffc070]Карта выживальщика[-]
+AL_Item_SurvivalistMapDesc,"Чтобы знать, куда идти, нужно знать, где вы были. Обычная [ffc070] карта выживальщика[-] позволит вам записывать места, которые вы исследовали, и отмечать точки, представляющие особый интерес."
+,
+AL_Item_ScrapMetal,[ffc070]Металлолом[-]
+AL_Item_ScrapMetalDesc,"Кучка разнородных кусков малопригодного металла. Его можно переплавить, чтобы удалить примеси и получить что-то полезное."
+,
+AL_Item_Slag,[ffc070]Шлак[-]
+AL_Item_SlagDesc,"Когда смешиваются разные расплавленные металлы, получается шлак.\n\n[bbbbbb] Шлак образуется, когда [-] [ffc070]металлолом[-] [bbbbbb] не удается переплавить в отдельный металл из-за недостатка тепла для выплавки металла, содержащегося в этом куске лома. Его можно переплавить, чтобы получить достаточное количество лома для получения одной единицы отдельного металла. Обратите внимание, что (хотя это и не очень реалистично) то, что вы получите за каждую единицу лома, является вероятностным в момент плавки, так что повторная плавка шлака не будет попыткой получить первоначальный металл, который вы упустили, а скорее будет эквивалентна повторной плавке некоторого количества лома[-]."
+,
+AL_Item_ScrapAxe,[ffc070]Топор из металлолома[-]
+AL_Item_ScrapAxeDesc,"Это ржавый, заскорузлый беспорядок материалов, но лом любого металла острее камня. Возможно."
+,
+AL_Item_WholeRawChicken,[ffc070]Целая сырая курица[-]
+AL_Item_WholeRawChickenDesc,"Целая сырая, неприготовленная курица, полученная в результате неплохой разделки. Не ешьте ее в таком виде."
+,
+AL_Item_Kar98K,Маузер 98k
+AL_Item_Kar98KDesc,"Магазинная винтовка Маузер 99k также известная как Kar98k  - винтовка с продольно-скользящим затвором, стреляющая патронами калибра 7,62 мм. Во время Второй мировой войны она была штатной винтовкой вермахта. Войну они проиграли. Хорошая винтовочка."
+,
+AL_Item_StonePickaxe,[ffc070]Каменная кирка[-]
+AL_Item_StonePickaxeDesc,"Ультрасовременная каменная кирка ручной работы местного производства, изготовленная из высококачественных органических веток, камней и травы."
+,
+AL_Item_LargeStone,[ffc070]Большой камень[-]
+AL_Item_LargeStoneDesc,Этот камень - большой камень. Он бьёт более мелкие.
+,
+AL_Item_LargeSharpStone,[ffc070]Большой острый камень[-]
+AL_Item_LargeSharpStoneDesc,"Большой камень с заострённым краем. Одно из величайших технологических новшеств, появившихся в умах наших знаменитых мыслителей эпохи неолита. Если обтесать большой камень другими острыми камнями, можно получить такой же."
+,
+AL_Item_SmallSharpStone,[ffc070]Маленький острый камень[-]
+AL_Item_SmallSharpStoneDesc,"Замечено, что объекты, размеры которых невелики, обладают особой способностью разделять материю с большей эффективностью, чем объекты с более широкими размерами. Именно благодаря этому наблюдению человечество разработало маленький острый камень."
+,
+AL_Item_GarnieriteOre,[ffc070]Гарниерит (руда)[-]
+AL_Item_GarnieriteOreDesc,"[ffc070]Гарниеритовая руда[-], подобная этой, после переработки даёт металлический никель в изобилии."
+,
+AL_Item_GalenaOre,[ffc070]Галенит (руда)[-]
+AL_Item_GalenaOreDesc,Эта забавная на вид руда - главный источник свинца в этом мире. Иногда из неё также можно получить немного серебра.
+,
+AL_Item_ChromiteOre,[ffc070]Хромит (руда)[-]
+AL_Item_ChromiteOreDesc,"[ffc070]Хромитовая руда[-] в серпентинитах, таких как этот, может быть переработана в металлический хром."
+,
+AL_Item_ChalcopyriteOre,[ffc070]Халькопирит (руда)[-]
+AL_Item_ChalcopyriteOreDesc,"[ffc070]Халькопиритовая руда[-], подобная этой, является отличным источником меди."
+,
+AL_Item_Anthracite,[ffc070]Антрацит[-]
+AL_Item_AnthraciteDesc,Этот самый угольный уголь в мире заставит температуру в вашей плавильне взлететь до небес.
+,
+AL_Item_DarkDaysLager,[ffc070]Пиво Dark Days[-]
+AL_Item_DarkDaysLagerDesc,[ffc070]Пиво Dark Days[-]... Дань уважения нашим самым тёмным дням до появления зомби... Это были хорошие времена.
+,
+AL_Item_DrinkSmallBeer,[ffc070]Лёгкое пиво[-]
+AL_Item_DrinkSmallBeerDesc,"В Средние века [ffc070]лёгкое пиво[-] в огромных количествах употребляли фермеры, поскольку оно освежало и безопасно доставляло необходимые калории. Обычно оно содержит менее 1% алкоголя, так что оно не слишком полезно, если вы хотите напиться."
+,
+AL_Item_WoodenMallet,[ffc070]Деревянная киянка[-]
+AL_Item_WoodenMalletDesc,"Обычная [ffc070]деревянная киянка[-]. Простой инструмент, который можно использовать для соединения кусков дерева вместе и для множества других забавных занятий."
+,
+AL_Item_StoneMallet,[ffc070]Каменная киянка[-]
+AL_Item_StoneMalletDesc,"[ffc070]Каменная киянка[-] ненамного лучше деревянной по своим конструктивным возможностям, но она гораздо прочнее."
+,
+AL_Item_BronzeMallet,[ffc070]Бронзовая киянка[-]
+AL_Item_BronzeMalletDesc,"Первый металлический строительный инструмент и первый инструмент, способный эффективно работать с материалами, более прочными, чем палки и камни."
+,
+AL_Item_PlasticBottleEmpty,[ffc070]Пустая пластиковая бутылка[-]
+AL_Item_PlasticBottleEmptyDesc,"[ffc070]Пустая пластиковая бутылка[-]. Казалось бы, в стране первого мира, как эта, люди могут спокойно пить из крана, но нет, массовый маркетинг (он же пропаганда) создал повсеместное распространение ныне покорной пластиковой бутылки. Пустая трата ресурсов до апокалипсиса, но удобная тара после него."
+,
+AL_Item_PlasticBottleLakewater,[ffc070]Озёрная вода (пластиковая бутылка)[-]
+AL_Item_PlasticBottleLakewaterDesc,"[ffc070]Пластиковая бутылка, полная озёрной воды[-]. Решительный и минимальный тест на вкус показывает, что она солоновата, что немного странно, ведь это озёрная вода. Вероятно, в ней полно всяких гадостей вроде болезнетворных микробов и зомби-вируса."
+,
+AL_Item_PlasticBottleRiverwater,[ffc070]Речная вода (пластиковая бутылка)[-]
+AL_Item_PlasticBottleRiverwaterDesc,"[ffc070]Пластиковая бутылка, наполненная речной водой[-]. В отличие от озёрной воды, она солёная настолько, что её можно пить (она не солёная)."
+,
+AL_Item_PlasticBottleBrine,[ffc070]Рассол (пластиковая бутылка)[-]
+AL_Item_PlasticBottleBrineDesc,"[ffc070]Пластиковая бутылка, наполненная рассолом[-]. Что такое рассол? Ты не знаешь? Чёрт, ну ладно. По сути, это просто очень солёная вода. Вы можете выпить её, а можете и не пить, что тоже неплохо."
+,
+AL_Item_Water,[ffc070]Вода[-]
+AL_Item_WaterDesc,"Эта вода, вероятно, самая чистая, непорочная и безопасная из всех, что вы можете найти в наши дни. Поскольку Z-вирус живет практически в каждом водоёме, чистую воду, подобную этой, обычно можно найти только после длительного хранения в герметичном контейнере... или очистки с помощью дистилляции."
+,
+AL_Item_Salt,[ffc070]Соль[-]
+AL_Item_SaltDesc,"Это [ffc070]соль[-]! Очевидно, даже экстремофильный зомби-вирус не может выжить без небольшого количества воды, и за это спасибо, мать вашу."
+,
+AL_Item_FiberCordage,[ffc070]Волокнистая верёвка[-]
+AL_Item_FiberCordageDesc,"С тех пор как апокалипсис положил конец амбициозным программам генной инженерии, направленным на то, чтобы заставить клейкую ленту расти на деревьях, приходится довольствоваться простой [ffc070]волокнистой верёвкой[-]."
+resourceYuccaFibers,Растительные волокна
+resourceYuccaFibersDesc,"Поскольку апокалипсис положил конец амбициозным программам генной инженерии, направленным на то, чтобы заставить клейкую ленту расти на деревьях, приходится довольствоваться растительными волокнами, сплетенными в шнур."
+,
+AL_Item_FiberSlingBag,[ffc070]Сумка из волокна[-]
+AL_Item_FiberSlingBagDesc,"Эта модная вещь выполнена из экзотического травяного текстиля, а также представляет собой перевязь. Её не очень удобно носить с собой, и она, разумеется, ограничивает вашу подвижность [bbbbbb](-5%)[-], но она быстро собирается и хотя бы минимально служит своей цели."
+,
+AL_Item_FiberBackpack,[ffc070]Рюкзак из волокна[-]
+AL_Item_FiberBackpackDesc,"Эта изысканная вещь, хотя и является еще одним предметом, полученным из травы, представляет собой настоящий рюкзак в том смысле, что это рюкзак, который держится на спине. Его сборка занимает довольно много времени, но когда других вариантов нет, он становится незаменимым."
+,
+AL_Item_LeatherBackpack,[ffc070]Кожаный рюкзак[-]
+AL_Item_LeatherBackpackDesc,"В отличие от [ffc070]сумки из волокна[-], это настоящий рюкзак. Он вмещает не намного больше, но с ним гораздо удобнее передвигаться."
+,
+AL_Item_PaddedBackpack,[ffc070]Мягкий рюкзак[-]
+AL_Item_PaddedBackpackDesc,В этой жизни он максимально приближен к типичному рюкзаку.
+,
+AL_Item_ScrapPack,[ffc070]Металлоломный рюкзак[-]
+AL_Item_ScrapPackDesc,"Это всё ещё рюкзак, но он нагружен ржавыми металлическими пластинами, гайками, гвоздями, сетками и т. д. По сути, это скорее броня, а не рюкзак."
+,
+AL_Item_HikerBackpack,[ffc070]Походный рюкзак[-]
+AL_Item_HikerBackpackDesc,"Этот большой рюкзак известен среди пеших туристов и путешественников. Он вмещает много вещей, но сильно влияет на мобильность [bbbbbb](-20%)[-]."
+,
+AL_Item_MilitaryAssaultPack,[ffc070]Военный штурмовой рюкзак[-]
+AL_Item_MilitaryAssaultPackDesc,"Этот усовершенствованный рюкзак предназначен для использования пехотой в боевых условиях. Он эффективен, вмещает много груза и не влияет на мобильность."
+,
+AL_Item_MilitaryRucksack,[ffc070]Военный рюкзак[-]
+AL_Item_MilitaryRucksackDesc,"Этот усовершенствованный рюкзак был разработан для пехоты, чтобы хранить все припасы, необходимые солдату для развертывания. В таком рюкзаке хранится чертовски много, но поскольку он не особенно предназначен для мобильности [bbbbbb](-10%)[-], он слегка замедляет вас."
+,
+AL_Item_Leather,[ffc070]Кожа[-]
+AL_Item_LeatherDesc,"Несколько клочков, полосок и отрезков кожи, подвергшихся жестокой селективной обработке."
+,
+AL_Item_ScrapWood,[ffc070]Древесные отходы[-]
+AL_Item_ScrapWoodDesc,"Щепки и обломки дерева едва ли достаточно велики, чтобы сделать из них древко для стрелы. Но для поддержания огня вполне сгодятся."
+,
+AL_Item_PrimitiveJavelin,[ffc070]Примитивное копьё[-]
+AL_Item_PrimitiveJavelinDesc,"Это просто палка, но заточенная с одного конца. Если бросить её быстро, сильно и точно, она может сойти за настоящее оружие."
+,
+AL_Item_Stick,[ffc070]Палка[-]
+AL_Item_StickDesc,Это просто палка.
+,
+AL_Item_Pitch,[ffc070]Древесный пек[-]
+AL_Item_PitchDesc,"Это как клей. [i][ffc070]Клей[-] на основе смолы[/i]. Возможно, он не такой клейкий, как вам хотелось бы, но может быть настолько клейким, насколько вам нужно. Он также довольно легко воспламеняется."
+,
+AL_Item_Charcoal,[ffc070]Древесный уголь[-]
+AL_Item_CharcoalDesc,"Доступный и мощный источник топлива для тех случаев, когда вам нужно больше тепла, чем могут дать дрова."
+,
+AL_Item_CharcoalPowder,[ffc070]Угольный порошок[-]
+AL_Item_CharcoalPowderDesc,Это древесный уголь после приложения на него некоторых усилий для измельчения. Может использоваться для изготовления примитивного клея. 
+,
+AL_Item_Limestone,[ffc070]Известняк[-]
+AL_Item_LimestoneDesc,Классный.
+,
+AL_Item_LimestonePowder,[ffc070]Известняковый порошок[-]
+AL_Item_LimestonePowderDesc,"Если смешать его с водой, получится зелёное желе."
+,
+AL_Item_IngotWroughtIron,[ffc070]Слиток кованого железа[-]
+AL_Item_IngotBronze,[ffc070]Бронзовый слиток[-]
+AL_Item_IngotTin,[ffc070]Оловянный слиток[-]
+AL_Item_IngotPigIron,[ffc070]Чугунный слиток[-]
+AL_Item_IngotBrass,[ffc070]Латунный слиток[-]
+AL_Item_IngotLead,[ffc070]Свинцовый слиток[-]
+AL_Item_IngotCopper,[ffc070]Медный слиток[-]
+AL_Item_IngotChromium,[ffc070]Слиток хрома[-]
+AL_Item_IngotSteel,[ffc070]Стальной слиток[-]
+AL_Item_IngotSilver,[ffc070]Серебряный слиток[-]
+AL_Item_IngotGold,[ffc070]Золотой слиток[-]
+AL_Item_IngotNickel,[b6c0aa]Никелевый слиток[-]
+AL_Item_IngotInconel,[de927b]Круглый пруток из инконеля[-]
+AL_Item_IngotWroughtIronDesc,"Это железо, но оно не может устоять перед ковкой. Какая ирония судьбы."
+AL_Item_IngotBronzeDesc,"Слиток бронзового сплава, изготовленный из олова и меди."
+AL_Item_IngotTinDesc,"Слиток чистого олова, годный только для производства бронзы."
+AL_Item_IngotPigIronDesc,"Названный так за то, что в традиционных формах расплавленный чугун напоминал приплод поросят, чугун - это железо с высоким содержанием углерода, являющееся промежуточным продуктом в производстве стали."
+AL_Item_IngotLeadDesc,"Это свинец. Он очень плотный, очень тяжелый и годится для пуль. Не вздумай делать из него цеппелины, хорошо?"
+AL_Item_IngotCopperDesc,"Медь - довольно хлипкий металл, но она была одним из первых металлов, которые мы использовали, в частности, для производства бронзы. Для большинства целей она сильно уступила, но тем не менее является важной частью нашей истории."
+AL_Item_IngotChromiumDesc,"Крепкий, устойчивый к коррозии металл, используемый в производстве прочных сплавов."
+AL_Item_IngotSteelDesc,Вот это разговор!
+AL_Item_IngotSilverDesc,Слиток чистого серебра. Он стоил бы много...
+AL_Item_IngotGoldDesc,"Когда-то такой невероятно ценный, а теперь всего лишь блестящий гнущийся кирпич."
+AL_Item_IngotNickelDesc,Строительный блок сверхпрочных сплавов.
+AL_Item_IngotInconelDesc,"Невероятный сверхпрочный сплав космической технологии, который выдерживает давление, высокую температуру и коррозию, пожалуй, лучше, чем любой другой металл или сплав, и нам удалось создать его здесь, в разгар зомби-апокалипсиса. Поразительно."
+,
+AL_Item_Resin,[ffc070]Смола[-]
+AL_Item_ResinDesc,"[ffc070]Смола[-] - это просто липкий материал, который вы чувствуете на руке, когда опираетесь на дерево. Эта липкая древесная масса может послужить примитивным клеем, если понадобится."
+,
+AL_Item_PrimitiveMortar,[ffc070]Примитивный раствор[-]
+AL_Item_PrimitiveMortarDesc,"Это [ffc070]примитивный раствор[-] на самом деле представляет собой не что иное, как кучу легко схватываемой земляной массы, сплющенной вместе. То, что он вообще может удерживать что угодно, немного удивительно. Но это так."
+,
+AL_Item_Mortar,[ffc070]Стройраствор[-]
+AL_Item_MortarDesc,Хорош для строительства.
+,
+AL_Item_PasteRed,[ff4040]Красная[-] паста
+AL_Item_PasteGreen,[40ff40]Зеленая[-] паста
+AL_Item_PasteBlue,[4040ff]Синяя[-] паста
+AL_Item_PasteWhite,Белая паста
+AL_Item_PasteBlack,[404040]Черная[-] паста
+,
+AL_Item_PasteRedDesc,"Объективно лучший цвет, её можно использовать в красильной ванне, чтобы сделать смесь более красной."
+AL_Item_PasteBlueDesc,"Послушайте, вот история о маленьком человечке, который живет в синем мире... Её можно использовать в красильной ванне, чтобы сделать вещи более синими."
+AL_Item_PasteGreenDesc,"Если вам нравится зелёный цвет, то вам повезло. Природа тоже зелёная, и её можно растолочь в пасту, которую затем можно использовать в красильной ванне, чтобы сделать смесь более зелёной."
+AL_Item_PasteBlackDesc,"Чернее, чем сердце гота/эмо двойной классификации, её можно использовать в красильной ванне, чтобы затемнить смесь."
+AL_Item_PasteWhiteDesc,"Её можно использовать в красильной ванне, чтобы осветлить смесь."
+,
+AL_Item_BoneClub,[ffc070]Костяная дубина[-]
+AL_Item_BoneClubDesc,"Костяная дубина не сильно отличается от деревянной по своим боевым характеристикам, но она очень хороша, если вы играете пещерного человека."
+,
+AL_Item_WhiteMeatRaw,[ffc070]Белое мясо[-] [ff7c7c](Сырое)[-]
+AL_Item_WhiteMeatRawDesc,"Приличный кусок белого мяса, вероятно, из птицы. В сыром виде оно обычно еще опаснее, чем красное мясо."
+AL_Item_WhiteMeatCharred,[ffc070]Белое мясо[-] [606060](Обугленное)[-]
+AL_Item_WhiteMeatCharredDesc,"Приличный кусок белого мяса, вероятно, из птицы. Какой-то идиот пережарил его, но, по крайней мере, оно должно быть безопасным для еды."
+AL_Item_WhiteMeatBoiled,[ffc070]Белое мясо[-] [57beff](Варёное)[-]
+AL_Item_WhiteMeatBoiledDesc,"Приличный кусок белого мяса, вероятно, из птицы. Оно было тщательно проварено и должно быть безопасным для употребления, хотя и не особенно вкусным."
+AL_Item_WhiteMeatGrilled,[ffc070]Белое мясо[-] [d48b52](Жареное)[-]
+AL_Item_WhiteMeatGrilledDesc,"Приличный кусок белого мяса, вероятно, из птицы. Он был искусно поджарен на гриле. Браво."
+,
+AL_Item_Shiraz,[ffc070]Шираз[-]
+AL_Item_ShirazDesc,"Очень тёмное, очень красное, очень сухое, очень вкусное вино."
+,
+AL_Item_ImprovisedLockpick,[ffc070]Импровизированная отмычка[-]
+AL_Item_ImprovisedLockpickDesc,"Это не более чем просто проволока, закрученная особым образом, но это может сработать. [bbbbbb] Можно использовать на запертых ящиках через радиальное меню. Значительно менее эффективна, чем обычная отмычка[-]."
+,
+AL_Item_CounterfeitOldCash,[ffc070]Поддельные старые деньги[-]
+AL_Item_CounterfeitOldCashDesc,"Бедный торговый автомат никогда не догадается, что его надули!"
+}}},
+,
+# Item Modifiers {{{,
+AL_ItemMod_BatteryAAANonRechargeable,[ffc070]Батарейка AAA[-] (неперезаряжаемая)
+AL_ItemMod_BatteryAAANonRechargeableDesc,"[i]Неперезаряжаемая[/i] батарейка, мизинчиковая? Как неэкологично. Возможно, это даже не тот тип, который вам нужен."
+,
+AL_ItemMod_BatteryAAARechargeable,[ffc070]Батарейка AAA[-] (перезаряжаемая)
+AL_ItemMod_BatteryAAARechargeableDesc,"О да... Превосходно. Перезаряжаемая батарейка, мизинчиковая. Борьба с апокалипсисом, вызванным изменением климата, идёт полным ходом."
+# }}},
+,
+# Materials {{{,
+materialAL_Material_Frames,[ffc070]Инструмент планирования[-]
+materialAL_Material_WoodenLog,[ffc070]Деревянное полено[-]
+frameShapes:VariantHelper,[ffc070]Инструмент планирования[-]
+# }}},
+,
+lblwrought_iron,[7a7470]Железо[-]
+lbllead,[4b4c4f]Свинец[-]
+lblbrass,[ceaa7c]Латунь[-]
+lblchromium,[c0c2c1]Хром.[-]
+lblcopper,[df9976]Медь[-]
+lblgold,[eab354]Золото[-]
+lblsilver,[9bb6c0]Серебро[-]
+lblsteel,[c7ccd1]Сталь[-]
+lblnickel,[849577]Никель[-]
+lblcarbon,[606060]Углерод[-]
+lblbronze,[e6a372]Бронза[-]
+lbltin,[b4ada9]Олово[-]
+lbldynamic,[be6700]Лом[-]
+lblinconel,[de927b]Инконель[-]
+,
+unit_wrought_iron,[7a7470]Железо[-]
+unit_lead,[4b4c4f]Свинец[-]
+unit_brass,[ceaa7c]Латунь[-]
+unit_chromium,[c0c2c1]Хром.[-]
+unit_copper,[df9976]Медь[-]
+unit_gold,[eab354]Золото[-]
+unit_silver,[9bb6c0]Серебро[-]
+unit_steel,[c7ccd1]Сталь[-]
+unit_nickel,[849577]Никель[-]
+unit_carbon,[606060]Углерод[-]
+unit_bronze,[e6a372]Бронза[-]
+unit_tin,[b4ada9]Олово[-]
+unit_dynamic,[be6700]Лом[-]
+unit_inconel,[de927b]Инконель[-]
+,
+unit_water,[5b92cb]Вода[-]
+unit_red_tea,[ff5555]Красный чай[-]
+unit_goldenred_tea,[f8dd00]Чай из золотарника[-]
+unit_beer,[e79b13]Алкоголь[-]
+,
+unit_dirty_water,[815500]Грязная вода[-]
+unit_distilled_water,[5b92cb]Дистиллированная вода[-]
+lbldirty_water,[815500]Грязная вода[-]
+lbldistilled_water,[5b92cb]Дистиллированная вода[-]
+,
+lblbricks,[cb7e5b]Кирпичи[-]
+lblwater,[5b92cb]Вода[-]
+,
+lblclay,[ff6f2f]Глина[-]
+,
+lblred,[ff4040]Красный[-]
+lblgreen,[40ff40]Зелёный[-]
+lblblue,[4040ff]Синий[-]
+lblwhite,[ffffff]Белый[-]
+lblblack,[404040]Чёрный[-]
+,
+lblmash,Смесь
+lblbrine,Рассол
+lblethanol,Спирт этиловый
+lblalcohol,Алкоголь
+lblsalt,Соль
+,
+unit_clay,[ff6f2f]Глина[-]
+unit_mash,[ffc070]г. Смесь[-]
+unit_brine,[ffc070]мл. рассол[-]
+unit_alcohol,Алкоголь
+unit_ethanol,[ffc070]мл. спирт этиловый[-]
+unit_salt,[ffc070]г. соль[-]
+# }}},
+,
+# Shapes {{{,
+AL_Block_WoodenLog:VariantHelper,[ffc070]Деревянное полено[-]
+shapeAL_Shape_WoodenLogWall,[ffc070]Стена[-]
+shapeAL_Shape_WoodenLogWallOffset,[ffc070]Выпуск стены[-]
+shapeAL_Shape_WoodenLogWallTop,[ffc070]Верх стены[-]
+shapeAL_Shape_WoodenLogWallHalf,[ffc070]Половина стены[-]
+shapeAL_Shape_WoodenLogWallHalfOffset,[ffc070]Выпуск половины стены[-]
+shapeAL_Shape_WoodenLogCorner,[ffc070]Угол[-]
+shapeAL_Shape_WoodenLogCornerTop,[ffc070]Верх угла #1[-]
+shapeAL_Shape_WoodenLogCornerTop2,[ffc070]Верх угла #2[-]
+shapeAL_Shape_WoodenLogPillar,[ffc070]Колонна[-]
+shapeAL_Shape_WoodenLogPillarHalf,[ffc070]Половина колонны[-]
+shapeAL_Shape_WoodenLogPillarCorner,[ffc070]Угол колонны[-]
+shapeAL_Shape_WoodenLogFullPillar,[ffc070]Полная колонна[-]
+shapeAL_Shape_WoodenLogFullPillarHalf,[ffc070]Половина полной колонны[-]
+# }}},
+,
+# Blocks {{{,
+AL_Block_MilitaryBox1,[ffc070]Военный тайник[-]
+AL_Block_MilitaryBox1Desc,"Деревянный тайник военного образца, обычно используемый для хранения боеприпасов к стрелковому оружию."
+,
+AL_Block_TrainingDummy,Тренировочный манекен
+AL_Block_TrainingDummyDesc,"Юккарианский гуманоидный тренажер для спарринга, позволяющий оценить количество навыков без вероятности травм. Кроме того, это хороший способ улучшить свои навыки в условиях, надеюсь, свободных от зомби."
+,
+AL_Block_Stash,"Тайник, место для хранения вкусностей, за которыми вы вернетесь позже."
+AL_Block_StashDesc,"Тайник - место, куда можно складывать вещи, за которыми вы непременно вернётесь позже."
+,
+AL_Block_RainCatcher,Сборщик дождевой воды
+AL_Block_RainCatcherDesc,"По крайней мере, это способ сделать дождь менее неприятным явлением."
+,
+AL_Block_WorkstationCharcoalKiln,[ffc070]Угольная печь[-]
+AL_Block_WorkstationCharcoalKilnDesc,"[ffc070]Угольная печь[-] - это более эффективный способ получения древесного угля из древесины, в первую очередь из деревянных поленьев. Она полезна, когда вам нужно обеспечить кузницу теплом, достаточным для работы с такими металлами, как медь, олово и бронза, и не тратить драгоценный уголь, который понадобится для выплавки железа."
+,
+AL_Block_WorkstationCashConverter,[ffc070]Конвертер денежных средств[-]
+,
+AL_Block_FancyGarbageCanEmpty,[ffc070]Необычный мусорный бак[-] [808080](Пустой)[-]
+,
+AL_Block_PileOfStuff,[ffc070]Куча вещей[-]
+AL_Block_PileOfStuffDesc,"Когда человек складывает, а не бросает на землю несколько вещей, в итоге он обнаруживает... [i]кучу вещей[/i].\n\n[808080]Это сверхпримитивное средство хранения всегда требует немного времени для доступа и должно быть заменено правильным хранилищем для правильного доступа.[-]"
+,
+AL_Block_PileOfFood,[ffc070]Куча еды[-]
+AL_Block_PileOfFoodDesc,Часть еды разбросана по полу. Это не очень гигиенично.\n\n[808080]Этот ультрапримитивный способ хранения всегда требует немного времени для доступа и должен быть заменен на правильное хранилище для правильного доступа.[-]
+,
+AL_Block_PileOfMeds,[ffc070]Куча лекарств[-]
+AL_Block_PileOfMedsDesc,"Ассортимент различных лекарственных предметов, лежащих тут и там.\n\n[808080]Это сверхпримитивное средство хранения всегда требует немного времени для доступа и должно быть заменено правильным хранилищем для правильного доступа.[-]"
+,
+AL_Block_PileOfWeaponry,[ffc070]Куча оружия[-]
+AL_Block_PileOfWeaponryDesc,"Груда оружия и патронов, разбросанных по земле.\n\n[808080]Это сверхпримитивное средство хранения всегда требует немного времени для доступа и должно быть заменено правильным хранилищем для правильного доступа.[-]"
+,
+AL_Block_SecureStorageMedicalBox,[ffc070]Медицинский ящик[-]
+AL_Block_SecureStorageMedicalBoxDesc,"Коробка, которая недвусмысленно выражает смысл своего существования."
+,
+AL_Block_WorkstationDyeTub,[ffc070]Ванна с красителем[-]
+AL_Block_WorkstationDyeTubDesc,"Наконец-то я могу показать, насколько я [i]потрясающий[/i] человек."
+,
+AL_Block_WorkstationMortarAndPestle,[ffc070]Ступка и пестик[-]
+AL_Block_WorkstationMortarAndPestleDesc,Оригинальный помол.
+,
+AL_Block_WorkstationAdvancedFurnace,[ffc070]Усовершенствованная печь[-]
+AL_Block_WorkstationAdvancedFurnaceDesc,"Эта передовая электропечь способна создавать температуру, необходимую для выплавки металлов, необходимых для производства суперсплавов, совершенно без необходимости сжигать традиционное топливо."
+,
+AL_Block_WorkstationKiln,[ffc070]Печь[-]
+AL_Block_WorkstationKilnDesc,"Глиняная [ffc070]печь[-]. С помощью формы, большого количества тепла и некоторого времени вы сможете получить кирпичи, необходимые для создания прочного основания."
+,
+AL_Block_WorkstationResearchDesk,[ffc070]Исследовательский стол[-]
+AL_Block_WorkstationResearchDeskDesc,"Место, где можно потереть подбородок или погладить бороду, задумчиво окидывая комнату пустым взглядом, видимо, в рамках попытки извлечь ценные знания из дублирующей и ненужной литературы."
+,
+AL_Block_CartographyTable,[ffc070]Картографический стол[-]
+AL_Block_CartographyTableDesc,"[ffc070]Картографический стол[-] - отличное место для того, чтобы сосредоточенно позировать, указывая на карту, и почувствовать себя военным генералом. Кроме того, это место, где можно сохранить и поделиться своими достижениями в изучении карты."
+,
+AL_Block_TerrOreLimestone,[ffc070]Блок известняковой руды[-] (Предмет разработчиков)
+AL_Block_TerrOreLimestoneDesc,Блок местности с известняковой рудой.
+,
+AL_Block_TerrOreGarnierite,[ffc070]Блок гарниеритовой руды[-] (Предмет разработчиков)
+AL_Block_TerrOreGarnieriteDesc,Источник никеля.
+,
+AL_Block_TerrOreChromite,[ffc070]Блок хромитовой руды[-] (Предмет разработчиков)
+AL_Block_TerrOreChromiteDesc,Источник хрома.
+,
+AL_Block_TerrOreGalena,[ffc070]Блок галенитовой руды[-] (Предмет разработчиков)
+AL_Block_TerrOreGalenaDesc,Блок местности с галенитовой рудой.
+,
+AL_Block_TerrOreChalcopyrite,[ffc070]Блок халькопиритовой руды[-] (Предмет разработчиков)
+AL_Block_TerrOreChalcopyriteDesc,Блок местности с халькопиритовой рудой.
+,
+AL_Block_TerrOreAnthracite,[ffc070]Блок антрацитовой руды[-] (Предмет разработчиков)
+AL_Block_TerrOreAnthraciteDesc,Блок местности с антрацитовой рудой.
+,
+AL_Block_TerrAnthracite,[ffc070]Антрацитовый блок[-] (Предмет разработчиков)
+AL_Block_TerrAnthraciteDesc,Глыба антрацита. Отмечает антрацитовые жилы.
+,
+AL_Block_GarnieriteBoulder,[ffc070]Гарниеритовый валун[-] (Блок разработчиков)
+AL_Block_GarnieriteBoudlerDesc,Источник никеля.
+,
+AL_Block_ChromiteBoulder,[ffc070]Хромитовый валун[-] (Блок разработчиков)
+AL_Block_ChromiteBoulderDesc,Источник хрома.
+,
+AL_Block_ChalcopyriteBoulder,[ffc070]Халкопировый валун[-] (Блок разработчиков)
+AL_Block_ChalcopyriteBoulderDesc,Источник меди.
+,
+AL_Block_AnthraciteBoulder,[ffc070]Антрацитовый валун[-] (Блок разработчиков)
+AL_Block_AntrachiteBoulderDesc,Отмечает антрацитовые жилы.
+,
+AL_Block_CassiteriteBoulder,[ffc070]Касситеритовый валун[-] (Блок разработчиков)
+AL_Block_CassiteriteBoulderDesc,Отмечает кассетеритовые жилы.
+,
+AL_Block_TreeStumpNew,[ffc070]Пень нового дерева[-] (Блок разработчиков)
+AL_Block_StumpNewDesc,"Новый пень, только что образовавшийся после вырубки дерева. Вырастет через несколько дней."
+,
+AL_Block_TreeStumpMatureHiveNo,[ffc070]Зрелый пень[-]
+AL_Block_TreeStumpMatureHiveNoDesc,Созревший простой пень.
+,
+AL_Block_TreeStumpMatureHiveYes,[ffc070]Зрелый пень с пчелиным ульем[-] ( Блок разработчиков)
+AL_Block_TreeStumpMatureHiveYesDesc,"Зрелый пень, в котором находится пчелиный улей."
+,
+AL_Block_SyphiaSpore,[ffc070]Споры сифии[-] (Блок разработчиков)
+AL_Block_SyphiaSporeDesc,"Этот загадочный гриб каким-то образом скрывается от посторонних глаз в дневное время. Если для того, чтобы найти его, нужно отправиться в темноту, остаётся только надеяться, что в нём есть что-то такое, ради чего стоит подвергать себя опасности, блуждая по ночам."
+,
+AL_Block_WoodenLog,[ffc070]Деревянное полено[-]
+AL_Block_WoodenLogDesc,"Целое [ffc070]деревянное полено[-]. Оно громоздкое, громоздкое и очень тяжелое, но каким-то образом вам удается уместить в рюкзаке довольно много таких поленьев. [ffc070]Деревянные поленья[-] могут быть переработаны в [ffc070]обработанную древесину[-] для более широкого применения в ремесле и строительстве."
+,
+AL_Block_WorkstationDistillery,[ffc070]Винокурня[-]
+AL_Block_WorkstationDistilleryDesc,"Функциональная [ffc070]винокурня[-] - пожалуй, главное оружие против обезвоживания перед лицом зомби-вируса экстремофилов, позволяющее производить чистую, дистиллированную воду... и выпивку, что тоже неплохо."
+,
+AL_Block_WorkstationBloomery,[ffc070]Домница[-]
+AL_Block_WorkstationBloomeryDesc,"Примитивная, но работоспособная [ffc070] домница[-]."
+,
+AL_Block_GunVendingMachine,[ffc070]Торговый автомат с оружием[-]
+# }}},
+,
+# New Game {{{,
+AL_LK_IntroText1,Прежнего мира больше нет.
+AL_LK_IntroText2,Наши былые личности мертвы.
+AL_LK_IntroText3,Это наш новый мир.
+AL_LK_IntroText4,Это наша...
+AL_LK_IntroTitle,Жизнь после (Afterlife)
+,
+AL_LK_Begin,Начать
+AL_LK_EquipmentHeader,[ffb266]Снаряжение[-]
+AL_LK_SkillsHeader,[66ff7f]Навыки[-]
+AL_LK_PerkHeader,[8080ff]Умение[-]
+,
+AL_LK_NewGameStartText,"Это мод не для слабаков.\n\nС самого начала он был разработан таким образом, что в первую очередь он представляет собой вызов для опытных игроков [c00000ff]7 Days To Die[-].\n\n Если вы считаете это приемлемым, кликайте на кнопку ниже."
+,
+AL_LK_NormieColoured,[ffffff]Обычный чел[-]
+AL_LK_SheriffColoured,[00abff]Шериф[-]
+AL_LK_CrawlerColoured,[c76c05]Кутила[-]
+AL_LK_SavageColoured,[91AA49]Дикарь[-]
+AL_LK_HoodlumColoured,[f6d900]Хулиган[-]
+AL_LK_PrepperColoured,[9e9894]Выживальщик[-]
+AL_LK_WobblyColoured,[e53322]Работяга[-]
+AL_LK_EnigmaColoured,[944dff]Загадочная личность[-]
+AL_LK_Normie,Обычный чел
+AL_LK_Sheriff,Шериф
+AL_LK_Crawler,Кутила
+AL_LK_Savage,Дикарь
+AL_LK_Hoodlum,Хулиган
+AL_LK_Prepper,Выживальщик
+AL_LK_Wobbly,Работяга
+,
+AL_LK_NormieText,"Ваша жизнь была стабильной и комфортной, но довольно скучной. Вы не понимали тех, кто ей завидовал. Вы часто задавались вопросом, не зря ли вы тратите свою жизнь, работая, чтобы содержать семью.\n\nАпокалипсис заставил вас измениться, и, несмотря на опасность, угрожающую жизни, вы (просто тихо) радуетесь этому. Мир лежит в руинах, но вы чувствуете, что ваша жизнь вот-вот начнётся."
+AL_LK_NormieEquipment,"Презентабельный вид, подходящий для собеседования, немного старых денег, наручные часы и приличный рюкзак."
+AL_LK_NormieEffects,[ff8040]Снаряжение:[-]\n- Деловой костюм для собеседования.\n- Приличная пачка денег старого мира.\n- Стильные наручные часы.\n- Очень практичный рюкзак.\n\n[ffff40]Начальные навыки:[-]\n- 20 плавание.\n- 20 атлетика.\n\n[8080ff]Особые эффекты:[-]\n[40ff40]- На 25% более выгодные предложения в торговых автоматах.[-]
+,
+AL_LK_SheriffText,"Вы поклялись соблюдать закон, поддерживать справедливость, а также обеспечивать город потоком доходов, получаемых в результате нарушений, для пополнения городской казны.\n\nТеперь бумажной работы меньше, и ваши тренинги по политкорректности и деэскалации конфликта не кажутся такими уж полезными, но, по крайней мере, вы можете стрелять в зомби."
+AL_LK_SheriffEffects,"[ff8040]Снаряжение:[-]\n- Ваша униформа, табельный пистолет, пара обойм и дубинка.\n\n[ffff40]Начальные навыки:[-]\n- 25 пистолеты.\n- 25 дубинки.\n\n[8080ff] Особые эффекты:[-]\n[40d040]- На 20% больше вероятность найти 9мм патроны и возможность найти 9мм патроны в тех местах, где другие не могут. \n[40d040]- Может без труда открывать полицейские машины.\n- Половина потери жизнестойкости от страха и боевого стресса.\n[ff4040]- На 25% медленнее скорость при обыске.\n- Не получает 'социальную' жизнестойкость от [f6d900]Хулигана[-]."
+,
+AL_LK_CrawlerText,"[0a0a0]'Едем в Винчестер, пьём пиво, и ждём, пока всё это не закончится...'[-]\n\nВы - квинтэссенция алкоголика, который всю жизнь ходит по пабам, и вас уже выгнали из многих.\n\nВы не намерены позволить какому-то пожирателю мозгов встать между вами и хорошим пивом."
+AL_LK_CrawlerEffects,[ff8040]Снаряжение:[-]\n- Обмотки для костяшек.\n- Парочка на дорожку.\n\n[ffff40]Начальные навыки:[-]\n- 20 кулачный бой.\n\n[8080ff]Особые эффекты:[-]\n[40ff40]- Двойные бонусы от пьянства.\n- Половинные штрафы от пьянства. \n- Начинает с разблокированной рабочей станцией Винокурня.\n- Никогда не будет тошнить от чрезмерного употребления алкоголя.[-]\n[ff4040]- Начинает со 100% алкоголизмом.\n- Алкоголизм никогда не может опуститься ниже 25%.[-]
+,
+AL_LK_SavageText,"На заре апокалипсиса вы застряли на отдалённом шоссе, а ваша машина сломалась. Вместо того чтобы искать цивилизацию, вы скрылись в лесу. Возможно, это была удача, но вы неплохо справились. Вы выжили почти без ничего, избежав контакта с нежитью.\n\nТеперь, став опытным лесником, вы готовы вернуться в города, чтобы попытаться наладить свою жизнь."
+AL_LK_SavageEffects,"[ff8040]Снаряжение:[-]\n- Примитивный лук и несколько стрел.\n- Костяной нож.\n- Каменный топор.\n\n[ffff40]Начальные навыки:[-]\n- 20 стрельба из лука.\n- 20 свежевание. \n\n[8080ff]Особые эффекты:[-]\n[40ff40]- Умение 'Дикость'; Сразу позволяет отслеживать мелких животных.\n- Всегда знает, где находится его спальное место, когда находится в лесном биоме.\n[808080]- Пропускает серию обучающих заданий (Afterlife)."
+,
+AL_LK_HoodlumText,"Родившись и выросши в городской нищете, вы научились пробиваться любыми способами.\n\nВоровство и кражи со взломом - это лишь названия единственных развлечений, и если ты не занимаешься этим, то прозябаешь в сточной канаве, глубоко в трещинах общества. Однако с появлением трупов, вставших на ноги, игра изменилась.\n\nМертвецы быстрее живых приходят к насилию, но их не особо волнует мародёрство."
+AL_LK_HoodlumEffects,[ff8040]Снаряжение:[-]\n- Заточка.\n- Набор отмычек.\n\n[ffff40]Начальные навыки:[-]\n- 20 ножи.\n- 20 отмычки.\n\n[8080ff]Особые эффекты:[-]\n[40d040]- Умение: 'Заточка'; обеспечивает незначительное кровотечение при атаке ножами.\n- Может изготавливать [00ff00]самодельные отмычки[-][40ff40].\n[d04040]- Не получает 'социальную' жизнестойкость от [00abff]Шерифа[-].
+,
+AL_LK_WobblyText,"Этот 'апокалипсис' - всего лишь зарождающееся состояние вырождения современного позднего неолиберального капитализма, которое ведёт к дальнейшему распаду традиционного вырожденного состояния - фашизма.\n\nТолько сознательный и вооружённый рабочий класс может победить оцепеневшие орды и установить новый порядок, созданный рабочим классом, для рабочего класса!"
+AL_LK_WobblyEffects,[ff8040]Снаряжение:[-]\n- Ваша любимая рубашка и кепка.\n- Хорошая качественная киянка и серп.\n\n[ffff40]Начальные навыки:[-]\n- 20 строительство.
+,
+AL_LK_Enigma,Загадочная личность
+AL_LK_EnigmaText,"Вы пробуждаетесь в этом мире, будучи ни во что не одетым, ничем не владея и ничего не помня. Вы не помните ни семьи, ни друзей. Вы не знаете, где выросли, в какую школу ходили и были ли у вас домашние животные. Вы не помните, чтобы у вас были какие-либо увлечения или работа. Вы не чувствуете никаких особых привязанностей или предубеждений. Вам повезло, что вы сохранили базовые языковые навыки."
+AL_LK_EnigmaEffects,[ff8040]Снаряжение:[-]\n- Ничего.\n\n[ffff40]Начальные навыки:[-]\n- Нет.\n\n[8080ff]Особые эффекты:[-]\n- Нет.[-]
+# }}},
+,
+# Attributes {{{,
+AL_Attribute_Strength,Сила
+AL_Attribute_Fortitude,Стойкость
+AL_Attribute_Finesse,Изящность
+AL_Attribute_Agility,Ловкость
+AL_Attribute_Perception,Восприятие
+AL_Attribute_Intellect,Интеллект
+,
+# Suppressing default text from showing up with these..,
+AL_LK_StrengthPerks,
+AL_LK_FortitudePerks,
+AL_LK_FinessePerks,
+AL_LK_AgilityPerks,
+AL_LK_PerceptionPerks,
+AL_LK_IntellectPerks,
+,
+AL_LK_RGB_AL_Attribute_Strength,[ff9933]Сила[-]
+AL_LK_RGB_AL_Attribute_Fortitude,[ff3333]Стойкость[-]
+AL_LK_RGB_AL_Attribute_Finesse,[33ff33]Изящность[-]
+AL_LK_RGB_AL_Attribute_Agility,[ffff33]Ловкость[-]
+AL_LK_RGB_AL_Attribute_Perception,[9059ff]Восприятие[-]
+AL_LK_RGB_AL_Attribute_Intellect,[6666ff]Интеллект[-]
+,
+AL_Attribute_StrengthDesc,"Сила - это грубые мышцы, физический потенциал и взрывная сила. Она влияет и развивается вместе с навыками, использующими эту силу, в первую очередь с навыками горного дела, [ffc070]копания[-], [ffc070]лесозаготовки[-], [ffc070] дубины[-], [ffc070]кувалды[-], [ffc070]топоры[-], но многие другие навыки задействованы в меньшей степени, например [ffc070]строительство[-] и [ffc070]рукопашный бой[-]."
+AL_Attribute_FortitudeDesc,"Ваша стойкость - это абстрактное абсолютное сопротивление любым угрозам, физическим или иным. Ваша иммунная система, ваше здравомыслие, ваша способность переносить физические наказания - все это связано с вашей стойкостью. Основные навыки, связанные с ней, включают [ffc070]атлетику[-] и [ffc070] плавание[-], но остальные навыки в той или иной степени тоже связаны с ней."
+AL_Attribute_FinesseDesc,"Изящность представляет собой ловкость в тонких манипуляциях руками и пальцами. В первую очередь она влияет на [ffc070]ножи[-], [ffc070]стрельбу из лука[-], [ffc070]пистолеты[-], [ffc070]отмычки[-], а также [ffc070]копья[-], [ffc070]арбалеты[-], [ffc070]штурмовые винтовки[-] и [ffc070]пистолеты-пулемёты[-] в меньшей степени."
+AL_Attribute_AgilityDesc,"Ловкость - это общая точность и быстрота движений конечностей. Её практика даёт полезные эффекты, но лишь немногие занятия, часто выполняемые в этой жизни, оттачивают её."
+AL_Attribute_PerceptionDesc,"Восприятие - это просто способность замечать, находить среди всего остального фигуру, возможно, нацелившую винтовку вам в голову... А может быть, это просто образ дополнительной добычи. Восприятие трудно развить, но [ffc070]разбор на детали[-] и использование [ffc070] винтовок[-] в некоторой степени помогут."
+AL_Attribute_IntellectDesc,"Интеллект - это ваша общая способность рассуждать, понимать, устанавливать те полезные связи, которых нет у того, у кого меньше мозговых клеток. Он связан с некоторыми видами интеллектуальной деятельности, такими как [ffc070]лечение[-] и [ffc070]взлом замков[-]."
+# }}},
+,
+# Perks {{{,
+AL_Perk_Decorator,Декоратор
+AL_Perk_DecoratorDesc,
+AL_Perk_Decorator1Desc,"Жизнестойкость, получаемая от декора, увеличивается на [00ff00]20%[-]."
+AL_Perk_Decorator2Desc,"Жизнестойкость, получаемая от декора, увеличивается на [00ff00]40%[-]."
+AL_Perk_Decorator3Desc,"Жизнестойкость, получаемая от декора, увеличивается на [00ff00]60%[-]."
+AL_Perk_Decorator4Desc,"Жизнестойкость, получаемая от декора, увеличивается на [00ff00]80%[-]."
+AL_Perk_Decorator5Desc,"Жизнестойкость, получаемая от декора, увеличивается [00ff00]вдвое[-]."
+,
+AL_Perk_Slayer,Убийца
+AL_Perk_SlayerDesc,Царит кровь!.. Кровь зомби!
+AL_Perk_Slayer1Desc,Получаёте [00ff00].04[-] живостойкости с каждым убийством зомби.
+AL_Perk_Slayer2Desc,Получаёте [00ff00].08[-] живостойкости с каждым убийством зомби.
+AL_Perk_Slayer3Desc,Получаёте [00ff00].12[-] живостойкости с каждым убийством зомби.
+AL_Perk_Slayer4Desc,Получаёте [00ff00].16[-] живостойкости с каждым убийством зомби.
+AL_Perk_Slayer5Desc,Получаёте [00ff00].2[-] живостойкости с каждым убийством зомби.
+,
+AL_Perk_Inconspicuous,Незаметный
+AL_Perk_InconspicuousDesc,"С помощью внимательного наблюдения и тренировок можно усмирить свою физическую реакцию в присутствии врагов. Тщательно контролируя дыхание и сохраняя статную неподвижность, вы исчезаете."
+AL_Perk_Inconspicuous1Desc,После [ffc070]30 секунд неподвижности[-] ваша скрытность начинает постепенно улучшаться и достигает невидимости еще через [ffc070]60[-] секунд. Любое движение снимает эффект.
+AL_Perk_Inconspicuous2Desc,"Начальный таймер уменьшается до [ffc070]20 секунд[-], после чего невидимость достигается через [ffc070]30 секунд[-]."
+AL_Perk_Inconspicuous3Desc,"Начальный таймер уменьшается до [ffc070]10 секунд[-], после чего невидимость достигается через [ffc070]15 секунд[-]."
+,
+AL_Perk_Shiv,Заточка
+AL_Perk_ShivDesc,"Скажем так, у вас был опыт быстрого нанесения ударов ножом."
+AL_Perk_Shiv1Desc,При использовании ножей добавляет [ffc070]6[-] урона от кровотечения к каждой атаке.
+,
+AL_Perk_Tracker,Тропление
+AL_Perk_TrackerDesc,"Они могут бегать, причём очень быстро, но не смогут спрятаться... как только я возьму это умение."
+AL_Perk_Tracker1Desc,"Вы можете обнаруживать следы, оставленные мелкими животными."
+AL_Perk_Tracker2Desc,"Вы можете обнаруживать следы, оставленные животными среднего размера, и чувствовать мелких животных поблизости."
+AL_Perk_Tracker3Desc,"Вы можете обнаруживать следы, оставленные крупными животными, и чувствовать средних животных поблизости."
+AL_Perk_Tracker4Desc,НАДО СДЕЛАТЬ
+,
+AL_Perk_Savagery,Дикость
+AL_Perk_SavageryDesc,"Время, прожитое в дикой природе, позволило вам приспособиться к жизни диких животных. У [ffc070]дикаря[-] нет доступа к обычному умению следопыта, но вместо него есть доступ к [ffc070]дикости[-]."
+AL_Perk_Savagery1Desc,"Вы получаете доступ к навыку действия [ffc070]тропление[-] ([i]пока не реализовано[/i]) и можете обнаруживать следы, оставленные мелкими животными."
+AL_Perk_Savagery2Desc,"Вы можете обнаруживать следы, оставленные животными среднего размера, и чувствовать мелких животных поблизости."
+AL_Perk_Savagery3Desc,"Вы можете обнаруживать следы, оставленные крупными животными, и чувствовать средних животных поблизости."
+AL_Perk_Savagery4Desc,Вы можете чувствовать крупных животных.
+AL_Perk_Savagery5Desc,Вы можете чувствовать животных-зомби.
+,
+AL_Perk_ProprietaryMorality,Собственническая мораль
+AL_Perk_ProprietaryMoralityDesc,"Муниципальный полицейский высшего ранга быстро усваивает, если хочет продвинуться по карьерной лестнице, что власть, политика и наличка прочно вошли в шестерёнки правосудия. Рядовые сотрудники - всего лишь синие солдаты в этом механизме."
+AL_Perk_FuckItDesc,"Пытаться взять поменьше в таком мире? Что это за проприетарное дерьмо? К чёрту. Я, наверное, уже проломил головы половине владельцев этих магазинов."
+AL_Perk_AlcoholismDesc,Мне не нужно останавливаться! Мне от этого хорошо.
+AL_Perk_TheGlassPrisonDesc,Я обернулся и увидел свет. Дверь была широко распахнута...
+,
+AL_Perk_Insight,Озарение
+AL_Perk_InsightDesc,"Интересно, можно ли понять, как что-то работает и изготовлено, просто воспользовавшись этим? Это умение говорит да. Да, можно."
+AL_Perk_Insight1Desc,"[00ff00]2%[-] опыта, полученного в любом навыке действия, будет получено в соответствующем навыке изготовления, если таковой существует."
+AL_Perk_Insight2Desc,Бонус увеличивается до [00ff00]4%[-].
+AL_Perk_Insight3Desc,Бонус увеличивается до [00ff00]6%[-].
+AL_Perk_Insight4Desc,Бонус увеличивается до [00ff00]8%[-].
+AL_Perk_Insight5Desc,Бонус увеличивается до [00ff00]10%[-].
+,
+AL_Perk_Survivor,Выживший
+AL_Perk_SurvivorDesc,"Продолжая выживать в этом мире, вы ожесточаетесь против его постоянных и скучных трудностей."
+AL_Perk_Survivor1Desc,"[ffc070]-10%[-] [ffa24d]жизнестойкости[-] теряется от [ff8080]окружения[-], [ff8080]голода[-] и [ff8080]жажды[-]."
+AL_Perk_Survivor2Desc,"[ffc070]-20%[-] [ffa24d]жизнестойкости[-] теряется от [ff8080]окружения[-], [ff8080]голода[-] и [ff8080]жажды[-]."
+AL_Perk_Survivor3Desc,"[ffc070]-30%[-] [ffa24d]жизнестойкости[-] теряется от [ff8080]окружения[-], [ff8080]голода[-] и [ff8080]жажды[-]."
+AL_Perk_Survivor4Desc,"[ffc070]-40%[-] [ffa24d]жизнестойкости[-] теряется от [ff8080]окружения[-], [ff8080]голода[-] и [ff8080]жажды[-]."
+AL_Perk_Survivor5Desc,"[ffc070]-50%[-] [ffa24d]жизнестойкости[-] теряется от [ff8080]окружения[-], [ff8080]голода[-] и [ff8080]жажды[-]."
+,
+AL_Perk_IronGuts,Железные кишки
+AL_Perk_IronGutsDesc,"Способность, с трудом обретённая в результате принятия слишком большого количества смелых решений."
+AL_Perk_IronGuts1Desc,[00ff00]-15%[-] пищевого отравления от еды и напитков.
+AL_Perk_IronGuts2Desc,[00ff00]-30%[-] пищевого отравления от еды и напитков.
+AL_Perk_IronGuts3Desc,[00ff00]-45%[-] пищевого отравления от еды и напитков.
+AL_Perk_IronGuts4Desc,[00ff00]-60%[-] пищевого отравления от еды и напитков.
+AL_Perk_IronGuts5Desc,[00ff00]-75%[-] пищевого отравления от еды и напитков.
+# }}},
+,
+# Action Skills {{{,
+AL_ActionSkill_Gathering,Сбор
+AL_ActionSkill_Healing,Лечение
+AL_ActionSkill_Athletics,Атлетика
+AL_ActionSkill_Swimming,Плавание
+AL_ActionSkill_Scavenging,Поиск ресурсов
+AL_ActionSkill_Cooking,Готовка
+AL_ActionSkill_Butchering,Свежевание
+AL_ActionSkill_Combat,Бой
+AL_ActionSkill_Fisticuffs,Кулачные бои
+AL_ActionSkill_Clubbing,Дубинки
+AL_ActionSkill_Axes,Топоры
+AL_ActionSkill_Pickaxes,Кирки
+AL_ActionSkill_Shovels,Лопаты
+AL_ActionSkill_Spears,Копья
+AL_ActionSkill_Sledgehammers,Кувалды
+AL_ActionSkill_Swordsmanship,Фехтование
+AL_ActionSkill_Knives,Ножи
+AL_ActionSkill_Construction,Строительство
+AL_ActionSkill_Archery,Стрельба из лука
+AL_ActionSkill_Bows,Луки
+AL_ActionSkill_Crossbows,Арбалеты
+AL_ActionSkill_Gunplay,Перестрелка
+AL_ActionSkill_Rifles,Винтовки
+AL_ActionSkill_AssaultRifles,Штурмовые винтовки
+AL_ActionSkill_Shotguns,Дробовики
+AL_ActionSkill_Pistols,Пистолеты
+AL_ActionSkill_SMGs,Пистолеты-пулемёты
+AL_ActionSkill_LMGs,Лёгкие пулемёты
+AL_ActionSkill_Mining,Горное дело
+AL_ActionSkill_Logging,Рубка дерева
+AL_ActionSkill_Digging,Копание
+AL_ActionSkill_Lockpicking,Взлом замков
+AL_ActionSkill_Tracking,Тропление
+AL_ActionSkill_ThrownWeapons,Метательное оружие
+AL_ActionSkill_Salvage,Разбор на детали
+# }}},
+,
+# Action Skill Descriptions {{{,
+AL_ActionSkill_MiningDesc,"[7aaa51ff]Горное дело[-] - это ваш навык во всех аспектах горного дела, от использования инструментов до определения руды, нахождения жил и т.д."
+AL_ActionSkill_LoggingDesc,Ваше умение рубить и валить деревья.
+AL_ActionSkill_DiggingDesc,[7aaa51ff]Копание[-] является дополнением к [7aaa51ff]горному делу[-] и отражает вашу способность добывать более мягкую землю.
+AL_ActionSkill_CombatDesc,[7aaa51ff]Бой[-] описывает ваше общее знакомство с опытом сражений. Улучшение этого навыка дает больший эффект при использовании любого оружия.
+AL_ActionSkill_GatheringDesc,"[7aaa51ff]Сбор[-] влияет на вашу эффективность при сборе ресурсов, уборке урожая, добыче полезных ископаемых и т.д."
+AL_ActionSkill_ClubbingDesc,"[7aaa51ff]Дубины[-] - это ваша способность с готовностью избивать других, возможно, живых существ, но не руками, как дикарь, а чем-то, что находится в ваших руках, как бандит."
+AL_ActionSkill_RiflesDesc,"Навык [7aaa51ff]винтовки[-] - это умение пользоваться более длинными винтовками, как правило, с более медленным темпом стрельбы и более тяжелыми патронами. Сюда входят винтовки, подходящие для снайперской стрельбы и для боя на средних дистанциях."
+AL_ActionSkill_AthleticsDesc,"Бегать от зомби и вокруг зомби - это, конечно, хорошо, но в идеале нужно бегать за зомби, по зомби, а иногда и под зомби. Оставаться в форме важно во все времена жизни, и апокалипсис - не исключение."
+AL_ActionSkill_ScavengingDesc,"Некоторые осуждают эту практику, называя её 'мародёрством', но они просто завидуют вашему мастерству. Это обычное сопоставление шаблонов. Чем больше вы этим занимаетесь, тем лучше у вас получается находить то, что вам нужно, и тем быстрее вы это схватываете."
+AL_ActionSkill_SwimmingDesc,"Зомби не очень-то умеют плавать, поэтому стоит убедиться в этом. Только не задерживайтесь там слишком долго... Практически вся неочищенная вода сильно заражена."
+AL_ActionSkill_TrackingDesc,НАДО СДЕЛАТЬ
+# }}},
+,
+# Class Names and Class Perks {{{,
+AL_Class_Normie,Обычный чел
+AL_Class_Sheriff,Шериф
+AL_Class_Crawler,Кутила
+AL_Class_Savage,Дикарь
+AL_Class_Hoodlum,Хулиган
+AL_Class_Wobbly,Работяга
+AL_Class_Enigma,Загадочная личность
+AL_ClassPerk_Normie,Обычный чел
+AL_ClassPerk_Sheriff,Шериф
+AL_ClassPerk_Crawler,Кутила
+AL_ClassPerk_Savage,Дикарь
+AL_ClassPerk_Hoodlum,Хулиган
+AL_ClassPerk_Wobbly,Работяга
+AL_ClassPerk_Enigmam,Загадочная личность
+# }}},
+,
+# Perks {{{,
+AL_Perk_TheGlassPrison,Стеклянная тюрьма
+AL_Perk_FreeRunning,Свободный бег
+AL_Perk_AnInjuryToOne,Травма одного...
+AL_Perk_AnInjuryToOneDesc,... это травма для всех!
+,
+AL_Perk_Parkour,Паркур
+AL_Perk_ParkourDesc,"Свободный бегун вряд ли может быть пойман другим человеком, не говоря уже о зомби. Изучите паркур и легко преодолевайте городские просторы."
+AL_Perk_Parkour1Desc,[ffc070]-10%[-] потери выносливости при прыжках. Прыгайте в [ffc070]2 раза[-] дальше с [ffc070]5[-] секундным разбегом.
+AL_Perk_Parkour2Desc,"[ffc070]-20%[-] потери выносливости при прыжках. Прыгайте в [ffc070]2,1 раза[-] дальше с [ffc070]4[-] секундным разбегом."
+AL_Perk_Parkour3Desc,"[ffc070]-30%[-] потери выносливости при прыжках. Прыгайте в [ffc070]2,2 раза[-] дальше с [ffc070]3[-] секундным разбегом. [ffc070]-25%[-] урона от падения."
+AL_Perk_Parkour4Desc,"[ffc070]-40%[-] потери выносливости при прыжках. Прыгайте в [ffc070]2,3 раза[-] дальше с [ffc070]2[-] секундным разбегом. [ffc070]-37,5%[-] урона от падения. [ffc070]+10%[-] высоты прыжка."
+AL_Perk_Parkour5Desc,"[ffc070]-50%[-] потери выносливости при прыжках. Прыжок на [ffc070]2,4x[-] большее расстояние с [ffc070]1[-] секундным разбегом. [ffc070]-50%[-] урона от падения. [ffc070]+20%[-] высоты прыжка."
+,
+AL_Perk_LootGobblin,Лут гоблин
+AL_Perk_LootGobblinDesc,Ваша неутолимая жажда добычи привела к абсолютно птичьему уровню тщательности.
+AL_Perk_LootGobblin1Desc,"Качество и количество добычи увеличено на [ffc070]7,5%[-]."
+AL_Perk_LootGobblin2Desc,Качество и количество добычи увеличено на [ffc070]15 %[-].
+AL_Perk_LootGobblin3Desc,"Качество и количество добычи увеличено на [ffc070]22,5%[-]."
+AL_Perk_LootGobblin4Desc,Качество и количество добычи увеличено на [ffc070]30%[-].
+AL_Perk_LootGobblin5Desc,"Качество и количество добычи увеличено на [ffc070]37,5%[-]."
+,
+AL_Perk_BattleHardened,Закалённый в боях
+AL_Perk_BattleHardenedDesc,Ты много всякого дерьма повидал.
+AL_Perk_BattleHardened1Desc,Вы вступили в смертельную схватку с несколькими курами и кроликами. [40ff40]-25%[-] потери жизнестойкости в бою.
+AL_Perk_BattleHardened2Desc,"Однажды вы сражались с зомби, и на вас попало немного крови. Это было неприятно и страшно. [40ff40]-50%[-] потери жизнестойкости в бою."
+AL_Perk_BattleHardened3Desc,Вы участвовали в серьёзных стычках и можете держать себя в руках. [40ff40]-75%[-] потери жизнестойкости в бою.
+AL_Perk_BattleHardened4Desc,"Ты так много воевал... что тебе уже все равно, чувак! [40ff40]Нулевая[-] потеря жизнестойкости в бою."
+AL_Perk_BattleHardened5Desc,Вам это начинает нравиться! [40ff40]Небольшой прирост жизнестойкости[-] в бою.
+,
+AL_Perk_Epiphany,Прозрение
+AL_Perk_EpiphanyDesc,Эврика! Спонтанное осознание чего-то глубокого приносит истинное интеллектуальное удовлетворение.
+AL_Perk_Epiphany1Desc,[ffc070]12%[-] шанс получить [ffc070]2x[-] опыт из книг. [ffc070]2%[-] шанс получить [ffc070]3x[-].
+AL_Perk_Epiphany2Desc,"[ffc070]25%[-] шанс получить [ffc070]2x[-] опыт из книг. [ffc070]5%[-] шанс получить [ffc070]3x[-]. При срабатывании этого умения создаются [ffc070]Записки для получения опыта[-], которые может прочитать только другой игрок или разобрать."
+AL_Perk_Epiphany3Desc,"[ffc070]37%[-] шанс получить [ffc070]2x[-] опыт из книг. [ffc070]7%[-] шанс получить [ffc070]3x[-], а также [ffc070]создать заметки[-]."
+AL_Perk_Epiphany4Desc,"[ffc070]50%[-] шанс получить [ffc070]2х[-] опыт из книг, [ffc070]10%[-] шанс получить [ffc070]3х[-], а также [ffc070] создать заметки[-]."
+AL_Perk_Epiphany5Desc,"[ffc070]100%[-] шанс получить [ffc070]2x[-] опыт из книг, [ffc070]20%[-] шанс получить [ffc070]3x[-], а также [ffc070] создать заметки[-]."
+,
+AL_LK_EpiphanyReceivedDupe,"[ffc070]У вас было[-] [5092ff]прозрение[-] [ffc070]во время чтения и вы записали свое осознание, чтобы другие могли прочитать.[-]"
+,
+AL_Perk_Meticulous,Педант
+AL_Perk_MeticulousDesc,Тщательно продуманный план и осторожное исполнение - проверенная временем синергия.
+AL_Perk_Meticulous1Desc,"Вы создаете любое оружие и инструменты на [ffc070]20 %[-] медленнее, но на [ffc070]5 %[-] более качественными."
+AL_Perk_Meticulous2Desc,"Вы создаете любое оружие и инструменты на [ffc070]40 %[-] медленнее, но на [ffc070]10 %[-] более качественными."
+AL_Perk_Meticulous3Desc,"Вы создаете любое оружие и инструменты на [ffc07060 %[-] медленнее, но на [ffc070]15 %[-] более качественными."
+AL_Perk_Meticulous4Desc,"Вы создаете любое оружие и инструменты на [ffc070]80 %[-] медленнее, но на [ffc070]20 %[-] более качественными."
+AL_Perk_Meticulous5Desc,"Вы создаете любое оружие и инструменты на [ffc070]100 %[-] медленнее, но на [ffc070]25 %[-] более качественными."
+,
+AL_Perk_Constitutional,Как бык
+AL_Perk_ConstitutionalDesc,"Вы позаботились о себе, и теперь вам стало ясно, насколько важно ваше здоровье. При условии, что вы не обезвожены и не голодаете, ваше тело восстанавливается быстрее."
+AL_Perk_Constitutional1Desc,"Вы восстанавливаете дополнительно [ffc070]0,04[-] здоровья в секунду. Эта дополнительная регенерация не требует дополнительных затрат на еду и воду."
+AL_Perk_Constitutional2Desc,"Бонус регенерации здоровья в секунду увеличивается до [ffc070]0,08[-]."
+AL_Perk_Constitutional3Desc,"Бонус регенерации здоровья в секунду увеличивается до [ffc070]0,12[-]."
+AL_Perk_Constitutional4Desc,Бонус регенерации здоровья в секунду увеличивается до [ffc070]0.16[-].
+AL_Perk_Constitutional5Desc,"Бонус регенерации здоровья в секунду увеличивается до [ffc070]0,2[-]."
+,
+AL_Perk_SmashNGrab,Круши-хватай
+AL_Perk_SmashNGrabDesc,"Изящность не так уж полезна в этом нецивилизованном, шумном и беззаконном мире. Убивайте нежить, а затем пробивайте себе путь внутрь."
+AL_Perk_SmashNGrab1Desc,Ваш урон по сейфам выше на [ffc070]100%[-].
+AL_Perk_SmashNGrab2Desc,Ваш урон по сейфам выше на [ffc070]200%[-].
+AL_Perk_SmashNGrab3Desc,Ваш урон по сейфам выше на [ffc070]300%[-].
+AL_Perk_SmashNGrab4Desc,Ваш урон по сейфам выше на [ffc070]400%[-].
+AL_Perk_SmashNGrab5Desc,Ваш урон по сейфам выше на [ffc070]500%[-]. [ffc070]5%[-]-[ffc070]20%[-] шанс спонтанно cломать замки при ударе по сейфам (увеличивается с силой от 100 до 1000).
+,
+AL_Perk_Demolisher,Разрушитель
+AL_Perk_DemolisherDesc,"Мускулы и сила - это лишь минимальное требование. С тренировками вы научитесь чувствовать, как строения реагирует на удары. Они дают слабину."
+AL_Perk_Demolisher1Desc,Ваш урон по блокам кувалдами выше на [ffc070]100%[-].
+AL_Perk_Demolisher2Desc,Ваш урон по блокам кувалдами выше на [ffc070]200%[-].
+AL_Perk_Demolisher3Desc,Ваш урон по блокам кувалдами выше на [ffc070]300%[-].
+AL_Perk_Demolisher4Desc,Ваш урон по блокам кувалдами выше на [ffc070]400%[-].
+AL_Perk_Demolisher5Desc,Ваш урон по блокам кувалдами выше на [ffc070]500%[-].
+,
+AL_Perk_LootHoarder,Барахольщик
+AL_Perk_LootHoarderDesc,"У вас есть непреодолимое желание взять всё, что не прикручено? Вы регулярно ходите в ваниле с перегрузом более 30 единиц? Вы обнаружили, что не можете сбросить вещи, даже когда на вас нападают зомби? Возможно, вы барахольщик."
+AL_Perk_LootHoarder1Desc,Благодаря плотному сворачиванию одежды вы нашли [ffc070]4[-] дополнительных места в своем рюкзаке.
+AL_Perk_LootHoarder2Desc,Вы начали применять свои навыки игры в Тетрис для организации инвентаря и теперь нашли [ffc070]8[-] дополнительных слотов.
+AL_Perk_LootHoarder3Desc,"Очевидно, вы были довольно плохи в Тетрисе, но стали лучше, организовав свой инвентарь. Теперь вы нашли [ffc070]12[-] слотов."
+AL_Perk_LootHoarder4Desc,"Вы поняли, что то, чем вы занимались, на самом деле было не Тетрисом, а нардами. Следовательно, теперь у вас есть [ffc070]16[-] дополнительных слотов."
+AL_Perk_LootHoarder5Desc,"Вы ненадолго вызвали ядерный синтез в своем рюкзаке, и теперь в нём [ffc070]24[-] дополнительных слота."
+,
+AL_Perk_Clockwork,Заводной механизм
+AL_Perk_ClockworkDesc,"Крошечные формы, крошечные зубчики, крошечные шестеренки. Чтобы работать с ними, вам понадобится твёрдая рука."
+AL_Perk_Clockwork1Desc,"Однажды вам было скучно, и вы засмотрелись на [ffc070]отмычку[-]. Теперь вы можете их делать."
+AL_Perk_Clockwork2Desc,"Сегодня вы поняли, что время - это иллюзия. Теперь вы можете изготовить [ffc070]наручные часы[-]."
+AL_Perk_Clockwork3Desc,"Вы вдруг вспомнили, что пространство и время едины. Пространство тоже должно быть иллюзией. Теперь вы можете изготовить [ffc070]компас[-]."
+,
+AL_Perk_Assassin,Убийца
+AL_Perk_AssassinDesc,"Они никогда не увидят, как он приближается, но могут почувствовать, как он уходит."
+AL_Perk_Assassin1Desc,"При использовании ножа [ffc070]2x[-] урон от силовой атаки по противнику, который вас не видит."
+AL_Perk_Assassin2Desc,"При использовании ножа [ffc070]3,5x[-] урон от силовой атаки по противнику, который вас не видит."
+AL_Perk_Assassin3Desc,"При использовании ножа [ffc070]5x[-] урон от силовой атаки по противнику, который вас не видит."
+AL_Perk_Assassin4Desc,"При использовании ножа [ffc070]6,5x[-] урон от силовой атаки по противнику, который вас не видит."
+AL_Perk_Assassin5Desc,"При использовании ножа [ffc070]8x[-] урон от силовой атаки по противнику, который вас не видит."
+,
+AL_Perk_Bloodletter,Кровопускатель
+AL_Perk_BloodletterDesc,"Можно ли пустить кровь зомби? Похожа ли кровь зомби на нашу? И нужна ли она им вообще? Ну что ж. Больше ударов, меньше раздумий."
+AL_Perk_Bloodletter1Desc,При использовании ножа наносите [ffc070]4[-] урона кровотечения при каждой атаке.
+AL_Perk_Bloodletter2Desc,При использовании ножа наносите [ffc070]8[-] урона кровотечением при каждой атаке.
+AL_Perk_Bloodletter3Desc,При использовании ножа наносите [ffc070]12[-] урона кровотечением при каждой атаке.
+AL_Perk_Bloodletter4Desc,При использовании ножа наносите [ffc070]16[-] урона кровотечением при каждой атаке.
+AL_Perk_Bloodletter5Desc,При использовании ножа наносите [ffc070]20[-] урона кровотечением при каждой атаке.
+,
+AL_Perk_Volley,Залп
+AL_Perk_VolleyDesc,"Если вы все сделаете правильно, то, возможно, сможете сойти за Леголаса, которым вы восхищались до прихода зомби. Лучше поздно, чем никогда!"
+AL_Perk_Volley1Desc,"При использовании лука можно воспользоваться круговым меню, чтобы подготовить [ffc070]залп[-], зарядив [ffc070]1[-] дополнительную стрелу в лук для быстрой стрельбы."
+AL_Perk_Volley2Desc,Возможность загрузить [ffc070]2[-] дополнительные стрелы.
+AL_Perk_Volley3Desc,Возможность загрузить [ffc070]3[-] дополнительные стрелы.
+AL_Perk_Volley4Desc,Возможность загрузить [ffc070]4[-] дополнительные стрелы.
+,
+AL_Perk_ThunderThighs,Грозовые бёдра
+AL_Perk_ThunderThighsDesc,"Когда ты всё время крадёшься, приседая, каждый день становится днём ног."
+AL_Perk_ThunderThighs1Desc,[ffc070]+20%[-] скорости передвижения в приседании.
+AL_Perk_ThunderThighs2Desc,[ffc070]+40%[-] скорости передвижения в приседании.
+AL_Perk_ThunderThighs3Desc,[ffc070]+60%[-] скорость передвижения в приседании.
+AL_Perk_ThunderThighs4Desc,[ffc070]+80%[-] скорость передвижения в приседании.
+AL_Perk_ThunderThighs5Desc,[ffc070]2x[-] скорость передвижения в приседании.
+,
+AL_Perk_Beatdown,Избиение
+AL_Perk_BeatdownDesc,"Бейте их, пока они лежат!"
+AL_Perk_Beatdown1Desc,При использовании кулачных боёв каждая лёгкая атака по сбитому с ног противнику увеличивает скорость атаки на [ffc070]+10%[-].
+AL_Perk_Beatdown2Desc,Бонус увеличивается до [ffc070]+20%[-].
+AL_Perk_Beatdown3Desc,Бонус увеличивается до [ffc070]+30%[-].
+AL_Perk_Beatdown4Desc,Бонус увеличивается до [ffc070]+40%[-].
+AL_Perk_Beatdown5Desc,Бонус увеличивается до [ffc070]+80%[-].
+,
+AL_Perk_SuckerPunch,Удар исподтишка
+AL_Perk_SuckerPunchDesc,Бейте их по морде!
+AL_Perk_SuckerPunch1Desc,"В кулачном бою мощные атаки медленнее на [ff2020]10%[-], но наносят на [20ff20]20%[-] больше урона, а также есть [ffc070]4%[-] шанс сбить противника с ног мощными атаками по лицу."
+AL_Perk_SuckerPunch2Desc,"На [ff2020]20%[-] медленнее, на [20ff20]40%[-] больше урона, а шанс сбить с ног увеличивается до [ffc070]8%[-]."
+AL_Perk_SuckerPunch3Desc,"На [ff2020]30%[-] медленнее, на [20ff20]60%[-] больше урона, а шанс сбить с ног увеличивается до [ffc070]12%[-]."
+AL_Perk_SuckerPunch4Desc,"На [ff2020]40%[-] медленнее, на [20ff20]80%[-] больше урона, а шанс сбить с ног увеличивается до [ffc070]16%[-]."
+AL_Perk_SuckerPunch5Desc,"В [ff2020]2 раза[-] медленнее, в [20ff20]2 раза[-] больше урона, а шанс сбить с ног увеличивается до [ffc070]20%[-]."
+,
+AL_Perk_Joust,Рыцарский поединок
+AL_Perk_JoustDesc,"У вас может не быть лошади, но если вы собьёте несколько кокосов вместе, это поможет."
+AL_Perk_Joust1Desc,Увеличение урона за счёт увеличения длины разбега и скорости передвижения до [ffc070]1x[-].
+AL_Perk_Joust2Desc,Увеличение урона за счёт увеличения длины разбега и скорости передвижения до [ffc070]2x[-].
+AL_Perk_Joust3Desc,Увеличение урона за счёт увеличения длины разбега и скорости передвижения до [ffc070]3x[-].
+AL_Perk_Joust4Desc,Увеличение урона за счёт увеличения длины разбега и скорости передвижения до [ffc070]4x[-].
+AL_Perk_Joust5Desc,Увеличение урона за счёт увеличения длины разбега и скорости передвижения до [ffc070]5x[-].
+,
+AL_Perk_Pike,Пика
+AL_Perk_PikeDesc,"Что делать, если вы хотите сражаться в ближнем бою, но не хотите, чтобы эти мерзкие зомби подошли близко?"
+AL_Perk_Pike1Desc,"Увеличивает дальность поражения копьями на [ffc070]0,2[-] блока."
+AL_Perk_Pike2Desc,"Увеличивает дальность поражения копьями на [ffc070]0,4[-] блока."
+AL_Perk_Pike3Desc,Увеличивает дальность поражения копьями на [ffc070]0.6[-] блоков.
+AL_Perk_Pike4Desc,Увеличивает дальность поражения копьями на [ffc070]0.8[-] блоков.
+AL_Perk_Pike5Desc,Увеличивает дальность поражения копьями на [ffc070]1[-] блок.
+,
+AL_Perk_Perseverance,Настойчивость
+AL_Perk_PerseveranceDesc,Меня.. не.. остановить!..
+AL_Perk_Perseverance1Desc,Уменьшает снижение регенерации выносливости от недостатка воды на [00ff00]10%[-].
+AL_Perk_Perseverance2Desc,Уменьшает снижение регенерации выносливости от недостатка воды на [00ff00]20%[-].
+AL_Perk_Perseverance3Desc,Уменьшает снижение регенерации выносливости от недостатка воды на [00ff00]30%[-].
+AL_Perk_Perseverance4Desc,Уменьшает снижение регенерации выносливости от недостатка воды на [00ff00]40%[-].
+AL_Perk_Perseverance5Desc,Уменьшает снижение регенерации выносливости от недостатка воды на [00ff00]50%[-].
+,
+AL_Perk_DiggyDiggyHole,Крот
+AL_Perk_DiggyDiggyHoleDesc,"Почувствуйте себя кротом, копающим всё что можно и нельзя."
+AL_Perk_DiggyDiggyHole1Desc,"Увеличивает урон по блокам [ffc070]грязи[-], [ffc070]почвы[-], [ffc070]песка[-], [ffc070]камня[-], [ffc070]гравия[-], [ffc070]снега[-] и [ffc070]песчаника[-] на [00ff00]10%[-]."
+AL_Perk_DiggyDiggyHole2Desc,Бонус увеличивается до [00ff00]20%[-].
+AL_Perk_DiggyDiggyHole3Desc,Бонус увеличивается до [00ff00]30%[-].
+AL_Perk_DiggyDiggyHole4Desc,Бонус увеличивается до [00ff00]40%[-].
+AL_Perk_DiggyDiggyHole5Desc,Бонус увеличивается до [00ff00]50%[-].
+,
+AL_Perk_BrutalMomentum,Жестокий импульс
+AL_Perk_BrutalMomentumDesc,Я не окружён вами! Вы все окружены мной!
+AL_Perk_BrutalMomentum1Desc,При использовании кувалды снижает затраты выносливости на попадание по дополнительным целям на [00ff00]20%[-].
+AL_Perk_BrutalMomentum2Desc,Бонус увеличивается до [00ff00]40%[-].
+AL_Perk_BrutalMomentum3Desc,Бонус увеличивается до [00ff00]60%[-].
+AL_Perk_BrutalMomentum4Desc,Бонус увеличивается до [00ff00]80%[-].
+AL_Perk_BrutalMomentum5Desc,Вы всегда можете поразить все цели без дополнительных затрат выносливости.
+,
+AL_Perk_CombatMedic,Боевой медик
+AL_Perk_CombatMedicDesc,"Иногда нужно сражаться, иногда лечить, а иногда делать и то, и другое."
+AL_Perk_CombatMedic1Desc,"Бинты, аптечки, шины, гипс и обезболивающие используются на [00ff00]10 %[-] быстрее на себя и на [00ff00]20 %[-] быстрее на других."
+AL_Perk_CombatMedic2Desc,На [00ff00]20 %[-] быстрее на себя и на [00ff00]40 %[-] быстрее на других.
+AL_Perk_CombatMedic3Desc,На [00ff00]30 %[-] быстрее на себя и на [00ff00]60 %[-] быстрее на других.
+AL_Perk_CombatMedic4Desc,На [00ff00]40 %[-] быстрее на себя и на [00ff00]80 %[-] быстрее на других.
+AL_Perk_CombatMedic5Desc,На [00ff00]50 %[-] быстрее на себя и на [00ff00]100 %[-] быстрее на других.
+,
+AL_Perk_FranticMan,Заполошный человек
+AL_Perk_FranticManDesc,"Прыжки, скачки, беготня, кровь и синяки, судорожное поглощение обезболивающих, отчаянное наматывание бинтов, десятки диких байкеров на хвосте - такова жизнь заполошного человека."
+AL_Perk_FranticMan1Desc,Снижение скорости бега при использовании лечебных предметов уменьшается на [00ff00]25%[-].
+AL_Perk_FranticMan2Desc,Снижение уменьшено на [00ff00]50%[-].
+AL_Perk_FranticMan3Desc,Снижение скорости бега уменьшено на [00ff00]75%[-].
+AL_Perk_FranticMan4Desc,Скорость бега больше не снижается при использовании лечебных предметов.
+AL_Perk_FranticMan5Desc,После использования лечебного предмета ваша скорость бега увеличивается на [00ff00]25%[-] на [00ff00]10 секунд[-].
+,
+AL_Perk_Explorer,Исследователь
+AL_Perk_ExplorerDesc,"Ни одна гора не будет столь высока, ни одна долина не будет столь низка, ни одна река не будет столь широка."
+AL_Perk_Explorer1Desc,Дальность обнаружения карты увеличена на [00ff00]1[-].
+AL_Perk_Explorer2Desc,Дальность обнаружения карты увеличена на [00ff00]2[-].
+AL_Perk_Explorer3Desc,Дальность обнаружения карты увеличена на [00ff00]3[-].
+AL_Perk_Explorer4Desc,Дальность обнаружения карты увеличена на [00ff00]4[-].
+AL_Perk_Explorer5Desc,Дальность обнаружения карты увеличена на [00ff00]5[-].
+# }}},
+,
+# Progression UI {{{,
+AL_LK_AttributesTab,Атрибуты
+AL_LK_SkillsTab,Навыки
+AL_LK_CraftingTab,Изготовление
+AL_LK_PerkBooksTab,Книги
+AL_LK_PerksTab,Умения
+AL_LK_BackstoryTab,Предыстория
+AL_LK_SkillsGeneral,Общие
+AL_LK_SkillsCombat,Бой
+AL_LK_SkillsMelee,Ближний бой
+AL_LK_SkillsRanged,Дальний бой
+AL_LK_SkillsGathering,Сбор
+AL_LK_SkillsCrafting,Изготовление
+AL_LK_SkillsMeleeCombat,Ближний бой
+AL_LK_SkillsRangedCombat,Дальний бой
+AL_LK_NoPerkPoints,У вас недостаточно {0} очков умений.
+# }}},
+,
+# Progression {{{,
+AL_LK_LevelUp,Ваш навык [ff8020]{0}[-] повысился до уровня [80ff80]{1}[-].
+AL_LK_LevelUp_AL_Attribute_Strength,Вы стали [ff9933]сильнее[-].
+AL_LK_LevelUp_AL_Attribute_Fortitude,Ваша [ff3333]стойкость[-] выросла.
+AL_LK_LevelUp_AL_Attribute_Agility,Ваша [ffff33]ловкость[-] выросла.
+AL_LK_LevelUp_AL_Attribute_Finesse,Ваша [33ff33]изящность[-] улучшилась.
+AL_LK_LevelUp_AL_Attribute_Perception,Ваше [9059ff]восприятие[-] улучшилось.
+AL_LK_LevelUp_AL_Attribute_Intellect,Ваш [6666ff]интеллект[-] повысился.
+,
+AL_LK_TTStrengthPerkPoints,Очки умений [ff9933]силы[-]
+AL_LK_TTFortitudePerkPoints,Очки  умений [ff3333]стойкости[-]
+AL_LK_TTFinessePerkPoints,Очки умений [33ff33]изящности[-]
+AL_LK_TTAgilityPerkPoints,Очки умений [ffff33]ловкости[-]
+AL_LK_TTPerceptionPerkPoints,Очки умений [9059ff]восприятия[-]
+AL_LK_TTIntellectPerkPoints,Очки умений [6666ff]интеллекта[-]
+# }}},
+,
+# FreeDye {{{,
+AL_LK_BottleIt,Набрать в бутылку
+AL_LK_EmptyTub,Опустошить ванну
+AL_LK_InsufficientColour,Недостаточный цвет.
+AL_LK_ToolTipBottleIt,[ffc070]Берёт около десяти единиц краски и переливает её в пригодный для использования краситель текущего цвета ванны.[-]
+AL_LK_ToolTipEmptyTub,"[ffc070]Опустошает содержимое ванны с красителем, необратимо уничтожая его.[-]"
+# }}},
+,
+# FreeBuild {{{,
+AL_LK_UpgradeRequirementsJoinedWood,[ff4040]Требуется[-]:\n10 древесины\n1 древесный пек
+AL_LK_UpgradeRequirementsNailedWood,[ff4040]Требуется[-]:\n10 древесины\n2 гвоздя
+AL_LK_UpgradeRequirementsCobblestone,[ff4040]Требуется[-]:\n10 маленьких камней\n2 примитивного раствора
+AL_LK_UpgradeRequirementsBrick,[ff4040]Требуется[-]:\n10 кирпичей\n2 стройраствора
+AL_LK_UpgradeRequirementsConcrete,[ff4040]Требуется[-]:\n10 бетонной смеси
+AL_LK_UpgradeRequirementsSteel,[ff4040]Требуется[-]:\n2 стальных слитка
+AL_LK_UpgradeRequirementsInconel,[ff4040]Требуется[-]:\n2 слитка инконеля
+,
+AL_LK_NailedWood,[96432d]древесина на гвоздях[-]
+AL_LK_JoinedWood,[7f4b3d]древесина на клею[-]
+# }}},
+,
+# Map {{{,
+AL_LK_RenameWaypoint,Переименовать
+AL_LK_RemoveWaypoint,Удалить
+AL_LK_PopupTextNeedMap,[ffa63c]Карта не экипирована.[-]
+# }}},
+,
+# EntityClasses {{{,
+AL_EC_TrainingDummy,Тренировочный манекен
+AL_EC_ZombiePyro,Поджигатель
+AL_EC_ZombieStoner,Наркоман
+AL_EC_ZombieFroglok,Фроглок
+,
+AL_EC_AnimalZombieBearRadiated,Радиационный зомби-медведь
+AL_EC_AnimalZombieBoar,Зомби-кабан
+AL_EC_PolarBear,Полярный медведь
+,
+AL_EC_ZombieBerserkerSteve,Берсерк Стив
+AL_EC_ZombieBerserkerMoe,Берсеркер Мо
+AL_EC_ZombieBerserkerLab,Берсерк лаборант
+AL_EC_ZombieBerserkerUtilityWorker,Берсерк работяга
+AL_EC_ZombieBerserkerLumberjack,Берсерк дровосек
+AL_EC_ZombieBerserkerArlene,Берсерк Арлин
+AL_EC_ZombieBerserkerSkateboarder,Берсерк-скейтбордист
+AL_EC_ZombieBerserkerFatHawaiian,Берсерк толстяк-турист
+AL_EC_ZombieBerserkerFemaleFat,Берсерк толстая мамаша
+AL_EC_ZombieBerserkerBoe,Берсерк Бо
+AL_EC_ZombieBerserkerPartyGirl,Берсерк тусовщица
+AL_EC_ZombieBerserkerDarlene,Берсерк Дарлин
+AL_EC_ZombieBerserkerBiker,Берсерк Байкер
+AL_EC_ZombieBerserkerJoe,Берсерк Джо
+AL_EC_ZombieBerserkerJanitor,Берсерк уборщик
+AL_EC_ZombieBerserkerBusinessMan,Берсерк бизнесмен
+AL_EC_ZombieBerserkerTomClark,Берсерк Том Кларк
+AL_EC_ZombieBerserkerNurse,Берсерк Медсестра
+AL_EC_ZombieBerserkerYo,Берсерк Йо
+AL_EC_ZombieBerserkerMarlene,Берсерк Марлин
+AL_EC_ZombieBerserkerSoldier,Берсерк солдат
+,
+AL_EC_ZombieRabidSteve,Бешеный Стив
+AL_EC_ZombieRabidArlene,Бешеная Арлин
+AL_EC_ZombieRabidDarlene,Бешеная Дарлин
+AL_EC_ZombieRabidMarlene,Бешеная Марлин
+AL_EC_ZombieRabidPartyGirl,Бешеная тусовщица
+AL_EC_ZombieRabidNurse,Бешеная медсестра
+AL_EC_ZombieRabidBusinessMan,Бешеный бизнесмен
+AL_EC_ZombieRabidTomClark,Бешеный Том Кларк
+AL_EC_ZombieRabidMoe,Бешеный Мо
+AL_EC_ZombieRabidJanitor,Бешеный уборщик
+AL_EC_ZombieRabidHazmat,Бешеный хазмат
+AL_EC_ZombieRabidUtilityWorker,Бешеный работяга
+AL_EC_ZombieRabidBiker,Бешеный байкер
+AL_EC_ZombieRabidLumberjack,Бешеный лесоруб
+AL_EC_ZombieRabidFemaleFat,Бешеная мамаша
+AL_EC_ZombieRabidFatHawaiian,Бешеный толстяк-турист
+AL_EC_ZombieRabidYo,Бешеный Йо
+AL_EC_ZombieRabidSkateboarder,Бешеный скейтбордист
+AL_EC_ZombieRabidBoe,Бешеный Бо
+AL_EC_ZombieRabidJoe,Бешеный Джо
+AL_EC_ZombieRabidLab,Бешеный лаборант
+,
+AL_EC_ZombieSmartBusinessMan,Умный бизнесмен
+AL_EC_ZombieSmartLab,Умный лаборант
+AL_EC_ZombieSmartLumberjack,Умный лесоруб
+AL_EC_ZombieSmartBiker,Умный байкер
+AL_EC_ZombieSmartPartyGirl,Умная тусовщица
+AL_EC_ZombieSmartSoldier,Умный солдат
+,
+AL_EC_ZombiePartyGirlBrunette,Тусовщица (брюнетка)
+# }}},
+,
+# Vanilla Entries Modified {{{,
+ObjectiveLocateSupplies_keyword,Найдите тайник:
+,
+perkRangersAPAmmoDesc,Дополнительно 50% дополнительного урона к атакам исподтишка при использовании луков и арбалетов.
+perkRangersAPAmmoLongDesc,Дополнительно 50% дополнительного урона к атакам исподтишка при использовании луков и арбалетов.
+,
+drugAntibioticsDesc,"Хотя антибиотики не могут вылечить Z-вирус, они могут значительно ослабить его."
+,
+gunMGT0PipeMachineGun,Пистолет-пулемёт из трубы
+gunMGT0PipeMachineGunDesc,"Самодельное автоматическое оружие, стреляющее патронами калибра 9 мм."
+,
+lblContextActionDrink,Выпейте немного [815500]грязной заражённой воды[-].
+,
+blockVariantHelperGroupDesc,"С его помощью можно размещать блоки, а при использовании инструмента для строгания - блоки для чертежей, которые можно улучшать с помощью строительных инструментов, таких как деревянная киянка."
+,
+perkLuckyLooterBrassDesc,Найдите больше металлолома в добыче.
+perkLuckyLooterBrassLongDesc,Найдите больше металлолома в добыче.
+perkLuckyLooterLeadDesc,Найдите ещё больше металлолома в добыче.
+perkLuckyLooterLeadLongDesc,Найдите ещё больше металлолома в добыче.
+,
+resourceLeather,Шкура животного
+resourceLeatherDesc,Свежесрезанная шкура с бедного мёртвого животного. Мы благодарим их за жертву.
+cntDewCollector,Сборщик дождевой воды
+xuiDewCollector,Сборщик дождевой воды
+,
+goDifficulty2,Искатель приключений (новый вариант по умолчанию)
+goDifficulty3,Кочевник (старый вариант по умолчанию)
+,
+ammoArrowStone,[ffc070]Примитивная стрела[-]
+ammoArrowStoneDesc,"Примитивная стрела с наконечником из кости или камня. Обычно ею указывают на то, что должно быть поражено стрелой."
+,
+xuiOptionsVideoShadowsDistanceTooltip,Качество и расстояние до теней объектов.\nВлияние на производительность: высокое.\nНе может быть отключено в [ffc070]Afterlife[-].
+,
+sneakDamageBonus,[ffc070]{0}[-]x бонус к урону
+,
+lootItem,
+lootEntity,{1}\n[5cff5c](Нетронуто)[-]
+lootTooltipEmpty,{1}\n[808080](Пусто)[-]
+lootTooltipNew,{1}\n[5cff5c](Нетронуто)[-]
+lootTooltipTouched,{1}\n[ffaa00](Осмотрено)[-]
+useCampfire,[ffc070][Доступ][-]
+useForge,[ffc070][Доступ][-]
+useSecureDoor,[ffc070]Открыть[-]
+useWorkstation,[ffc070][Доступ][-]
+pickupCrops,[ffc070][Подобрать][-]
+pickupPrompt,[ffc070][Подобрать][-]
+tooltipInteract,[Взаимодействовать с [ffc070]{1}[-]]
+vendingMachineActivate,[Взаимодействовать с [ffc070]{1}]
+,
+xuiOptionsVideoUIBackgroundOpacity,Непрозрачность фона игрового интерфейса
+xuiOptionsVideoUIForegroundOpacity,Непрозрачность переднего плана игрового интерфейса
+,
+xuiOptionsVideoUIBackgroundOpacityTooltip,"Прозрачность фоновых контуров пользовательского интерфейса и иконок, когда вы находитесь в игре (т.е. не в меню)."
+xuiOptionsVideoUIForegroundOpacityTooltip,Прозрачность контуров и значков переднего плана пользовательского интерфейса в игре (т. е. не в меню).
+,
+tooltipUnlocked,[Использовать [ffc070]{1}[-]]\n[83FF89](разблокировано)[-]
+tooltipLocked,[Использовать [ffc070]{1}[-]]\n[ff5555](заблокировано)[-]
+useBlock,[Использовать [ffc070]{1}[-]]
+,
+resourceMetalPipeDesc,Длиннополый цилиндрический трубчатый пипазоид. Может использоваться в качестве ужасного телескопа или дерьмового диджериду.
+,
+trapsSkillMagazine,Ловушки
+trapsSkillMagazineDesc,У вас есть вредители? Посмотрите на эти безумные ловушки для борьбы с вредителями и обеспечения безопасности дома.\n\nУлучшает навык [ffc070]изготовление ловушек[-].
+,
+ttCraftingSkillUnlock,[a0a0a0]Разблокировано {0}:[-] [ffc000]{1}[-] [808080](Качество {2})[-]
+ttCraftingSkillUnlockQuality,[a0a0a0]Разблокировано {0}:[-] [ffc000]{1}[-] [808080](Качество {2})[-]
+,
+npcTooltipTalk,[ffc070][Использовать рацию][-]
+,
+drinkJarBeer,Пиво
+drinkJarBeerDesc,"Это пиво не превратит вас в устойчивого к оглушению сверхчеловека с размахивающими кулаками, как некоторые другие сорта пива, с которыми вам приходилось сталкиваться, но что ж... это всего лишь пиво..."
+,
+resourceBone,[ffc070]Кость[-]
+resourceBoneDesc,"Кости, с одной стороны, удерживают ваше тело вместе. С другой стороны, ими можно бить зомби, что тоже помогает держать тело вместе. А еще они отлично подходят для ролевых игр в пещерных людей."
+,
+dFood,[ff8000]Еда[-]
+,
+repairToolsSkillMagazineDesc,От домашнего мастера до профессионального ремонтника - мы позаботимся о вас!\n\nУлучшает навык [ffc070]изготовления строительных инструментов[-].
+,
+toolAnvil,Железная наковальня
+toolAnvilDesc,"Простая железная наковальня. Может быть установлена в кузнице, чтобы позволить кузнецу обрабатывать слитки в различные изделия. Позволяет изготавливать бронзовые инструменты по рецептам, использующим железную наковальню, делая ту же работу гораздо быстрее."
+toolBellowsDesc,"Важнейшие кузнечные мехи обеспечивают постоянную подачу плотного воздуха. Они могут быть установлены в кузнице, чтобы увеличить уровень нагрева кузницы на одну единицу независимо от того, какое топливо горит в данный момент."
+toolForgeCrucibleDesc,"Тигель является важной частью процесса плавки и позволяет производить небольшие цельнометаллические изделия путём захвата и подачи чистого расплавленного металла в форму. Может быть установлен в кузнице, чтобы обеспечить отливку металлических изделий из хранящегося в кузнице металла."
+,
+xuiEmptyInfoPanelText,"[00ff00][Shift + [action:local:Primary]][-] на [ffc070]Изготовить/Разобрать/Ремонтировать[-], чтобы перенести в начало очереди.\n[00ff00][R][-] в рабочих станциях, чтобы забрать всё с выхода.\n[00ff00][[action:local:FocusCopyBlock]][-][-] нацелившись на блок, чтобы [ffc070]копировать поворот[-]. \n[00ff00][Shift + [[action:local:FocusCopyBlock]][-] нацелевшись на блок, чтобы [ffc070]копировать форму[-].\n[00ff00][Ctrl + Alt + [action:local:Primary]][-], чтобы включить [ffc070]автоатаку[-]. \n[action:local:Primary], чтобы остановить [ffc070]автоатаку[-].\n[00ff00][Alt + [action:local:Primary]][-] на предмете инвентаря, чтобы заблокировать слот[-]."
+,
+meleeToolRepairT0StoneAxeDesc,"Примитивный инструмент, с помощью которого можно резать дерево, добывать камень, ремонтировать и обновлять стены, двери и окна. Не лучшее оружие."
+cellarDoorDoubleIronDesc,"Нажмите и удерживайте [action:local:Activate][action:permanent:Activate], чтобы запереть её или задать пароль. Улучшите её до стальной двери подвала, используя изготовленную стальную дверь подвала."
+cellarDoorDoubleSteelDesc,"Нажмите и удерживайте [action:local:Activate][action:permanent:Activate], чтобы запереть её или задать пароль."
+cellarDoorDoubleWoodDesc,"Нажмите и удерживайте [action:local:Activate][action:permanent:Activate], чтобы запереть её или задать пароль."
+drugVitaminsDesc,"В условиях бесконечного выбора в супермаркете витамины обеспечивают питательными веществами, которых почти наверняка не хватает в вашем рационе. Улучшая питание, вы повышаете свою энергию и иммунитет."
+,
+meleeWpnBladeT0BoneKnifeDesc,Это примитивное самодельное оружие также пригодится для свежевания животных.
+resourcePaperDesc,"Бумагу можно использовать вместе с другими ингредиентами для изготовления патронов к ружьям, динамита и сигар. Бумага была повсеместно распространена в старом мире и остается в изобилии сейчас."
+,
+perkFiremansAlmanacCompleteLongDesc,"Огненный адреналин: Запах дыма вызывает выброс адреналина. Когда вы находитесь в пустоши, вы получаете 20% урона и 20% регенерации выносливости во время бега."
+,
+perkRangersCompleteDesc,Двойной урон в голову непотревоженных врагов из луков и арбалетов.
+,
+ammoGasCan,[ffc070]Топливо для моторных инструментов[-]
+ammoGasCanDesc,"Специализированное топливо, которое можно использовать в моторных инструментах, таких как буры и бензопилы."
+,
+perkEnforcerCompleteDesc,Все выстрелы патронами .44 пробивают врагов.
+perkEnforcerCompleteLongDesc,Проникающая способность: обычные патроны калибра .44 и усиленные могут проникать сквозь врагов и поражать цели позади них.
+,
+perkPistolPeteCompleteDesc,Выстрелы в упор игнорируют броню.
+perkPistolPeteCompleteLongDesc,"Пороховые ожоги: Выстрелы из 9-мм оружия, произведенные в упор, игнорируют 20% брони и наносят кровоточащий урон."
+,
+perkShotgunMessiahCompleteDesc,Вы можете одним выстрелом уничтожить большинство деревянных блоков.
+perkShotgunMessiahCompleteLongDesc,Один выстрел: Застряли в тесном помещении и нужно быстро скрыться? Проделайте дыру в стене с помощью этого удобного трюка. Вы можете пробить одним выстрелом большинство гипсокартонных и деревянных стен.
+,
+perkSniperCompleteDesc,Вы можете изготавливать маскировочный костюм.
+perkSniperCompleteLongDesc,"Призрак: слейтесь с окружающей средой и станьте настоящим убийцей, надев камуфляжный костюм гилли. Вы можете изготавливать маскировочный костюм."
+,
+drinkJarGrandpasMoonshineDesc,"Ничто не поможет решить проблему старым способом, как бутылка дедушкиного самогона."
+# }}},
+,
+# Buffs {{{,
+lblBuffs,Баффы
+,
+AL_Buff_VitalityMinimum,Оптимизм
+AL_Buff_VitalityMinimumDesc,"Апокалипсис шмакополипсис!\n\n[aaaaaa]Ваш минимум[-] [ffc070]живзнестойкости[-] [aaaaaa]составляет[-] {0}[aaaaaa]. Этот эффект будет уменьшаться в течение[-] [ff0000]7 дней[-][aaaaaa], начиная с конца[-] [ffffff]1 дня[-][aaaaaa] и заканчивая началом[-] [ffffff]8 дня[-][aaaaaa].[-]"
+,
+AL_Buff_WarmingFire,Согревающий огонь
+AL_Buff_WarmingFireName,Согревающий огонь
+AL_Buff_WarmingFireDesc,Вас согревает ближайший огонь.\n\n[ffc070]Эффекты:[-]\n[bbbbbb]- +20 сопротивления переохлаждению.\n- Быстро снимает намокание.[-]
+,
+AL_Buff_DrinkingRain,Питьё дождя
+AL_Buff_DrinkingRainName,Питьё дождя
+AL_Buff_DrinkingRainDesc,"Хоть и медленно, и вы промокаете, но это лучше, чем обезвоживание."
+,
+AL_Buff_ZInfectionTurnedName,[ff4040]Обращённый[-]
+AL_Buff_ZInfectionTurnedDesc,"Зомби-инфекция полностью охватила вас и привела к необычной смерти. Когда ваше сознание покинуло тело, ваш прыжок через пустоту был перехвачен. Хотя вам казалось, что вы находитесь в открытом пространстве, вас зажало. Быстро возникло мучительное ощущение, что вас режут по всему телу. Вы попытались закричать, но кричать было [i] нечем[/i]. На вас набросилась враждебная сила. Вас протащило сквозь острую пустоту, словно через поле бритвенных лезвий. Ваше сознание разрушалось. Вы почувствовали, как ваш духовный покровитель дергает вас, пытаясь освободить. Через некоторое время вас с огромной силой отбросило в сторону, и вы, по-видимому, спаслись, но вы знали, что этот опыт сильно повредил ваш разум. Похоже, эта инфекция не просто сила природы.\n\n[ffc070]Эффекты:[-]\n[bbbbbb] Все атрибуты, навыки действий и навыки изготовления уменьшены на 10%.[-]"
+,
+AL_Buff_BloodmoonDeath,[ff4040]Принесён в жертву Кровавой Луне[-]
+AL_Buff_BloodmoonDeathDesc,"Когда вас пронесло сквозь пустоту к воскрешению, хотя траектория движения не изменилась, вас внезапно поразило ощущение мощного тупого удара. Вы почувствовали на себе пристальный взгляд чего-то. Нечто, очевидно, не слишком довольное фактом вашего существования. Почувствовав силу удара, вы ощутили, как внутри вас медленно растет глубокая враждебность. Её усики методично проникали внутрь, извиваясь на задворках вашего сознания. Вы очнулись. Живой, но с сильным ужасом.\n\n[ffc070]Эффекты:[-]\n[bbbbbb] Жизнестойкость снижена до нуля.[-]"
+,
+AL_Buff_VitaminsName,[ffc070]Витамины в норме[-]
+AL_Buff_VitaminsDesc,Вы получили суточную норму витаминов и минералов и чувствуете себя более энергичным.\n\n[ffc070]Эффекты:[-]\n[bbbbbb]+0.35% жизнестойкости/мин.\n+10% регенерации выносливости
+,
+AL_BuffWobblyInspired,[ff8080]Вдохновение[-]
+AL_BuffWobblyInspiredDesc,"Вы чувствуете сердцем тяжелое положение рабочего класса, и это побуждает вас к действию."
+AL_BuffWobblyInspiredTT,[ff8080]Вдохновение[-]
+,
+AL_Buff_AlcoholWithdrawal_DepressionName,[e79b13]Отказ от алкоголя:[-] Депрессия
+AL_Buff_AlcoholWithdrawal_DepressionDesc,Сильная депрессия тяготит ваш разум. Она замедляет вас почти во всех отношениях и омрачает ваш взгляд на жизнь.
+,
+AL_Buff_AlcoholWithdrawal_AnxietyName,[e79b13]Отказ от алкоголя:[-] Тревога
+AL_Buff_AlcoholWithdrawal_AnxietyDesc,"То, что пугало вас раньше, пугает вас ещё больше, а то, что не пугало вовсе, вызывает беспокойство.\n\n[ffc070]Эффекты:[-]\n[bbbbbb]Удваивает негативные эффекты от[-] [ffffff]окружения[-][bbbbbb],[-] [ffffff]боевого стресса[-][bbbbbb], и[-] [ffffff]страха[-][bbbbbb]."
+,
+AL_Buff_AlcoholWithdrawal_BrainFogName,[e79b13]Отказ от алкоголя:[-] Каша в мозгах
+AL_Buff_AlcoholWithdrawal_BrainFogDesc,Вы просто не можете связать свои мысли воедино... 
+,
+AL_Buff_AlcoholWithdrawal_TremorsName,[e79b13]Отмена алкоголя:[-] Тремор
+AL_Buff_AlcoholWithdrawal_TremorsDesc,У вас ломка.
+,
+AL_Buff_AlcoholWithdrawal_FatigueName,[e79b13]Отказ от алкоголя:[-] Усталость
+AL_Buff_AlcoholWithdrawal_FatigueDesc,Вам так тяжко... даже двигаться...
+,
+AL_Buff_AlcoholWithdrawal_HeadacheName,[e79b13]Отказ от алкоголя:[-] Головная боль
+AL_Buff_AlcoholWithdrawal_HeadacheDesc,У вас ни с того ни с сего разболелась голова.
+,
+AL_BuffWoodsman,Лесовик
+AL_BuffWoodsmanDesc,"Проведя всё время после катастрофы в лесах, избегая населённых пунктов, вы стали чувствовать себя более комфортно в дикой природе и с опаской относиться к цивилизации. [808080]Вы быстрее бегаете и быстрее восстанавливаете выносливость, когда находитесь в дикой местности, и наоборот, когда находитесь в искусственной среде[-]."
+AL_BuffWoodsmanTT,"Проведя всё время после катастрофы в лесах, избегая населённых пунктов, вы стали чувствовать себя более комфортно в дикой природе и с опаской относиться к цивилизации. [808080]Вы быстрее бегаете и быстрее восстанавливаете выносливость, когда находитесь в дикой местности, и наоборот, когда находитесь в искусственной среде[-]."
+,
+AL_Buff_FoodPoisoning_QueasyName,Недомогание
+AL_Buff_FoodPoisoning_QueasyDesc,Ваш желудок чувствует себя не очень хорошо... Лучше немного успокоиться.\n\n[ffc070]Эффекты:[-]\n[bbbbbb]-0.01% жизнестойкости/мин.\n-5% подвижности[-]
+,
+AL_Buff_FoodPoisoning_NauseousName,Тошнота
+AL_Buff_FoodPoisoning_NauseousDesc,Вы действительно [i]чувствуете себя не очень хорошо[/i]... Уф...\n\n[ffc070]Эффекты:[-]\n[bbbbbb]-0.02% жизнестойкости/мин\n-10% подвижности[-]
+,
+AL_Buff_VomitName,Рвота!
+AL_Buff_VomitDesc,Ууууггхххха---бгхххаааааа-кх-ррххэээээ
+# }}},
+,
+# UI Only {{{,
+AL_LK_StatSymbolHealth,Здоровье
+AL_LK_StatSymbolStamina,Выносливость
+AL_LK_StatSymbolAlcohol,Жизнестойкость
+AL_LK_StatSymbolAlcohol,Алкоголь
+,
+AL_TagRestrictedSlot_Light,Свет / Факел
+AL_TagRestrictedSlot_Map,Карта
+AL_TagRestrictedSlot_Compass,Компас
+AL_TagRestrictedSlot_Watch,Часы
+AL_TagRestrictedSlot_Radio,Рация
+AL_TagRestrictedSlot_GeigerCounter,Счётчик Гейгера
+AL_TagRestrictedSlot_Toolbelt,Пояс с инструментами
+AL_TagRestrictedSlot_Backpack,Рюкзак
+,
+AL_BookGroup_RockHard,Как кремень
+AL_BookGroup_MoreDakka,Больше дакки
+AL_BookGroup_WhiskeyPunch,Виски-Пунш
+AL_BookGroup_HitIt,Бей
+AL_BookGroup_Magnuminous,Величественный
+AL_BookGroup_BurnBabyBurn,"Жги, детка, жги"
+AL_BookGroup_Yoink,Скоммуниздили!
+AL_BookGroup_WildThing,Дикая тварь
+AL_BookGroup_LootGobblin,Лут гоблин
+AL_BookGroup_DarknessCalls,Зов тьмы
+AL_BookGroup_ShootyMcGee,Шути МакГи
+AL_BookGroup_Trueshot,Истинный выстрел
+AL_BookGroup_BlastEm,Бабах
+AL_BookGroup_LongShot,Дальний выстрел
+AL_BookGroup_HotTips,Горячие советы
+AL_BookGroup_CloseQuarters,Ближняя дистанция
+,
+AL_LK_Rotato,Ротато
+# }}},
+,
+# Main Menu {{{,
+AL_LK_7DTDCredits,Титры: 7 days to die
+AL_LK_ALCredits,Титры: Модификация Afterlife
+# }}},
+,
+# Cartography Table {{{,
+AL_LK_UseCartographyTable,[Использовать [ffc070]картографический стол[-]]
+blockcommand_sync,Синхронизировать с картой
+blockcommand_copy_to,Копировать в
+blockcommand_copy_from,Копировать из
+blockcommand_reset,Отладка: сброс карты
+# }}},
+,
+# Block Commands {{{,
+blockcommand_pick_normal,Взлом замка\n[bbbbbb](Обычный взлом)[-]
+blockcommand_pick_improvised,Взлом замка\n[ffc070](Импровизированная отмычка)[-]
+# }}},
+,
+# TimedActions {{{,
+AL_LK_TargetAtMaxHealth,Цель уже полностью здорова.
+AL_LK_PlayerAtMaxHealth,Вы уже полностью здоровы.
+# }}},
+,
+# Progression UI {{{,
+AL_PerkBook_RockHard1Desc,Создание очень крепкого [ffc070]кофе рудокопов[-]
+AL_PerkBook_RockHard2Desc,На 50% меньше урона от обрушившихся шахт
+AL_PerkBook_RockHard3Desc,Дайте-ка клейкую ленту: Шахтёрские инструменты приходят в негодность на 20% медленнее.
+AL_PerkBook_RockHard4Desc,На 10% повышает доходность рудных блоков.
+AL_PerkBook_RockHard5Desc,Простая светота: можно изготовить [ffc070]налобный фонарь[-].
+AL_PerkBook_RockHard6Desc,"Будьте в тонусе: -20% потери выносливости при использовании шахтерских инструментов, если уровень воды превышает 50%."
+AL_PerkBook_RockHard7Desc,Создание модификаций лезвий с [ffc070]алмазным напылением[-]: прочность инструментов значительно повышается
+AL_PerkBook_RockHardCompleteDesc,Прорыв: Шанс добыть руду одним ударом. Повышается в зависимости от навыка [i]Горное дело[/i].
+# }}},
+,
+AL_LK_CraftingSkillPrefixRGB,[ffc070]Навык изготовления:[-]
+AL_LK_BookPrefixRGB,[ffc070]Книга:[-]
+AL_LK_PerkPrefixRGB,[ffc070]Умение:[-]
+AL_LK_SkillPrefixRGB,[ffc070]Навык:[-]
+AL_LK_AttributePrefixRGB,[ffc070]Атрибут:[-]
+AL_LK_BookGroupPrefixRGB,[ffc070]Группа книг:[-]
+,
+# Crafting Skills {{{,
+AL_CraftingSkill_Armour,Изготовление брони
+AL_CraftingSkill_ConstructionTools,Строительные инструменты
+AL_CraftingSkill_HarvestingTools,Инструменты для сбора
+AL_CraftingSkill_SalvageTools,Инструментя для разбора
+AL_CraftingSkill_Knuckles,Кастеты
+AL_CraftingSkill_Medical,Медикаменты
+AL_CraftingSkill_Spears,Изготовление копий
+AL_CraftingSkill_Cooking,Готовка
+AL_CraftingSkill_Tools,Инструменты
+AL_CraftingSkill_Knives,Ножи
+AL_CraftingSkill_BowyeryFletching,Луки и арбалеты
+AL_CraftingSkill_Clubs,Дубинки
+AL_CraftingSkill_Electronics,Электроника
+AL_CraftingSkill_Explosives,Взрывчатка
+AL_CraftingSkill_Handguns,Пистолеты
+AL_CraftingSkill_MachineGuns,Пулемёты
+AL_CraftingSkill_SMGs,Пистолеты-пулемёты
+AL_CraftingSkill_LMGs,Лёгкие пулемёты
+AL_CraftingSkill_Rifles,Винтовки
+AL_CraftingSkill_Robotics,Робототехника
+AL_CraftingSkill_Farming,Сельское хозяйство
+AL_CraftingSkill_Shotguns,Дробовики
+AL_CraftingSkill_Sledgehammers,Кувалды
+AL_CraftingSkill_Traps,Изготовление ловушек
+AL_CraftingSkill_Vehicles,Транспортные средства
+AL_CraftingSkill_Workstations,Рабочие станции
+AL_CraftingSkill_Mechanics,Механика
+AL_CraftingSkill_AssaultRifles,Штурмовые винтовки
+AL_CraftingSkill_MeleeWeapons,Оружие ближнего боя
+AL_CraftingSkill_Guns,Оружейное дело
+AL_CraftingSkill_Primitive,Примитивное
+AL_CraftingSkill_Tailoring,Портняжное дело
+,
+AL_CraftingSkill_ArmourLong,Изготовление брони
+AL_CraftingSkill_ConstructionToolsLong,Изготовление строительных инструментов
+AL_CraftingSkill_HarvestingToolsLong,Изготовление инструментов для сбора
+AL_CraftingSkill_SalvageToolsLong,Изготовление инструментов для разбора на детали
+AL_CraftingSkill_KnucklesLong,Изготовление кастетов
+AL_CraftingSkill_MedicalLong,Медицинское ремесло
+AL_CraftingSkill_SpearsLong,Копейное дело
+AL_CraftingSkill_CookingLong,Готовка
+AL_CraftingSkill_ToolsLong,Изготовление инструментов
+AL_CraftingSkill_KnivesLong,Изготовление ножей
+AL_CraftingSkill_BowyeryFletchingLong,Лучно-арбалетное ремесло
+AL_CraftingSkill_ClubsLong,Изготовление дубинок
+AL_CraftingSkill_ElectronicsLong,Электроника
+AL_CraftingSkill_ExplosivesLong,Изготовление взрывчатки
+AL_CraftingSkill_HandgunsLong,Изготовление пистолетов
+AL_CraftingSkill_MachineGunsLong,Изготовление пулемётов
+AL_CraftingSkill_SMGsLong,Изготовление пистолета-пулемётов
+AL_CraftingSkill_LMGsLong,Изготовление ручных пулемётов
+AL_CraftingSkill_RiflesLong,Изготовление винтовок
+AL_CraftingSkill_RoboticsLong,Робототехника
+AL_CraftingSkill_FarmingLong,Сельское хозяйство
+AL_CraftingSkill_ShotgunsLong,Изготовление дробовиков
+AL_CraftingSkill_SledgehammersLong,Изготовление кувалд
+AL_CraftingSkill_TrapsLong,Изготовление ловушек
+AL_CraftingSkill_VehiclesLong,Создание транспортных средств
+AL_CraftingSkill_WorkstationsLong,Изготовление рабочих станций
+AL_CraftingSkill_MechanicsLong,Механика
+AL_CraftingSkill_AssaultRiflesLong,Изготовление штурмовых винтовок
+AL_CraftingSkill_MeleeWeaponsLong,Создание оружия ближнего боя
+AL_CraftingSkill_GunsLong,Оружейное дело
+AL_CraftingSkill_PrimitiveLong,Примитивное ремесло
+AL_CraftingSkill_TailoringLong,Портняжное дело
+,
+AL_CraftingSkill_HarvestingToolsDesc,Позволяет изготавливать инструменты для добычи/собирательства и улучшает их качество. Читайте [ffc070]Мир инструментов[-] и разбирайте такие инструменты для прогресса.
+AL_CraftingSkill_ConstructionToolsDesc,Позволяет изготавливать инструменты для строительства и ремонта и улучшает их качество. Читайте [ffc070]На все руки мастер[-] и разбирайте строительные/ремонтные инструменты для прогресса.
+AL_CraftingSkill_SalvageToolsDesc,Позволяет изготавливать инструменты для разбора и улучшает их качество. Читайте [ffc070]Сокровища свалки[-] и разбирайте инструменты для разбора для прогресса.
+AL_CraftingSkill_KnucklesDesc,Позволяет изготавливать кастеты и улучшает их качество. Читайте [ffc070]Кулаки ярости[-] и разбирайте кастеты для прогресса.
+AL_CraftingSkill_MedicalDesc,Позволяет изготавливать медицинские предметы. Читайте [ffc070]Медицинский вестник[-] для прогресса.
+AL_CraftingSkill_SpearsDesc,Позволяет изготавливать копья и улучшает их качество. Читайте [ffc070]Острые штучки[-] и разбирайте копья для прогресса.
+AL_CraftingSkill_CookingDesc,Позволяет готовить различные блюда. Читайте [ffc070]Еженедельник домашней готовки[-] для прогресса.
+AL_CraftingSkill_KnivesDesc,Позволяет изготавливать ножи и улучшает их качество. Читайте [ffc070]Ножевик[-] и разбирайте ножи для прогресса.
+AL_CraftingSkill_BowyeryFletchingDesc,"Позволяет изготавливать луки/арбалеты и улучшает их качество, а также стрелы и болты. Читайте [ffc070]Охотимся с луком[-] и разбирайте луки и арбалеты для прогресса."
+AL_CraftingSkill_ClubsDesc,Позволяет изготавливать дубинки и улучшает их качество. Читайте [ffc070]Любители бейсбола[-] и разбирайте дубинки для прогресса.
+AL_CraftingSkill_ElectronicsDesc,Позволяет изготавливать электронные и электрические предметы. Читайте [ffc070]Я электрик[-] для прогресса.
+AL_CraftingSkill_ExplosivesDesc,Позволяет изготавливать взрывчатку. Читайте [ffc070]Всё о взрывчатке[-] и разбирайте взрывчатку для прогресса.
+AL_CraftingSkill_HandgunsDesc,Позволяет изготавливать пистолеты и улучшает их качество. Читайте [ffc070]Короткоствол[-] и разбирайте пистолеты для прогресса.
+AL_CraftingSkill_SMGsDesc,Позволяет изготавливать пистолеты-пулемёты и улучшает их качество. Читайте [ffc070]Тактическое оружие[-] и разбирайте пистолеты-пулемёты для прогресса.
+AL_CraftingSkill_RiflesDesc,Позволяет изготавливать винтовки и улучшает их качество. Читайте [ffc070]Мир винтовок[-] и разбирайте винтовки для прогресса.
+AL_CraftingSkill_RoboticsDesc,Позволяет изготавливать предметы робототехники. Читайте [ffc070]Планета технологий[-] для прогресса.
+AL_CraftingSkill_FarmingDesc,Позволяет изготавливать сельскохозяйственные предметы. Читайте [ffc070]Южное фермерство[-] для прогресса.
+AL_CraftingSkill_ShotgunsDesc,Позволяет изготавливать дробовики и улучшает их качество. Читайте [ffc070]Еженедельная дробь[-] и разбирайте дробовики для прогресса.
+AL_CraftingSkill_SledgehammersDesc,Позволяет изготавливать кувалды и улучшает их качество. Читайте [ffc070]Молотобоец[-] и разбирайте кувалды для прогресса.
+AL_CraftingSkill_TrapsDesc,Позволяет изготавливать ловушки. Читайте [ffc070]Ловушки[-] для прогресса.
+AL_CraftingSkill_VehiclesDesc,Позволяет изготавливать транспортные средства. Читайте [ffc070]Занимательная механика[-] для прогресса.
+AL_CraftingSkill_WorkstationsDesc,Позволяет изготавливать различные рабочие станции. Читайте [ffc070]Кузнец своего счастья[-] и разбирайте найденные вами разрушенные рабочие станции для прогресса.
+AL_CraftingSkill_MechanicsDesc,Позволяет изготавливать некоторые механические и моторизованные предметы и улучшает их качество. Развивайте навыки [ffc070]Моторные инструменты[-] и [ffc070]Транспортные средства[-] для прогресса.
+AL_CraftingSkill_MeleeWeaponsDesc,Улучшает качество изготовления всего оружия ближнего боя. Читайте любые журналы по оружию ближнего боя и разбирайте оружие ближнего боя для прогресса.
+AL_CraftingSkill_GunsDesc,Улучшает качество изготовления всех видов огнестрельного оружия. Читайте любые оружейные журналы и разбирайте оружие для прогресса.
+AL_CraftingSkill_MachineGunsDesc,Позволяет изготавливать пулемёты и повышает их качество.
+AL_CraftingSkill_LMGsDesc,Легкие пулемёты
+AL_CraftingSkill_AssaultRiflesDesc,Штурмовые винтовки
+AL_CraftingSkill_PrimitiveDesc,"Доступ к рецептам, позволяющим изготавливать множество примитивных предметов. Такие рецепты можно найти самостоятельно другими способами."
+AL_CraftingSkill_TailoringDesc,Позволяет изготавливать разнообразную одежду. Читайте [ffc070]Игла и нить[-] для прогресса.
+AL_CraftingSkill_ArmourDesc,Позволяет изготавливать лёгкую и тяжёлую броню. Читайте [ffc070]Мастер-бронник[-] и разбирайте броню для прогресса.
+,
+AL_LK_BronzeArrowsAndBolts,Бронзовые стрелы и болты
+AL_LK_IronArrowsAndBolts,Железные стрелы и болты
+AL_LK_SteelArrowsAndBolts,Стальные стрелы и болты
+# }}},
+,
+# Passive Effects {{{,
+None,Нет
+EntityDamage,Урон существам
+EntityHeal,Лечение (предметами)
+BlockDamage,Урон блокам
+BlockRepairAmount,Ремонт блоков
+DamageModifier,Модификатор урона
+LandClaimDamageModifier,
+DegradationPerUse,Деградация предмета
+DegradationMax,Макс. деградация
+MagazineSize,Размер магазина
+DamageFalloffRange,Снижение дальности урона
+MaxRange,Макс. дальность
+BlockRange,Дальность
+WeaponHandling,Обращение с оружием
+IncrementalSpreadMultiplier,
+BurstRoundCount,
+RoundRayCount,
+RoundsPerMinute,Выстрелы/мин
+AttacksPerMinute,Удары/мин
+ExplosionRadius,Радиус взрыва
+ExplosionIncomingDamage,
+ModSlots,Мод Слоты
+ModPowerBonus,Бонус мощности мода
+SpreadMultiplierHip,Разброс прицела от бедра
+SpreadMultiplierAiming,Разброс ADS
+SpreadMultiplierRunning,Разброс прицела при беге
+SpreadMultiplierWalking,Разброс прицела при ходьбе
+SpreadMultiplierCrouching,Разброс прицела при приседании
+SpreadMultiplierIdle,Базовый разброс прицела
+SpreadDegreesVertical,Разброс прицела по вертикали
+SpreadDegreesHorizontal,Разброс прицела по горизонтали
+KickDegreesVerticalMin,Мин. вертикальная отдача
+KickDegreesHorizontalMin,Мин. горизонтальная отдача
+KickDegreesVerticalMax,Макс. вертикальная отдача
+KickDegreesHorizontalMax,Макс. горизонтальная отдача
+SphereCastRadius,
+GrazeDamageMultiplier,Урон от царапин
+GrazeStaminaMultiplier,Выносливость
+GeneralDamageResist,Сопротивление урону
+PhysicalDamageResist,Сопротивление физическому урону
+PhysicalDamageResistMax,Макс. Сопротивление физическому урону
+ElementalDamageResist,Сопротивление стихийному урону
+ElementalDamageResistMax,Макс. Сопротивление стихийному урону
+HypothermalResist,Сопротивление холоду
+HyperthermalResist,Термостойкость
+FallDamageReduction,Снижение урона от падения
+Tier,Уровень
+LightIntensity,Удерживаемая интенсивность света
+VehicleFuelMaxPer,Макс. Расход топлива автомобиля
+VehicleFuelUsePer,Расход топлива автомобиля
+VehicleVelocityMaxPer,Макс. Скорость автомобиля
+VehicleVelocityMaxTurboPer,Макс. Турбо-скорость автомобиля
+VehicleCarryCapacity,Вместимость автомобиля
+VehicleEntityDamage,Повреждение объекта транспортного средства
+VehicleBlockDamage,Повреждение блока автомобиля
+VehicleReflectedDamage,Отраженный урон автомобиля
+VehicleSeats,Автомобильные сиденья
+VehicleTankSize,Размер топливного бака автомобиля
+VehicleHopStrength,Сила прыжка автомобиля
+VehiclePlayerStaminaDrainRate,
+BatteryMaxLoadInVolts,Батарея Макс. Нагрузка (В)
+BatteryDischargeTimeInMinutes,Время разрядки аккумулятора (минуты)
+DistractionResistance,
+DistractionRadius,
+DistractionLifetime,
+DistractionStrength,
+DistractionEatTicks,
+ProjectileGravity,
+ProjectileVelocity,
+ProjectileStickChance,Шанс попадания снаряда
+RecipeTagUnlocked,Разблокирует
+JunkTurretActiveRange,Активная дальность мусорной турели
+JunkTurretActiveCount,Счетчик активности мусорных турелей
+EconomicValue,Экономическая ценность
+LockPickTime,Время взлома
+LockPickBreakChance,Шанс взлома взлома
+LootProb,Вероятность добычи
+LootDropProb,Уменьшена вероятность получения добычи
+LootQuantity,Количество добычи
+Tracking,Тропление
+AttributeLevel,Уровень атрибута
+SkillLevel,Уровень навыка
+PerkLevel,Уровень умения
+SkillExpGain,Модификатор получения опыта навыков
+PlayerExpGain,Модификатор получения опыта игрока
+NoiseMultiplier,Шум
+LightMultiplier,Свет
+CraftingTime,Время изготовления
+CraftingTier,Уровень изготовления
+CraftingOutputCount,Количество производительности крафта
+ActiveCraftingSlots,Активные слоты для крафта
+CraftingSlots,Слоты изготовления
+CraftingSmeltTime,Время плавки
+ExpDeficitMaxPercentage,Макс. Дефицит опыта (%)
+ExpDeficitPerDeathPercentage,Макс. Дефицит опыта на смерть (%)
+CarryCapacity,Грузоподъёмность
+BagSize,Размер сумки
+RepairTime,Время ремонта
+RepairAmount,Сумма ремонта
+ReloadSpeedMultiplier,Скорость перезарядки
+WaterRegenRate,Регенерация воды
+HealthMax,Максимальное здоровье
+HealthChangeOT,Регенерация здоровья
+HealthGain,Множитель прироста здоровья
+HealthLoss,Множитель потерь здоровья
+HealthMaxBlockage,
+StaminaMax,Макс. выносливость
+StaminaChangeOT,Регенерация выносливости
+StaminaGain,Множитель прироста выносливости
+StaminaLoss,Множитель потери выносливости
+StaminaMaxBlockage,
+FoodMax,Макс Еда
+FoodChangeOT,Регенерация еды
+FoodGain,Множитель продовольственной выгоды
+FoodLoss,Множитель продовольственных потерь
+FoodLossPerHealthPointLost,Потери продовольствия на единицу потерянного здоровья
+FoodLossPerStaminaPointGained,Потери продовольствия на каждый полученный запас
+FoodLossPerHealthPointGained,Потери еды на единицу полученного здоровья
+FoodMaxBlockage,
+WaterMax,Макс Вода
+WaterChangeOT,Регенерация воды
+WaterGain,Множитель прироста воды
+WaterLoss,Множитель потерь воды
+WaterLossPerHealthPointGained,Потеря воды на единицу полученного здоровья
+WaterLossPerStaminaPointGained,Потеря воды на каждый полученный стам
+WaterMaxBlockage,
+CoreTempChangeOT,Скорость изменения температуры
+CoreTempGain,Множитель нагрева
+CoreTempLoss,Множитель охлаждения
+JumpStrength,Сила прыжка
+WalkSpeed,Передвижение
+RunSpeed,Ускоренное передвижение
+CrouchSpeed,Скорость приседания
+Mobility,Мобильность
+LandMineImmunity,Иммунитет к наземным минам
+ScavengingTime,Время обыска
+ScavengingTier,Уровень сбора мусора
+ScavengingItemCount,Кол-во находимых предметов
+HarvestCount,Кол-во добываемых предметов
+ScrappingTime,Утилизация времени
+DismemberSelfChance,
+DismemberChance,Шанс расчленения
+TreasureRadius,Радиус сокровищ
+TreasureBlocksPerReduction,
+BreathHoldDuration,Продолжительность задержки дыхания
+BarteringBuying,Дешевле при торговле
+BarteringSelling,Больше при продаже
+SecretStash,Секретный тайник
+LootTier,Уровень добычи
+HeatGain,Тепловыделение
+MovementFactorMultiplier,Множитель движения
+QuestBonusItemReward,Стоимость награды за квест
+QuestRewardOptionCount,Количество вариантов награды за квест
+QuestRewardChoiceCount,Количество вариантов награды за квест
+GameStage,Игровой этап
+TraderStage,Стадия трейдера
+LootStage,Этап добычи
+DamageBonus,Бонус к урону
+InternalDamageModifier,
+TargetArmor,
+FallingBlockDamage,Урон от падающего блока
+SilenceBlockSteps,Тишина Блокирует шаги
+TrackDistance,Расстояние тропления
+HealthSteal,Кража здоровья
+TurretWakeUp,
+ElectricalTrapXP,
+TrapDoorTriggerDelay,Задержка срабатывания люка
+LandMineTriggerDelay,Задержка срабатывания мины
+TrapIncomingDamage,(Входящий) Урон от ловушек
+BlockPickup,
+HeadShotOnly,
+NegateDamageSelf,
+NegateDamageOther,
+DisableItem,
+DisableLoot,
+NoVehicle,
+FlipControls,
+CelebrationKill,
+ShuffledBackpack,
+EnemySearchDuration,
+TwitchViewerPointRate,
+TwitchSpawnMultiplier,
+TwitchAddCooldown,
+InfiniteAmmo,
+NoTimeDisplay,
+DisableGameEventNotify,
+NoTrader,
+DisableMovement,
+ExperienceGain,Получение опыта
+CriticalChance,Критический шанс
+BuffProcChance,Шанс срабатывания баффа
+BuffBlink,
+BuffResistance,Сопротивление усилению
+CraftingIngredientCount,
+EntityPenetrationCount,
+BlockPenetrationFactor,
+Count,Считать
+# }}},
+,
+# Block Placeholders {{{,
+AL_HelperStoneGarnierite, = Гарниеритовая жила = Помощник
+AL_HelperStoneChromite, = Хромитовая жила = Помощник
+AL_HelperStoneAnthracite, = Антрацитовая жилка = Помощник
+AL_HelperStoneChalcopyrite, = Халькопиритовая жила = Помощник
+# }}},
+,
+# Vehicles {{{,
+vehiclesBuggy,Багги
+vehicleBuggyChassis,Шасси багги
+vehicleBuggyAccessories,Запчасти для багги
+vehicleBuggyPlaceable,Багги
+vehicleBuggy,Багги
+AL_Item_BuggyEngine,[ffc070]Двигатель багги[-]
+# }}},
+,
+# Formats {{{,
+AL_LK_Format_WithParenthesis,{0} [808080]({1})[-]
+AL_LK_Format_UpgradingTo,Обновление до [ffc070]{0}[-]...
+AL_LK_Format_WillUpgradeTo,Обновлюсь до [ffc070]{0}[-]...
+AL_LK_Format_CanUpgradeTo,Можно обновить до [ffc070]{0}[-]...
+AL_LK_Format_PerkPointGained,Вы получили [ffc070]очко умения[-] и теперь у вас их [ffc070]{0}[-].
+AL_LK_Format_HealingTarget,Исцеление [ffc070]{0}[-] до [ff4040]{1}/{2}[-] ...
+AL_LK_Format_EquipItemToSlot,Установите [ffc070]{0}[-] в свой слот [ffc070]{1}[-].
+AL_LK_Format_VitalityInstant,[bbbbbb]{0:0.00}% жизнестойкости немедленно[-]
+AL_LK_Format_VitalityMeasure,[bbbbbb]{0:0.00}% жизнестойкости в минуту[-]
+AL_LK_Format_ZombieKills,[ff8000]{0}[-] Убийства зомби
+AL_LK_Format_Take,[ffc070][Возьмите {0}][-]
+AL_LK_Format_DecorTierEffects,[bbbbbb]Уровень {0}: {1:0.00}%[-] - [ffffff]{2}[-] [bbbbbb]из[-] [ffffff]{3}[-]
+AL_LK_Format_Total,[ffe375]Всего: +{0:0.00}% жизнестойкости в минуту[-]
+AL_LK_Format_TierNDecor,[ffc070]Уровень {0} Декор[-]
+AL_LK_Format_Tier1Decor,[ffc070]Уровень[-] [bbbbbb][1][-] [ffc070]Декор[-]
+AL_LK_Format_Tier2Decor,[ffc070]Уровень[-] [60bb60][2][-] [ffc070]Декор[-]
+AL_LK_Format_Tier3Decor,[ffc070]Уровень[-] [00ff00][3][-] [ffc070]Декор[-]
+AL_LK_Format_Tier4Decor,[ffc070]Уровень[-] [ff0090][4][-] [ffc070]Декор[-]
+AL_LK_Format_DamageBlockType,Повредите [ffc070]{0}[-].
+AL_LK_Format_CanBePickedUpWeight,[80ff80]Можно забрать[-] [bbbbbb]({0} кг)[-][80ff80][-]
+# }}},
+,
+# Singular Words {{{,
+AL_LK_All,Всё
+AL_LK_Create,Создать
+AL_LK_Dye,Краситель
+AL_LK_Wood,Древесина
+AL_LK_Cobblestone,Булыжник
+AL_LK_Brick,Кирпич
+AL_LK_Concrete,Бетон
+AL_LK_Steel,Сталь
+AL_LK_Inconel,Инконель
+AL_LK_Yourself,себя
+# }}},
+,
+# UI Display {{{,
+,
+AL_UID_TitleKey_ZInfectionIncrease,[a3d900]Рост инфекции[-]
+AL_UID_TitleKey_Tier,Качество (0 [808080]|[-][806040]|[-][804000]|[-][c06000]|[-][ff8000]|[-][ffc000]|[-][ffff00]|[-][80ff00]|[-][00ff00]|[-][00ff80]|[-][00ffff]|[-][0080ff]|[-][0000ff]|[-][4000ff]|[-][8000ff]|[-][c000ff]|[-][ff00ff]|[-][ff0090]|[-][ff0019]|[-] 65535)
+AL_UID_ZInfectionReduction,Снижение инфекции
+AL_UID_HitsUpgradeToWood,Ударов для улучшения [7f4b3d](Дерево)[-]
+AL_UID_HitsUpgradeToCobblestone,Ударов для улучшения [cccccc](Булыжник)[-]
+AL_UID_HitsUpgradeToBrick,Ударов для улучшения [c3472f](Кирпич)[-]
+AL_UID_HitsUpgradeToConcrete,Ударов для улучшения [808080](Цемент)[-]
+AL_UID_HitsUpgradeToSteel,Ударов для улучшения [d4d4d4](Сталь)[-]
+AL_UID_HitsUpgradeToInconel,Ударов для улучшения [ff8080](Инконель)[-]
+,
+AL_UID_TitleKey_WeaponType,Тип оружия
+AL_UID_TitleKey_ToolType,Тип инструмента
+AL_UID_TitleKey_BlockDamageLoggingTargets,BlockDmg и цели ведения журнала
+AL_UID_TitleKey_RepairWith,Ремонт с помощью
+AL_UID_TitleKey_SneakAttackMultiplier,Множитель скрытой атаки
+AL_UID_TitleKey_ZInfectionStallDuration,Продолжительность остановки инфекции
+AL_UID_TitleKey_ZInfectionReduction,Снижение инфекции
+AL_UID_TitleKey_ActionSkill,Навык действия
+,
+AL_UID_TitleKey_EntityDamage,Урон существам
+AL_UID_TitleKey_EntityDamagePowerAttack,Урон существам [808080](Мощная атака)[-]
+AL_UID_TitleKey_BlockDamage,Урон блокам
+AL_UID_TitleKey_BlockDamagePowerAttack,Урон блокам [808080](Мощная атака)[-]
+AL_UID_TitleKey_StaminaPowerAttack,Расход выносливости [808080](Мощная атака)[-]
+AL_UID_TitleKey_DestroyedWhenBroken,Уничтожается при поломке
+,
+AL_UID_TitleKey_WeaponTypeMelee,Тип оружия [808080](Ближний бой)[-]
+AL_UID_TitleKey_WeaponTypeRanged,Тип оружия [808080](Дальнего боя)[-]
+,
+AL_UID_TitleKey_FoodPoisoningPressure,Давление пищевого отравления
+AL_UID_TitleKey_NormalInfectionPressure,Нормальное давление инфекции
+AL_UID_TitleKey_ZInfectionPressure,Давление зомби-инфекции
+AL_UID_TitleKey_ZInfectionReduction,Снижение заражения зомби
+AL_UID_TitleKey_ZInfectionStalling,Задержка зомби-инфекции
+AL_UID_TitleKey_CanCureZInfection,Может вылечить инфекцию зомби
+,
+AL_UID_TitleKey_CraftingXPIfScrapped,Создание опыта в случае списания
+,
+AL_UID_TitleKey_Alcohol,[e79b13]Алкоголь[-]
+,
+AL_UID_TitleKey_ActionSkill,Навык действия
+AL_UID_TitleKey_ActionSkillMelee,Навык действия [808080](Ближний бой)[-]
+AL_UID_TitleKey_ActionSkillThrow,Навык действия [808080](Метательное)[-]
+AL_UID_TitleKey_ActionSkillRanged,Навык действия [808080](Дальний бой)[-]
+,
+AL_UID_TitleKey_EfficientDigestion,Эффективное пищеварение
+AL_UID_TitleKey_FoodPoisoningPressureReduce,Снижение пищевого отравления
+AL_UID_TitleKey_FulfilsBooze,[ffc070]Выполняет желание:[-] Выпивка
+AL_UID_TitleKey_FulfilsSweetTreat,[ffc070]Выполняет желание:[-] Сладкое угощение
+,
+AL_UID_TitleKey_SmeltsInto,Переплавляется в
+AL_UID_TitleKey_RequiredHeatLevel,Требуемый уровень нагрева
+AL_UID_TitleKey_HeatLevel,Уровень нагрева
+AL_UID_TitleKey_FuelTime,Время топлива
+AL_UID_TitleKey_DismemberChance,Шанс расчленения
+,
+AL_LK_TemporaryStaminaIncrease,[00ff00]Временное увеличение выносливости[-]
+,
+AL_UID_TitleKey_WeightLimitBonus,Бонус за ограничение веса
+AL_UID_TitleKey_SpecialAttack,[ff0042]Специальная атака[-]
+AL_UID_TitleKey_PrimDistillationTimeReduction,Сокращение времени примитивной дистилляции
+# }}},
+,
+# Toolbelt Tooltips {{{,
+AL_LK_SelectUpgradePath,"[ffc070]Выберите способ улучшения через круговое меню, чтобы улучшить блоки.[-]"
+AL_LK_RepairBeforeUpgrade,[ffc070]Перед обновлением вам необходимо отремонтировать это[-].
+AL_LK_RepairBeforePickup,"[ffc070] Перед тем как подобрать это, вам необходимо отремонтировать это.[-]"
+,
+AL_LK_TooltipPerkPointExperience,[ffc070]Опыт очков умений[-]\n[bbbbbb]Получение опыта в любом [-]навыке действия[bbbbbb] также даёт вам опыт для следующего [-]очка умений[bbbbbb] на то же количество.[-]
+AL_LK_TooltipPerkPointCount,"[ffc070]Очки умений[-]\n[bbbbbb]Это количество доступных вам очков умений. Вы можете потратить их, нажав на любое [-]умение[bbbbbb], а затем щелкнув по значку плюса рядом с уровнем умения, требованиям которого вы соответствуете. Вы можете проверить эти требования, наведя курсор на значок замка."
+# }}},
+,
+# Vitality {{{,
+AL_LK_Vitality_Per_Hour,[ffc070]Жизнестойкость в час[-]
+AL_LK_VitalityEffect,[ffa24d]Эффект жизнестойкости[-]
+AL_LK_VitMagnitudeRangePos5,[00ff00](Расширение возможностей)[-]
+AL_LK_VitMagnitudeRangePos4,[40ff40](Сильный)[-]
+AL_LK_VitMagnitudeRangePos3,[80ff80](Хорошо)[-]
+AL_LK_VitMagnitudeRangePos2,[c0ffc0](Слабый)[-]
+AL_LK_VitMagnitudeRangePos1,[80a080](Незначительный)[-]
+AL_LK_VitMagnitudeRangeZero,[808080](Незначительный)[-]
+AL_LK_VitMagnitudeRangeNeg1,[a08080](Незначительный)[-]
+AL_LK_VitMagnitudeRangeNeg2,[ffc0c0](Легкий)[-]
+AL_LK_VitMagnitudeRangeNeg3,[ff8080](Плохо)[-]
+AL_LK_VitMagnitudeRangeNeg4,[ff4040](Суровый)[-]
+AL_LK_VitMagnitudeRangeNeg5,[ff0000](Экстремальный)[-]
+AL_LK_VitMagnitudeRangePos4GS,Расширение прав и возможностей
+AL_LK_VitMagnitudeRangePos3GS,Сильный
+AL_LK_VitMagnitudeRangePos2GS,Хороший
+AL_LK_VitMagnitudeRangePos1GS,Слабый
+AL_LK_VitMagnitudeRangeZeroGS,Незначительный
+AL_LK_VitMagnitudeRangeNeg1GS,Мягкий
+AL_LK_VitMagnitudeRangeNeg2GS,Плохой
+AL_LK_VitMagnitudeRangeNeg3GS,Серьезный
+AL_LK_VitMagnitudeRangeNeg4GS,Экстрим
+,
+AL_LK_VitResurrectedName,[ffa24d]Жизнестойкость:[-] Воскресший [ffc0c0](Суровый)[-]
+AL_LK_VitResurrectedDesc,"Страдания от того, что тело было разрушено, а затем странный опыт внезапного выхода из этого опыта, чтобы проснуться в совершенно другом месте... Это не совсем приятно.\n\n[808080](-25% жизнестойкости мгновенно)[-]"
+,
+AL_LK_VitEntertainmentName,Развлечение
+AL_LK_VitEntertainmentDesc,НАДО СДЕЛАТЬ
+,
+AL_LK_VitCombatStressName,Боевой стресс
+AL_LK_VitCombatStressDescPos,"Вы находитесь в гуще сражения, нанося и принимая раны, боль и смерть. Это очень захватывающе!"
+AL_LK_VitCombatStressDescNeg,"Вы находитесь в гуще сражения, нанося и принимая раны, боль и смерть. Психическое напряжение отнимает у вас силы."
+,
+AL_Buff_VitSocial,Социальное
+AL_Buff_VitSocialName,Социальное
+AL_Buff_VitSocialDesc,Вы нашли других (живых) людей!
+,
+al_buff_vitcomradedied,Товарищ умер
+AL_Buff_VitComradeDiedName,Товарищ умер
+AL_Buff_VitComradeDiedDesc,Их будет очень не хватать...
+,
+al_buff_wantsweet,[ff8000]Захотелось:[-] Сладости
+AL_Buff_WantSweetDesc,"Вам захотелось чего-нибудь сладкого... \n\n[bbbbbb]Чтобы удовлетворить это желание, съешьте что-нибудь с параметром »Выполняет: Сладости« в статистике.[-]"
+al_buff_wantsweet_fulfilled,[00ff00]Выполнено:[-] Сладости
+AL_Buff_WantSweet_FulfilledName,[00ff00]Выполнено:[-] Сладости
+AL_Buff_WantSweet_FulfilledDesc,Вкусно!\n\n[ffc070]Эффекты:[-]\n[bbbbbb]+10% жизнестойкости мгновенно[-]
+,
+al_buff_wantbooze,[ff8000]Захотелось:[-] Выпивка!
+AL_Buff_WantBoozeDesc,"Чуть-чуть - не повредит...\n\n[bbbbbb]Выпейте что-нибудь с пометкой »Исполняет: Выпивка!« в статистике, чтобы удовлетворить это желание.[-]"
+al_buff_wantbooze_fulfilled,[00ff00]Выполнено:[-] Выпивка!
+AL_Buff_WantBooze_FulfilledName,[00ff00]Выполнено:[-] Выпивка!
+AL_Buff_WantBooze_FulfilledDesc,Время вечеринки!\n\n[ffc070]Эффекты:[-]\n[bbbbbb]+10% жизнестойкости мгновенно[-]
+,
+al_buff_wantspecificfood,[ff8000]Захотелось:[-] Конкретная еда
+AL_Buff_WantSpecificFood,[ff8000]Захотелось:[-] Конкретная еда
+AL_Buff_WantSpecificFoodDesc,"Вам ужасно захотелось съесть [ffc070]{0}[-]...\n\n[bbbbbb]Съешьте [ffffff]{0}[bbbbbb], чтобы удовлетворить это желание и получить [ffc070]25% жизнестойкости[bbbbbb].[-]"
+al_buff_wantspecificfood_fulfilled,[00ff00]Выполнено:[-] Конкретная еда
+AL_Buff_WantSpecificFood_FulfilledName,[00ff00]Выполнено:[-] Конкретная еда
+AL_Buff_WantSpecificFood_FulfilledDesc,Очень кстати.\n\n[ffc070]Эффекты:[-]\n[bbbbbb]+25% жизнестойкости мгновенно[-]
+,
+al_buff_vitsocial,Социальное
+al_buff_vitbodilycomfort,Телесный комфорт
+al_buff_vitinebriated,Опьянение
+al_buff_vitexcited,Волнение
+,
+al_buff_vitwet,Промокший
+AL_Buff_VitWetName,Промокший
+AL_Buff_VitWetDesc,"Вы насквозь промокли! Ваше снаряжение промокло и весит больше обычного, снижая вашу мобильность."
+,
+al_buff_vitexposedtorain,Под дождём
+AL_Buff_VitExposedToRainName,Под дождём
+AL_Buff_VitExposedToRainDesc,"Он льёт вовсю, мешая обзору и делая вас всё более мокрым."
+,
+al_buff_vitamind,Весёлый нрав
+AL_Buff_VitaminDName,Весёлый нрав
+AL_Buff_VitaminDDesc,Вы получили свою порцию витамина D и сияете от счастья.
+,
+al_buff_hearth,Домашний очаг
+AL_Buff_HearthName,Домашний очаг
+AL_Buff_HearthDesc,Хорошо быть дома.
+,
+al_buff_vitwantmusic,Запоминающаяся мелодия
+al_buff_vitwantread,Приятное чтение
+al_buff_vitwantbooze,Крепкий напиток
+al_buff_vitwantdrive,Езда за рулём
+al_buff_vitwantcolddrink,Освежающий холодный напиток
+,
+al_buff_vitdiscomfort,Телесный дискомфорт
+al_buff_vitfreezing,Обмерзание
+al_buff_vitoverheating,Перегрев
+al_buff_vitalone,Один
+,
+al_buff_vitambient,Окружение
+AL_Buff_VitAmbientName,Окружение
+AL_Buff_VitAmbientDesc,Этот мир смерти и нежити медленно утомляет вас.
+,
+al_buff_vitloneliness,Одиночество
+AL_Buff_VitLoneliness,Одиночество
+AL_Buff_VitLonelinessDesc,Чёрт подери... Вы бы не прочь увидеть живое человеческое лицо... даже если бы его владелец наставил на вас пистолет.
+,
+al_buff_vitinjury,Травмы
+AL_Buff_VitInjuryName,Травмы
+AL_Buff_VitInjuryDesc,Невылеченные травмы причиняют вам боль.
+,
+al_buff_vitalityeffect_drunk,Опьянение
+AL_Buff_VitalityEffect_DrunkName,Опьянение
+AL_Buff_VitalityEffect_DrunkDesc,Сскажмн тымняважашь?!
+,
+al_buff_vitpitchblack,Кромешная тьма
+AL_Buff_VitPitchBlackName,Кромешная тьма
+AL_Buff_VitPitchBlackDesc,"Вас полностью окутывает тьма, да так сильно, что вы даже себя не видите."
+,
+al_buff_vitstarving,Голодание
+AL_Buff_VitStarvingName,Голодание
+AL_Buff_VitStarvingDesc,"Внутри пустота, и её нужно заполнить... пончиками, или, ну, знаете, чем угодно."
+,
+al_buff_vitdehydrated,Обезвоживание
+AL_Buff_VitDehydratedName,Обезвоживание
+AL_Buff_VitDehydratedDesc,"Если вода - источник жизни, то вы, скорее всего, мертвы."
+,
+al_buff_vitfear,Страх
+AL_Buff_VitFearName,Страх
+AL_Buff_VitFearDesc,"Они где-то там! Эти... твари. Гниющие, уродливые, волочащиеся трупы.. ожившие. Глядя на них, вы можете увидеть отголоски их человечности в их походке, одежде, мускулах. Они - это мы. Но мы должны подавить первобытное желание попытаться спасти их... потому что достаточно одной царапины в жизни, чтобы увянуть и присоединиться к отголоскам."
+,
+al_buff_vitexhausted,Утомление
+AL_Buff_VitExhaustedName,Утомление
+AL_Buff_VitExhaustedDesc,"Вы совершенно измотаны! Пора немного отдохнуть.\n\n[bbbbbb]Этот эффект можно снять, устроившись на кровати или спальнике, пока не будет получен бафф Отдых.[-]"
+,
+al_buff_vitpitchblack,Кромешная тьма
+al_buff_vitcomradied,Мёртвый товарищ
+al_buff_vitresurrected,Воскресший
+al_buff_vitcombatstress,Боевой стресс
+,
+AL_Buff_AlcoholismHeadacheName,[ff9239]Алкоголизм:[-] Головная боль
+AL_Buff_AlcoholismHeadacheDesc,Из-за отказа от алкоголя у вас раскалывается голова...
+,
+al_buff_decor,Декор
+AL_Buff_DecorName,Декор
+AL_Buff_DecorDesc,"Это место наполнено хорошим настроением, гармонией красок, дизайном интерьера, а может быть, даже фэн-шуй? В любом случае, здесь хорошо, и это радует."
+,
+AL_LK_VitInfectionUnknownName,Вероятность заражения
+AL_LK_VitInfectionUnknownDesc,"Недавно вы столкнулись с зомби и, [i]возможно[/i], заражены. Неопределенность тяготит вас."
+,
+AL_LK_VitInfectionKnownName,Заражение
+AL_LK_VitInfectionKnownDesc,Вы определённо заражены. Это плохо. Очень плохо.
+,
+AL_LK_VitInfectionReducedName,Инфекция уменьшена
+AL_LK_VitInfectionReducedDesc,"Вы заражены, но недавно вам удалось подавить инфекцию, что в свою очередь отодвинуло ваши переживания."
+,
+AL_LK_VitInfectionCuredName,Инфекция вылечена
+AL_LK_VitInfectionCuredDesc,Вы недавно излечились от зомби-инфекции и счастливы!
+# }}},
+,
+# Character Stats {{{,
+AL_LK_ModifiedMaxHealth,Изменённое макс. здоровье
+AL_LK_ModifiedMaxStamina,Изменённая макс. выносливость
+AL_LK_VitalityName,[ffa24d]ЖС[-]
+AL_LK_VitalityNameColon,[ffa24d]ЖС[-]
+# }}},
+,
+# Stat Symbols {{{,
+AL_LK_StatSymbolTooltipHealth,"[ff4040]Здоровье[-]\n[bbbbbb]Если выше нуля, значит, вы не умерли. Это хорошо."
+,
+AL_LK_StatSymbolTooltipStamina,[40ff00]Выносливость[-]\n[bbbbbb]Сильно привязана к уровню [ffffff]воды[-][bbbbbb]. Регенерация[-] [ffffff]выносливости[-] [bbbbbb]никогда не упадёт ниже 1/сек.[-]
+,
+AL_LK_StatSymbolTooltipFood,[ffc040]Еда[-]\n[bbbbbb]Сильно связана с регенерацией [ffffff]здоровья[-][bbbbbb]. Максимальная[-] [ffffff]еда[-] [bbbbbb]примерно в два раза выше обычной.
+,
+AL_LK_StatSymbolTooltipWater,"[40c9ff]Вода[-]\n[bbbbbb]Влияет на регенерацию [ffffff]выносливости[-][bbbbbb]. Пока уровень [ffffff]воды[-] [bbbbbb]остаётся выше 25%, на вашу регенерацию [ffffff]выносливости[-] [bbbbbb] это не влияет. При снижении ниже 25% регенерация пропорционально уменьшается до нуля. Максимальное количество [ffffff]воды[-] примерно в два раза выше обычного[-]."
+,
+AL_LK_StatSymbolTooltipStealth,[9595ba]Скрытность[-]
+,
+AL_LK_StatSymbolTooltipVitality,"[ffa24d]Жизнестойкость[-]\n[bbbbbb]Это мера психической стойкости, духа и уверенности вашего персонажа. Разница между отсутствием [ffffff]жизнестойкости[-] [bbbbbb]и максимальной[-] [ffffff]жизнестойкостью[-] [bbbbbb]- это, с одной стороны, мощный груз для многих атрибутов боя и выживания, а с другой - мощное преимущество. Проверьте вкладку [-][ffffff]БАФФЫ[-] [bbbbbb]в окне персонажа, чтобы увидеть активные эффекты[-] [ffffff]жизнестойкости[-]."
+,
+AL_LK_StatSymbolTooltipBloodAlcoholLevel,"[f79c1f]Уровень алкоголя в крови[-]\n[bbbbbb]Это то, насколько вы пьяны. Не переусердствуйте, иначе вас вырвет, и не пейте слишком часто, иначе у вас начнется алкогольная абстиненция, если вы не будете пить. Если у вас возникнет алкогольная зависимость, воздержание от алкоголя[-] [808080] (и борьба с абстинентным синдромом)[-] [bbbbbb] снимет зависимость[-]."
+,
+AL_LK_StatSymbolTooltipBlood,"[800000]Кровь[-]\n[bbbbbb]Это показывает, сколько[-] [ffffff]крови[-] [bbbbbb]содержится в вашем теле. Получение кровотечений, например, от вражеских атак, приведёт к снижению уровня[-] [ffffff]крови[-][bbbbbb]. При уровне ниже 50% ваше зрение начнет тускнеть. При нулевом уровне вы упадете без сознания, полностью отдавшись на милость всех ближайших врагов. Продолжение кровотечения в бессознательном состоянии наносит урон[-] [ffffff]здоровью[-][bbbbbb]. [-][ffffff]Кровь[-] [bbbbbb]начнёт пассивно восстанавливаться, когда кровотечение будет остановлено, а бессознательное состояние закончится при достижении 25% уровня [ffffff]крови[-][bbbbbb].[-]"
+,
+AL_LK_StatSymbolTooltipWetness,"[0080ff]Намокание[-]\n[bbbbbb]Когда вы стоите под дождём или плещетесь в воде, вы становитесь более[-] [ffffff]мокрым[-][bbbbbb]. [-] [ffffff]Намокание[-] [bbbbbb]накладывает штраф на[-] [ffffff] подвижность[-] [bbbbbb] и негативно влияет на[-] [ffffff]жизнестойкость[-][bbbbbb].[-]"
+,
+AL_LK_StatSymbolTooltipWeight,"[ffffff]Вес[-]\n[bbbbbb]По мере превышения предела веса ваша подвижность будет неуклонно снижаться, пока вы не достигнете удвоенного предела, и тогда вы станете неподвижны. Предел может быть увеличен в основном за счёт увеличения атрибута силы, а также с помощью различных умений и предметов[-]."
+,
+AL_LK_StatSymbolTooltipInfection,"[d0ff00]Заражение зомби[-]\n[bbbbbb]Теперь ясно, что вы заражены Z-вирусом. Заражение можно приостановить и уменьшить, но вряд ли можно вылечить."
+,
+AL_LK_StatSymbolTooltipFoodPoisoning,"[803331]Пищевое отравление[-]\n[bbbbbb]Это показатель того, насколько сильно вас тошнит от плохой еды. Оно накладывает штраф на подвижность и[-] [ffffff]жизнестойкость[-] [bbbbbb]и стремится к 100%. Если оно достигнет 100%, вас просто вырвет, и вы потеряете всю еду и воду. Не вызывайте рвоту[-]."
+# }}},
+,
+# Quests {{{,
+,
+# From Scratch (Tutorial Quest),
+AL_Quest_FromScratch_GroupName,[ffc070]С нуля[-]
+AL_Quest_FromScratch_Offer,"Если пролистать первые страницы этого неприметного фолианта, озаглавленного просто '[ffc070]Путеводитель[-]', то окажется, что в нём содержатся инструкции по выживанию в дикой местности [ffc070 ]'с нуля'[-]. То, что в вашем затруднительном положении попалась такая книга, просто поразительно."
+,
+AL_Quest_FromScratch_Quest0Name,[ffc070]С нуля:[-] Багаж
+AL_Quest_FromScratch_Quest0_title,[ffc070]С нуля:[-] Багаж
+AL_Quest_FromScratch_Quest0Desc,"На первых страницах [ffc070]Путеводителя[-] рассказывается о множестве разнообразных предметов, которые понадобятся вам для выживания в дикой природе, и текст увещевает о том, как важно иметь при себе такой инвентарь. Далее в книге описывается способ изготовления базовой сумки из травы и хлопка."
+AL_Quest_FromScratch_Tip_Start_title,[ffc070]С нуля:[-] Багаж
+AL_Quest_FromScratch_Tip_Start,"На первых страницах [ffc070]Путеводителя[-] рассказывается о множестве разнообразных предметов, которые понадобятся вам для выживания в дикой природе, и текст увещевает о том, как важно иметь при себе такой инвентарь. Далее в книге описывается способ изготовления базовой сумки из травы и хлопка."
+,
+AL_Quest_FromScratch_Quest1Name,[ffc070]С нуля:[-] Камни и камушки
+AL_Quest_FromScratch_Quest1_title,[ffc070]С нуля:[-] Камни и камушки
+AL_Quest_FromScratch_Quest1Desc,"Вы переворачиваете страницу [ffc070]Путеводителя[-] и находите схему, описывающую, как изготавливать неолитический топор. Сначала вам нужно найти подходящий кусок камня, который можно использовать в качестве головки. Вам понадобится что-то более прочное, чем те камни, которые валяются поблизости."
+AL_Quest_FromScratch_Tip_MadeBag_title,[ffc070]С нуля:[-] Камни и камушки
+AL_Quest_FromScratch_Tip_MadeBag,"Вы переворачиваете страницу [ffc070]Путеводителя[-] и находите схему, описывающую, как изготавливать неолитический топор. Сначала вам нужно найти подходящий кусок камня, который можно использовать в качестве головки. Вам понадобится что-то более прочное, чем те камни, которые валяются поблизости."
+,
+AL_Quest_FromScratch_Quest2Name,[ffc070]С нуля:[-] Летят щепки
+AL_Quest_FromScratch_Quest2_title,[ffc070]С нуля:[-] Летят щепки
+AL_Quest_FromScratch_Quest2Desc_title,[ffc070]С нуля:[-] Летят щепки
+AL_Quest_FromScratch_Quest2Desc,"Вы закончили собирать топор и снова открыли [ffc070]Путеводитель[-]. В следующем разделе описано, как обустроить простой привал. Первое задание - с помощью обретенного инструмента срубить дерево на деревянные бревна."
+,
+AL_Quest_FromScratch_Quest3Name,[ffc070]С нуля:[-] Отправляемся в поход
+AL_Quest_FromScratch_Quest3_title,[ffc070]С нуля:[-] Отправляемся в поход
+AL_Quest_FromScratch_Quest3Desc,"Следующий раздел книги слишком страстно сетует на темень в дикой местности и предлагает способ изготовления деревянного факела. К сожалению, при описании способа изготовления [ffc070] пека[-] упускается одна вопиющая деталь: необходим металлический сосуд, в котором можно было бы варить [ffc070]смолу[-]. Потребуется осторожное проникновение в какое-нибудь жилище. Нежить ждёт."
+AL_Quest_FromScratch_Tip_FindCookingPot_title,[ffc070]С нуля:[-] Отправляемся в поход
+AL_Quest_FromScratch_Tip_FindCookingPot,"Следующий раздел книги слишком страстно сетует на темень в дикой местности и предлагает способ изготовления деревянного факела. К сожалению, при описании способа изготовления [ffc070] пека[-] упускается одна вопиющая деталь: необходим металлический сосуд, в котором можно было бы варить [ffc070]смолу[-]. Потребуется осторожное проникновение в какое-нибудь жилище. Нежить ждёт."
+,
+AL_Quest_FromScratch_Quest4Name,[ffc070]С нуля:[-] Цельнометаллическая ракетка
+AL_Quest_FromScratch_Quest4_title,[ffc070]С нуля:[-] Цельнометаллическая ракетка
+AL_Quest_FromScratch_Tip_FoundMagazine_title,[ffc070]С нуля:[-] Цельнометаллическая ракетка
+AL_Quest_FromScratch_Tip_FoundMagazine,"Когда лагерь построен, вам приходит в голову мысль, что ваши новые навыки должны оказаться особенно полезными в такой жизни. Вы снова переворачиваете страницу [ffc070]Путеводителя[-]. Вместо банальных инструкций, которых вы ожидали, из остатков следующего раздела [ffc070]Путеводителя[-] на вас смотрит яркая обложка журнала, очевидно, вырванная. Журнал носит любопытное название '[ffc070]Чрезвычайно простая жизнь[-]'. Его размеры идеально подходят для того, чтобы спрятать его в [ffc070]Путеводителе[-], как будто он специально для этого создан. Вы убираете журнал в сумку и переходите к следующему разделу [ffc070]Путеводителя[-]."
+AL_Quest_FromScratch_Tip_End_title,[ffc070]С нуля: маяк надежды[-]
+AL_Quest_FromScratch_Tip_End,"С зажиганием факела темнота рассеивается, и наступление ночи кажется не таким пугающим. Вы снова открываете [ffc070]Путеводитель[-] на том месте, где его оставили. Его невесомый вес подтверждает, что книга передала все, что могла. На оставшихся страницах говорится о необходимости защищаться от диких животных, но ничего не говорится о живых мертвецах. К счастью, плоть, гниющая или нет, в основном одинаково реагирует на оружие. Вы отбрасываете [ffc070]Путеводитель[-] и обдумываете свой следующий шаг."
+,
+AL_Quest_FromScratch_Hint_MakeBag,[ffc070]Соберите[-] [00ff00]траву[-] [ffc070]и сплетите[-] [00ff00]траву[-] [ffc070]в[-] [00ff00]сумку из волокна[-][ffc070].[-]
+AL_Quest_FromScratch_Hint_BreakBoulder,"[ffc070]Заточите[-] [00ff00]маленький камень[-] [ffc070]и используйте его, чтобы отколоть[-] [00ff00]большой камень[-] [ffc070]от[-] [00ff00]каменного валуна[-][ffc070].[-]"
+AL_Quest_FromScratch_Hint_FellTree,"[ffc070]Заточите[-] [00ff00]большой камень[-] [ffc070]и соберите из него[-] [00ff00]каменный топор[-][ffc070], а затем используйте его, чтобы срубить дерево.[-]"
+AL_Quest_FromScratch_Hint_BuildCampsite,"[ffc070]Соберите[-] [00ff00]траву[-][ffc070],[-] [00ff00]хлопок[-][ffc070],[-] [00ff00]маленькие камни[-] [ffc070]и создайте всё необходимое для нового лагеря.[-]"
+AL_Quest_FromScratch_Hint_FindCookingPot,"[ffc070]Отправляйтесь в жилище и найдите[-] [00ff00]кастрюлю[-][ffc070]. Захватите немного[-] [00ff00]ткани[-][ffc070], пока вы там.[-]"
+AL_Quest_FromScratch_Hint_RTBMakeBoneKnife,"[ffc070]Вернитесь в лагерь и установите[-] [00ff00]кастрюлю[-] [ffc070]в костёр, затем возьмите[-] [00ff00]кость[-] [ffc070]и заточите её в[-] [00ff00]костяной нож[-][ffc070].[-]"
+AL_Quest_FromScratch_Hint_BurnWoodScrapCharcoalGetResin,"[ffc070]Сожгите[-] [00ff00]деревянное полено[-] [ffc070]в[-] [00ff00]костре[-][ffc070], чтобы получить[-] [00ff00]древесный уголь[-] [ffc070]как побочный продукт, затем разберите его, чтобы получить[-] [00ff00]угольный порошок[-][ffc070]. В это время, используйте свой[-] [00ff00]костяной нож[-] [ffc070]чтобы соскрести с деревьев немного[-] [00ff00]смолы[-][ffc070].[-]"
+AL_Quest_FromScratch_Hint_CraftPitchRest,[ffc070]Отдохните на своём[-] [00ff00]спальнике[-] [ffc070]пока готовится[-] [00ff00]древесный пек[-][ffc070].[-]
+AL_Quest_FromScratch_Hint_AssembleTorch,[ffc070]Изготовьте[-] [00ff00]факел[-] [ffc070]и поместите его в слот[-] [00ff00]Свет[-] [ffc070]в меню персонажа.[-]
+,
+# Finding Your Way (Cartography Quest),
+,
+AL_Quest_Cartography_GroupName,"[ffc070]x,y,z,w[-]"
+AL_Quest_Cartography_Name,"[ffc070]x,y,z,w[-]"
+AL_Quest_Cartography_title,"[ffc070]x,y,z,w[-]"
+,
+AL_Quest_Cartography_Desc,"Чтобы выжить, мне нужно будет отмечать ориентиры, местность, ресурсы и всё такое. Поэтому мне понадобится карта. Чтобы пользоваться этой картой, мне нужно знать, в каком кровавом направлении я иду. Чтобы знать, когда где быть, мне нужно знать время."
+,
+# Survive (Survival/Main Quest),
+,
+AL_Quest_Survive_GroupName,[ffc070]Жихнь после[-]
+AL_Quest_Survive_Name,[ffc070]Жихнь после[-]
+AL_Quest_Survive_Quest_title,[ffc070]Жихнь после[-]
+,
+AL_Quest_Survive_Desc,"Выбора нет. Я должен сделать всё, что в моих силах, чтобы остаться в живых."
+,
+# Brainwaves (Contact/Radio Quest),
+,
+AL_Quest_Brainwaves_GroupName,[ffc070]Мозговые волны[-]
+AL_Quest_Brainwaves_Name,[ffc070]Мозговые волны[-]
+AL_Quest_Brainwaves_Quest_title,[ffc070]Мозговые волны[-]
+AL_Quest_Brainwaves_Hint1,[ffc070]Найдите[-] [00ff00]рацию[-] [ffc070]и попытайтесь связаться с другими выжившими.[-]
+,
+AL_Quest_Brainwaves_Desc,"Если я хочу выжить здесь, мне понадобится помощь. Если я найду рацию, может, попробую проверить эфир... Посмотрим, есть ли там кто-нибудь."
+,
+# Technology (Workstation Salvage),
+,
+AL_Quest_Technology_GroupName,[ffc070]Технологии[-]
+AL_Quest_Technology_Name,[ffc070]Технологии[-]
+AL_Quest_Technology_Quest_title,[ffc070]Технологии[-]
+AL_Quest_Technology_Hint1,"Найдите любую [ffc070]разрушенную рабочую станцию[-] и повредите или разберите её, чтобы раскрыть её секреты."
+,
+AL_Quest_Technology_Desc,"Что-то там про плечи великанов, ну, вы знаете, как там говорится... Есть технология, оставленная теми, кто пришёл и умер раньше. Использовали ли они свои технологии до или после того, как всё пошло прахом, не так уж важно. Если я смогу изучить, какие инструменты они использовали, чтобы продлить своё выживание, я смогу узнать что-то, что продлит моё."
+,
+AL_Quest_Water_GroupName,[5b92cb]Вода[-]
+AL_Quest_Water_Name,[5b92cb]Вода[-]
+AL_Quest_Water_Desc,"Итак... К счастью... Я знаю, что Z-вирус очень вынослив и его нельзя просто так прокипятить, так что всю воду мне придется добывать из дождя или каким-то способом перегонять. Если мне удастся раздобыть [ffc070]брезент[-] и [ffc070]деревянное ведро[-], то на костре с помощью [ffc070]кастрюли[-], возможно, у меня что-нибудь получится."
+,
+AL_Quest_Construction_GroupName,Строительство
+AL_Quest_Construction_Name,Строительство
+AL_Quest_Construction_Desc,"Возможно, мне придётся построить жилище... Мне лучше попробовать."
+,
+AL_Quest_T1_RetrieveSSD,Получить SSD [ffc070](T1)[-]
+AL_Quest_T1_RetrieveSSD_Description,"В вашем районе зарыто множество старых тайников Блэкторна, которые мы оставили, когда работали там. В частности, нам нужны данные, жёсткие диски, найденные в этих тайниках. Я укажу вам местоположение одного из таких тайников. Если вы сможете достать данные, отнести их в точку сброса Блэкторна, а затем сообщить об этом, вы окажете нам услугу."
+AL_Quest_T1_RetrieveSSD_Response,Получить SSD [ffc070](T1)[-]
+AL_Quest_T1_RetrieveSSD_GroupName,Получить SSD
+AL_LK_ReportToBlackthorne,Доложите Блэкторну:
+# }}},
+,
+# Rest System {{{,
+AL_Buff_RestingVisibleName,[c0c0ff]Отдых...[-]
+AL_Buff_RestingVisibleDesc,[c0c0ff]ZZzzZZzzzzZZzzz..[-] [i][808080]*фыркает*[-]..[/i] [c0c0ff]zzzzZzzzz..[-]
+al_buff_restedt0,[8080ff]Передышка (Урв 0)[-]
+AL_Buff_RestedT0Name,[8080ff]Передышка (Урв 0)[-]
+AL_Buff_RestedT0Desc,"Вы нашли минуту, чтобы просто... [i]остановиться[/i]. Это было крайне необходимо."
+al_buff_restedt1,[ffc000]Кратковременный отдых (Урв 1)[-]
+AL_Buff_RestedT1Name,[ffc000]Кратковременный отдых (Урв 1)[-]
+AL_Buff_RestedT1Desc,Вы прилегли на несколько минут. Парочка минут покоя ногам принесло облегчение.
+al_buff_restedt2,[dc80ff]Энергичный сон (Урв 2)[-]
+AL_Buff_RestedT2Name,[dc80ff]Энергичный сон (Урв 2)[-]
+AL_Buff_RestedT2Desc,Вы действительно выспались! После хорошего сна вы чувствуете себя готовым к работе.
+al_buff_restedt3,[ff4060]Крепкий сон (Урв 3)[-]
+AL_Buff_RestedT3Name,[ff4060]Крепкий сон (Урв 3)[-]
+AL_Buff_RestedT3Desc,Каким-то образом вам удалось заснуть на весьма полезное для здоровья время [808080](Это максимальный уровень)[-].
+# }}},
+,
+# Ham Radio {{{,
+AL_Dialog_Response_Next,[Дальше]
+,
+npcHamRadio,[ffc070]Любительская рация[-]
+npc_hamRadio,[ffc070]Любительская рация[-]
+AL_LK_UseRadio,[ffc070][Использовать рацию][-]
+,
+AL_Dialog_HamRadio_Statement_Start,Вы включаете рацию. Вас встречает знакомый звук помех.
+AL_Dialog_HamRadio_Statement_SearchAirwaves,Вы начинаете путешествовать по радиоволнам в поисках жизни...
+,
+AL_Dialog_HamRadio_Statement_BlackthorneIntro1,"Помехи резко обрываются, и на смену им приходит, несомненно, военная связь: короткая, резкая и ровная. Голос говорит ударным, ритмичным монотоном, непрерывно выдавая загадочный поток слогов. Насколько вам известно, все мертвы, и нет ни одной фракции, от которой военные могли бы скрыть свои сообщения.\n\nВы вмешиваетесь, чтобы привлечь внимание говорящего. Внезапное прекращение их болтовни оказывает определенное влияние."
+AL_Dialog_HamRadio_Statement_BlackthorneIntro2,"Голос прерывает вас.\n\n[707353]Это частота военной логистики Блэкторна. Пожалуйста, переключитесь.\n\nВы коротко объясняете свое положение. Говорящий выражает удивление, что вы вообще живы."
+AL_Dialog_HamRadio_Statement_BlackthorneIntro3,"В слишком общих выражениях вы просите о помощи. Тон говорящего не выражает ни капли сострадания.\n\n [707353] Принято. Мне даны полномочия запрашивать и отправлять припасы выжившим. Знайте, что вы не первый, кто прерывает нашу связь. Существует протокол. Если поможете нам, мы поможем вам. Я выделю для вас частоту. Ваш позывной - Сьерра 37. Приём."
+,
+AL_Dialog_HamRadio_Statement_BlackthorneNoMap,"Вы собираетесь спросить о заданиях, но понимаете, что у вас нет возможности отслеживать цели. Лучше сначала раздобыть карту."
+AL_Dialog_HamRadio_Statement_BlackthorneTasksPreamble,Блэкторн излагает некоторые задачи для вас.
+AL_Dialog_HamRadio_Statement_BlackthorneMain,[707353]Принято.[-]
+AL_Dialog_HamRadio_Statement_BlackthorneTaskReturn,"[707353] Возвращайтесь, когда будете готовы. Конец связи.[-]"
+AL_Dialog_HamRadio_Statement_BlackthorneContact,Вы настраиваете рацию на частоту связи с Блэкторном и объявляете о себе. Ответ приходит быстро.\n\n[707353]Это Блэкторн. Что у нас на повестке дня?
+,
+AL_Dialog_HamRadio_Statement_BlackthorneReporting,Вы сообщаете докладчику о ходе выполнения задания.
+AL_Dialog_HamRadio_Statement_BlackthorneQuestComplete,[707353]Принято. Дайте мне минутку для подтверждения...\n\n Хорошо. Отличная работа. Ваша помощь засчитана. Конец связи.[-]
+AL_Dialog_HamRadio_Statement_BlackthorneQuestIncomplete,"[707353]Принято. Дайте мне минутку для подтверждения...\n\n Мы не можем подтвердить, что ваше задание выполнено. Сообщите, когда оно будет выполнено. Конец связи.[-]"
+,
+AL_Dialog_HamRadio_Statement_RequestSuppliesSufficient,[707053]Понял. Одну минуту...\n\nЯ могу доставить вам по воздуху в течение ближайшего получаса. Принимайте[-]
+AL_Dialog_HamRadio_Statement_RequestSuppliesInsufficient,"[707053]Понял. Одну минуту...\n\Вы должны сделать для нас больше, прежде чем я смогу выслать вам припасы. Выполните несколько заданий для нас и попробуйте снова. Приём.[-]"
+,
+AL_Dialog_HamRadio_Response_Tasks,[Спросить о задачах]
+AL_Dialog_HamRadio_Response_Nevermind,Неважно.
+AL_Dialog_HamRadio_Response_Out,Сьерра 37 на связи.
+AL_Dialog_HamRadio_Response_SearchAirwaves,[Поиск в эфире]
+AL_Dialog_HamRadio_Response_TurnOff,[Выключить рацию]
+AL_Dialog_HamRadio_Response_TuneBlackthorne,[Связаться с Блэкторном]
+AL_Dialog_HamRadio_Response_Report,[Отчет]
+AL_Dialog_HamRadio_Response_RequestSupplies,[Запросить припасы]
+AL_Dialog_HamRadio_Response_Affirmative,Хорошо
+AL_Dialog_HamRadio_Response_Negative,Нет
+# }}},
+,
+IZYgunT1assaultrifleAK47Milled,Автомат Калашникова 47
+,
+# ItemActionUseTimed {{{,
+AL_LK_Format_HoldToVerb,"[808080][[-][a0a0a0]Удерживайте[-] [action:local:Primary][a0a0a0], чтобы[-] [dddddd]{0}[-][808080]][-]"
+AL_LK_Format_ApplyItem_Verbing,{0} [ffc070]{1}[-]...
+AL_LK_Format_ApplyItem_VerbingOn,{0} [ffc070]{1}[-] на [ffc070]{2}[-]..
+AL_LK_Format_ApplyItem_IncreaseStat,Увеличение [ffc070]{0}[-] до [ffc070]{1:0}/{2:0}[-]
+AL_LK_Format_ApplyItem_DecreaseStat,Уменьшение [ffc070]{0}[-] до [ffc070]{1:0}/{2:0}[-]
+AL_LK_Format_ApplyItem_Removing,Удаление [ffc070]{0}[-]...
+health,[ff4040]Здоровье[-]
+stamina,[40ff40]Выносливость[-]
+food,[ff8040]Еда[-]
+water,[5b92cb]Вода[-]
+# }}},
+,
+AL_LK_Food,[ffc040]Еда[-]
+AL_LK_Water,[5b92cb]Вода[-]
+,
+# QuantityStorage {{{,
+AL_LK_QuantityStorage_Water,[5b92cb]Вода[-]
+AL_LK_QuantityStorage_DirtyInfectedWater,[815500]Грязная заражённая вода[-]
+AL_LK_QuantityStorage_InfectedWater,[baff00]Заражённая вода[-]
+AL_LK_QuantityStorage_RedTea,[ff5555]Красный чай[-]
+AL_LK_QuantityStorage_GoldenrodTea,[f8c600]Чай из золотарника[-]
+AL_LK_QuantityStorage_Beer,[e79b13]Пиво[-]
+AL_LK_QuantityStorage_Shiraz,[97002E]Шираз[-]
+AL_LK_QuantityStorage_Fuel,[ddc900]Топливо[-]
+AL_LK_QuantityStorage_YuccaJuice,[6ad3be]Сок юкки[-]
+AL_LK_QuantityStorage_Coffee,[99674a]Кофе[-]
+AL_LK_QuantityStorage_BlackStrapCoffee,[422c1f]Кофе рудокопов[-]
+AL_LK_QuantityStorage_MineralWater,[a1f8ff]Минеральная вода[-]
+AL_LK_QuantityStorage_Honey,[ea9835]Мёд[-]
+AL_LK_QuantityStorage_ManukaHoney,[a14604]Мёд манука[-]
+,
+AL_LK_QuantityStorage_GSWater,[bbbbbb]Вода[-]
+AL_LK_QuantityStorage_GSDirtyInfectedWater,[bbbbbb]Грязная заражённая вода[-]
+AL_LK_QuantityStorage_GSInfectedWater,[bbbbbb]Заражённая вода[-]
+AL_LK_QuantityStorage_GSRedTea,[bbbbbb]Красный чай[-]
+AL_LK_QuantityStorage_GSGoldenrodTea,[bbbbbb]Чай из золотарника[-]
+AL_LK_QuantityStorage_GSBeer,[bbbbbb]Пиво[-]
+AL_LK_QuantityStorage_GSShiraz,[bbbbbb]Шираз[-]
+AL_LK_QuantityStorage_GSFuel,[bbbbbb]Топливо[-]
+AL_LK_QuantityStorage_GSYuccaJuice,[bbbbbb]Сок юкки[-]
+AL_LK_QuantityStorage_GSCoffee,[bbbbbb]Кофе[-]
+AL_LK_QuantityStorage_GSBlackStrapCoffee,[bbbbbb]Кофе рудокопов[-]
+AL_LK_QuantityStorage_GSMineralWater,[bbbbbb]Минеральная вода[-]
+AL_LK_QuantityStorage_GSHoney,[bbbbbb]Мёд[-]
+AL_LK_QuantityStorage_GSManukaHoney,[bbbbbb]Мёд манука[-]
+,
+AL_LK_QuantityStorage_ContainerBlockFull,[bbbbbb]Контейнер полон.[-]
+AL_LK_QuantityStorage_VehicleFuelFull,[bbbbbb]Транспорт полностью заправлен.[-]
+AL_LK_QuantityStorage_ContainerBlockEmpty,[bbbbbb]Контейнер пуст.[-]
+AL_LK_QuantityStorage_EquipLiquidContainer,[bbbbbb](Для взаимодействия используйте контейнер для жидкостей)[-]
+AL_LK_QuantityStorage_EquipEmptyLiquidContainer,"[aaaaaa](Возьмите в руки пустой контейнер для жидкостей, чтобы наполнить его)[-]"
+,
+AL_LK_Format_QuantityStorage_Amount,[bbbbbb]Содержит:[-] {0}/{1} {2}
+AL_LK_Format_QuantityStorage_AmountRC,[bbbbbb]Содержит:[-] {0:0.##}/{1} {2}
+AL_LK_Format_QuantityStorage_AmountTakeOnly,[bbbbbb]Содержит:[-] {0} {1}
+AL_LK_Format_InsufficientContents,"[bbbbbb]В контейнере недостаточно[-] {0}[bbbbbb], чтобы заполнить [-] {1}[bbbbbb].[-]"
+AL_LK_Format_FillingLiquidContainerItem,[bbbbbb]Наполнение[-] {0} [bbbbbb][-] {1}[bbbbbb]...[-]
+AL_LK_Format_FillingLiquidContainerBlock,[bbbbbb]Наливание[-] {0} [bbbbbb]в[-] {1}[bbbbbb]...[-]
+AL_LK_Format_FillingItemContainer,[bbbbbb]Наполнение[-] {0} [bbbbbb][-] {1} [bbbbbb]из[-] {2}[bbbbbb]...[-]
+AL_LK_Format_FillingItemContainerPlain,[bbbbbb]Наполнение[-] {0} [bbbbbb]...[-]
+AL_LK_Format_FillingBlockContainer,[bbbbbb]Сливается[-] {0} [bbbbbb]в[-] {1}[bbbbbb]...[-]
+AL_LK_Format_Refuelling,[bbbbbb]Заправляется[-] [ffc070]{0}[-][bbbbbb]....[-]
+AL_LK_Format_EmptyingOut,[ff4040]Выливается[-] {0} [ff4040]на землю...[-]
+AL_LK_Format_QuantityContainerItemIsEmpty,[bbbbbb]Ваша[-] {0} [bbbbbb]пуста.[-]
+AL_LK_Format_QuantityContainerDifferentUnit,[bbbbbb]Нельзя смешивать [-] {0}[bbbbbb] с содержимым[-] {1} [-][bbbbbb]differ.[-]
+AL_LK_Format_QuantityContainerEmpty,[bbbbbb]В[-] {0} [bbbbbb]пусто.[-]
+AL_LK_Format_QuantityContainerItemIsFull,[bbbbbb]Ваша[-] {0} [bbbbbb]заполнена.[-]
+AL_LK_Format_ItemContainerUnitRestriction,[bbbbbb]Ваша[-] {0} [bbbbbb]не может вместить[-] {1}[bbbbbb].
+,
+AL_LK_Format_QuantityStorage_PotentialActionText,{0} [action:local:Primary] | [action:local:Secondary] {1}
+AL_LK_QuantityStorage_Action_None,[bbbbbb]Нет действий[-]{0}
+AL_LK_QuantityStorage_Action_TakingTerrainWater,[bbbbbb]Наполнить[-] {0}
+AL_LK_QuantityStorage_Action_TakingFromBlockContainer,[bbbbbb]Наполнить из[-] {0}
+AL_LK_QuantityStorage_Action_FillingBlockContainer,[bbbbbb]Слить в[-] {0}
+AL_LK_QuantityStorage_Action_FillingVehicle,[bbbbbb]Заправить[-] {0}
+AL_LK_QuantityStorage_Action_EmptyingOutItemContainer,[bbbbbb]Вылить на землю[-] {0}
+AL_LK_QuantityStorage_Action_TakingFromVehicle,[bbbbbb]Слить из[-] {0}
+AL_LK_QuantityStorage_Action_Consuming,[bbbbbb]Выпить[-] {0}
+,
+AL_LK_RainCatcherCollecting,[3ABCFF]Он собирает дождевую воду.[-]
+AL_LK_RainCatcherBlocked,[ff4040]Он расположен не под небом[-].
+,
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_Base,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_Water,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_RedTea,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_GoldenrodTea,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_Beer,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_Shiraz,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_DirtyInfectedWater,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_InfectedWater,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_DirtyWater,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_MineralWater,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_Fuel,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_Honey,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueSingle_ManukaHoney,Бочка с водой
+,
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_Base,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_Water,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_RedTea,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_GoldenrodTea,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_Beer,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_Shiraz,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_DirtyInfectedWater,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_InfectedWater,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_DirtyWater,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_MineralWater,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_Fuel,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_Honey,Бочка с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueKnockedOverDiagonal_ManukaHoney,Бочка с водой
+,
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_Base,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_Water,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_RedTea,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_GoldenrodTea,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_Beer,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_Shiraz,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_DirtyInfectedWater,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_InfectedWater,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_DirtyWater,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_MineralWater,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_Fuel,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_Honey,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadA_ManukaHoney,Бочки с водой
+,
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_Base,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_Water,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_RedTea,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_GoldenrodTea,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_Beer,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_Shiraz,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_DirtyInfectedWater,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_InfectedWater,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_DirtyWater,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_MineralWater,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_Fuel,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_Honey,Бочки с водой
+AL_Block_QuantityStorage_BarrelPlasticBlueQuadB_ManukaHoney,Бочки с водой
+,
+AL_Block_QuantityStorage_WineBarrel,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_Base,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_Water,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_RedTea,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_GoldenrodTea,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_Beer,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_Shiraz,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_DirtyInfectedWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_InfectedWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_DirtyWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_MineralWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_Fuel,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_Honey,Винная бочка
+AL_Block_QuantityStorage_WineBarrel_ManukaHoney,Винная бочка
+,
+AL_Block_QuantityStorage_WineBarrelPlain,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_Base,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_Water,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_RedTea,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_GoldenrodTea,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_Beer,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_Shiraz,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_DirtyInfectedWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_InfectedWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_DirtyWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_MineralWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_Fuel,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_Honey,Винная бочка
+AL_Block_QuantityStorage_WineBarrelPlain_ManukaHoney,Винная бочка
+,
+AL_Block_QuantityStorage_WineBarrelSet,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_Base,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_Water,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_RedTea,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_GoldenrodTea,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_Beer,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_Shiraz,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_DirtyInfectedWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_InfectedWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_DirtyWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_MineralWater,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_Fuel,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_Honey,Винная бочка
+AL_Block_QuantityStorage_WineBarrelSet_ManukaHoney,Винная бочка
+,
+AL_Block_QuantityStorage_GasPump,Бензоколонка
+AL_Block_QuantityStorage_GasPump_Base,Бензоколонка
+AL_Block_QuantityStorage_GasPump_Fuel,Бензоколонка
+AL_Block_QuantityStorage_GasBarrelSingle,Бочка с топливом
+AL_Block_QuantityStorage_GasBarrelSingle_Fuel,Бочка с топливом
+AL_Block_QuantityStorage_GasBarrelSingle45,Бочка с топливом
+AL_Block_QuantityStorage_GasBarrelSingle45_Fuel,Бочка с топливом
+AL_Block_QuantityStorage_GasBarrelQuadA,Бочки с топливом
+AL_Block_QuantityStorage_GasBarrelQuadA_Fuel,Бочки с топливом
+AL_Block_QuantityStorage_GasBarrelQuadB,Бочки с топливом
+AL_Block_QuantityStorage_GasBarrelQuadB_Fuel,Бочки с топливом
+AL_Block_QuantityStorage_GasBarrelOld,Старая бочка
+AL_Block_QuantityStorage_GasBarrelOld_Fuel,Старая бочка
+AL_Block_QuantityStorage_GenericBarrelSingle,Ржавая бочка
+AL_Block_QuantityStorage_GenericBarrelSingle_Fuel,Ржавая бочка
+AL_Block_QuantityStorage_GenericBarrelSingle45,Ржавая бочка
+AL_Block_QuantityStorage_GenericBarrelSingle45_Fuel,Ржавая бочка
+AL_Block_QuantityStorage_GenericBarrelQuadA,Ржавые бочки
+AL_Block_QuantityStorage_GenericBarrelQuadA_Fuel,Ржавые бочки
+AL_Block_QuantityStorage_GenericBarrelQuadB,Ржавые бочки
+AL_Block_QuantityStorage_GenericBarrelQuadB_Fuel,Ржавые бочки
+AL_Block_QuantityStorage_WhiteBarrelSingle,Ржавая бочка
+AL_Block_QuantityStorage_WhiteBarrelSingle_Fuel,Ржавая бочка
+AL_Block_QuantityStorage_WhiteBarrelSingle45,Ржавая бочка
+AL_Block_QuantityStorage_WhiteBarrelSingle45_Fuel,Ржавая бочка
+AL_Block_QuantityStorage_WhiteBarrelQuadA,Ржавые бочки
+AL_Block_QuantityStorage_WhiteBarrelQuadA_Fuel,Ржавые бочки
+AL_Block_QuantityStorage_WhiteBarrelQuadB,Ржавые бочки
+AL_Block_QuantityStorage_WhiteBarrelQuadB_Fuel,Ржавые бочки
+,
+AL_Block_QuantityStorage_TreeStumpMature_Honey,Пень
+AL_Block_QuantityStorage_TreeStumpMature_ManukaHoney,Пень
+,
+AL_LK_RainCatcherCollecting,[3abcff]Он собирает дождевую воду.[-]
+AL_LK_RainCatcherBlocked,[ff4040]Он расположен не под небом[-].
+AL_LK_PourIntoEmptyJars,[ffc070]Налейте[-] [bbbbbb]в[-] пустые банки
+,
+AL_LK_QuantityStorage_Format_SlashDelim,{0}/{1}
+AL_LK_QuantityStorage_Format_PourInto,[bbbbbb]Налейте в[-] [ffc070]{0}[-]
+# }}},
+,
+# Survivor Notes {{{,
+AL_Item_HintNote1,[ffc070]Ароматная записка[-]
+AL_Item_HintNote2,[ffc070]Слегка обгоревшая записка[-]
+AL_Item_HintNote3,[ffc070]Записка кузнеца №1[-]
+AL_Item_HintNote4,[ffc070]Записка кузнеца №2[-]
+AL_Item_HintNote5,[ffc070]Записка кузнеца №3[-]
+AL_Item_HintNote6,[ffc070]Мокрая записка[-]
+AL_Item_HintNote7,[ffc070]Записка шахтёра[-]
+,
+AL_Item_HintNote1Desc,"Записка, испещрённая каракулями и беспорядочным текстом."
+AL_Item_HintNote2Desc,"Записка, написанная довольно аккуратным и опрятным почерком."
+AL_Item_HintNote3Desc,"Записка, написанная каким-то довольно броским почерком."
+AL_Item_HintNote4Desc,"Записка, написанная каким-то довольно броским почерком."
+AL_Item_HintNote5Desc,"Записка, написанная каким-то довольно броским почерком."
+AL_Item_HintNote6Desc,Записка с едва заметными царапинами на ней.
+AL_Item_HintNote7Desc,"Хорошо написанная записка, хотя бумага довольно грязная."
+,
+AL_LK_HintNote1_title,[ffc070]Ароматная записка[-]
+AL_LK_HintNote2_title,[ffc070]Слегка обгоревшая записка[-]
+AL_LK_HintNote3_title,[ffc070]Записка кузнеца №1[-]
+AL_LK_HintNote4_title,[ffc070]Записка кузнеца №2[-]
+AL_LK_HintNote5_title,[ffc070]Записка кузнеца №3[-]
+AL_LK_HintNote6_title,[ffc070]Мокрая записка[-]
+AL_LK_HintNote7_title,[ffc070]Записка шахтёра[-]
+,
+AL_LK_HintNote1,"[808080]Вы читаете бессвязный текст в поисках полезной информации... [-]\n\nЭти идиоты просто не хотят меня слушать. Они согласны с тем, что мёд помогает замедлить развитие инфекции, спасибо, блядь, но ОЧЕВИДНО не думают, что не превратиться в чёртова мозгоглотателя важнее, чем получить чуть больше древесины, выкорчёвывая пень после того, как срубили дерево. Я имею в виду, откуда, по их мнению, блядь, берётся мёд? С ёбаной луны? Они ещё пожалеют об этом, когда один из нас сожрёт другого на завтрак."
+,
+AL_LK_HintNote2,"[808080]Вы читаете текст в поисках полезной информации...[-]\n\nМои товарищи настаивают, что мы не должны держать факелы горящими, потому что они привлекают зомби. Не знаю, как эта идея появилась, но это полная чушь. Чёрт возьми, мы сожгли этот чёртов дом несколько дней назад, и почему-то ни один зомби не появился."
+,
+AL_LK_HintNote3,"[808080]Вы просматриваете текст в поисках полезной информации...[-]\n\nСейчас наше королевство очень нуждается в таких людях, как я. Ковка »средневекового« оружия, в моей жизни считавшаяся не более чем увлечением, радующим косплееров и ютуберов по средневековой истории, теперь стала вопросом жизни и смерти. Как бы то ни было, я пишу ещё одну из этих заметок, обучающих кузнечному делу, в котором я, несомненно, величайший из одарённых на этой земле. Если кто-то попытается заняться подобной работой, чтобы эффективнее истреблять этих монстров, прислушайтесь к моим словам. Чтобы плавить руду и обрабатывать металл, простого дерева не хватит. Для того чтобы выплавлять и обрабатывать железо, вам понадобится уголь. Да, именно уголь, и не древесный, причем добыть его не так уж и сложно. Иногда его можно найти в здешних лесах. Вот и весь мой урок, пока что.[-]"
+,
+AL_LK_HintNote4,"[808080] Вы всматриваетесь в сумбурный текст...[-]\n\n Эта территория металлолома и клейкой ленты вызывает у меня ностальгию по временам идеальной стали и экзотических сверхпрочных сплавов. В наши дни изготовить сталь самостоятельно довольно сложно... Возможно, настало время воскресить наш древнейший сплав - бронзу. Её гораздо легче выплавлять, и я видел руды, из которых её можно добыть во время сбора в лесу... В основном это халькопирит и касситерит. Да... Это может оказаться стоящим делом..."
+,
+AL_LK_HintNote5,"[808080]Вы просматриваете текст в поисках полезной информации...[-]\n\nИ снова я переношу свой богатый опыт на бумагу - ничтожный сосуд для такого величия. Тем не менее, путешественник, знай, что этот учебный материал даёт тебе ценные знания по более отдалённым и интересным рудам и видам топлива. В царстве песка и жара вы найдёте свинец, который обычно используется для производства боеприпасов, применяемых в огнестрельном оружии. В царстве снега и холода вы найдёте адское топливо - разновидность высококачественного угля, известную как антрацит. Также в этом ледяном царстве, если вам посчастливится, вы сможете найти хромитовую руду, являющуюся компонентом многих прочных сплавов. В землях... разрушения вы можете наткнуться на зеленоватую руду, известную как гарниерит. В кузнице, при условии, конечно, достаточного количества тепла, гарниерит даст никель, ещё один компонент мощных сплавов. Теперь, когда вы знаете, что там есть, я желаю вам удачи в поисках, пробиваясь сквозь орды нежити, чтобы получить то, с чем вы сможете пробиваться еще сильнее. Счастливого пути, путешественник."
+,
+AL_LK_HintNote6,"[808080]Вы стараетесь изо всех сил прочитать каракули на странице...[-]\n\nДа, конечно, вода заражена, мы все это знаем, но почему они сидят у костра и говорят, что хотят пить, когда прямо снаружи сам Бог льет чистую воду нам на головы. Выйдите на улицу, посмотрите вверх, откройте рот."
+,
+AL_LK_HintNote7,"[808080]Вы внимательно изучаете записку в поисках полезной информации...\n\nЯ думаю, что мой новый работодатель долго не протянет. Мне лучше начать искать другую работу. Они просто неконкурентоспособны. Они даже не плавят свою руду на месте! Я имею в виду, конечно, их плавильное производство впечатляет, и я полагаю, что они вложили в него средства и хотят его использовать, но то, как они это делают, означает, что они просто отправляют тонны бесполезной породы на свалку после завершения плавки."
+# }}},
+,
+# Third Party POIs {{{,
+Zap_Arcade_Voltralux,Игровые автоматы Zap
+MafiaMuseum_Voltralux,Музей Мафия
+house_atomic_01_Voltralux,Дом выживальщика
+Boxing_Gym_Voltralux,Боксерский зал «Мистер»
+GunShopKendo_Voltralux,Оружейный магазин Кендо
+# }}},
+,
+AL_LK_BuildBlock,Построить/обновить блок
+,
+# CVar Effects,
+AL_CVarEffect_WeightLimitStrength,Максимальный вес
+,
+# Instructional Journal Entries,
+AL_LK_GuideVitality_title,[ffc070]Руководство по жизнестойкости[-]
+AL_LK_GuideVitality,"[ff4040]Afterlife[-] имеет дополнительный атрибут, известный как [ffc070]жизнестойкость[-], представленный среди других символов статов (в левом нижнем углу интерфейса) символом кадуцея - крылатого посоха, опутанного двумя змеями.[-]\n\nЖизнестойкость - это абстракция общего физического и психического состояния вашего персонажа. Как таковая, она оказывает широкое влияние на персонажа, влияя на максимальное здоровье, регенерацию здоровья, максимальную выносливость, регенерацию выносливости, скорость атаки и скорость развития зомби-инфекции. При уровне выше 50% эффект положительный, а при уровне ниже 50% - отрицательный.\n\nПо причине широкого воздействия, в начале игры игрок получает бафф »Оптимизм«, который устанавливает минимально возможный уровень жизнестойкости. Он начинается со 100% и уменьшается до нуля в течение семи дней. Используйте это время, чтобы инвестировать в способы поддержания жизнестойкости!\n\nОсновным фактором, снижающим вашу жизнестойкость, будет атмосфера мира. Другие факторы, снижающие жизнестойкость, включают недостаток пищи и воды, боевые действия, присутствие зомби, сырость, прямое воздействие дождя, незалеченные травмы, алкогольную абстиненцию, пищевое отравление и смерть. Некоторые из этих эффектов могут быть напрямую ослаблены с помощью таких преимуществ, как умение »Выживший«\n\nНекоторые эффекты, положительно влияющие на жизнестойкость, включают в себя отдых, выпивку, поддержание уюта вокруг вас, питание с помощью витаминов и нахождение рядом с другими игроками. Время от времени вы будете получать бафф »Захотелось«, требующий определенного действия, обычно потребления какого-либо предмета. Когда желание будет выполнено, вы сразу же получите большой запас жизнестойкости."
+,
+AL_LK_GuideSmelting_title,[ffc070]Руководство по плавке и металлолому[-]
+AL_LK_GuideSmelting,"Выплавка в [ff4040]Afterlife[-] немного сложнее, чем в немодифицированной 7 Days To Die. Для любой плавки требуется, чтобы в кузнице было достаточно 'тепла' для целевого металла. Текущий уровень тепла в кузнице можно увидеть с помощью индикатора 'Тепло' в окне топлива кузницы. \n\n Многие выплавляемые металлические предметы могут быть проверены на предмет требуемого уровня тепла, а топливные предметы (например, древесный уголь, уголь, антрацит) могут быть проверены на предмет того, какой уровень тепла они производят. \n\n Например, чтобы выплавить железную руду, вам нужен уровень тепла 3. Всё обычное древесное топливо даёт уровень тепла 1, поэтому, хотя деревянные поленья отлично подходят для поддержания огня, они не слишком хороши для выплавки. Для выплавки железа обычно используется уголь, который можно собрать в биоме соснового леса. Древесный уголь, наоборот, даёт уровень тепла 2, что хватает только для плавки олова и меди (например, для производства бронзы), но недостаточно для железа. \n\n Что касается металлолома, то этот ресурс представляет собой абстракцию из различных металлов, состав которых точно не известен. Когда металлолом выплавляют в кузнице, он преобразуется в другие металлы случайным образом, причём шанс получения каждого металла зависит от того, насколько он распространён в мире. Когда это происходит, нагрев кузницы проверяется на соответствие случайно выбранному металлу. Если тепла недостаточно, образуется предмет под названием 'шлак', означающий неудачную плавку. Шлак может быть снова подан в кузницу и работает так же, как и металлолом. Следовательно, если вы хотите получить из металлолома определенный металл, вам следует убедиться, что в вашей кузнице достаточно тепла, чтобы выплавить этот металл."
+,
+# Vitality Summary Buff,
+AL_Buff_VitalitySummaryName,[ffc070]Сводка показателей жизнестойкости (ЖС)[-]
+AL_LK_MaxHealth,Макс. здоровье
+AL_LK_MaxStamina,Макс. выносливость
+AL_LK_HealthRegen,Регенерация здоровья
+AL_LK_AttackSpeed,Скорость атаки (%)
+AL_LK_HealthRegenPerc,Регенерация здоровья (%)
+AL_LK_StaminaRegenPerc,Регенерация выносливости (%)
+AL_LK_ZInfectionRate,Уровень заражения Z-инфекцией (%)
+AL_LK_VitalityChangeRGB,[ffc070]Изменение жизнестойкости[-]
+AL_LK_PerMinute,в минуту
